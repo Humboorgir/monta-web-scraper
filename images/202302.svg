@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.76194cm" height="2.46cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1756 1564"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:26.8313;stroke-linejoin:round}
+    .str0 {stroke:black;stroke-width:11.8326;stroke-linejoin:round}
+    .str2 {stroke:black;stroke-width:11.8326;stroke-linejoin:round;stroke-dasharray:59.162973 35.497784}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:165.643px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:189.308px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="1756" height="1564"/>
+  <line class="fil0 str0" x1="141" y1="212" x2="141" y2= "1520" />
+  <line class="fil0 str0" x1="141" y1="936" x2="1639" y2= "936" />
+  <text x="1671" y="973"  class="fil1 fnt0">t</text>
+  <text x="96" y="146"  class="fil1 fnt0">a</text>
+  <text x="498" y="812"  class="fil1 fnt0">t</text>
+  <text x="538" y="844"  class="fil1 fnt1">1</text>
+  <text x="922" y="821"  class="fil1 fnt0">t</text>
+  <text x="978" y="853"  class="fil1 fnt1">2</text>
+  <line class="fil0 str1" x1="141" y1="936" x2="541" y2= "936" />
+  <line class="fil0 str1" x1="939" y1="936" x2="1324" y2= "936" />
+  <line class="fil0 str2" x1="541" y1="936" x2="541" y2= "1327" />
+  <line class="fil0 str2" x1="939" y1="936" x2="939" y2= "1327" />
+  <line class="fil0 str1" x1="535" y1="1317" x2="945" y2= "1317" />
+  <text x="1306" y="1116"  class="fil1 fnt0">t</text>
+  <text x="1380" y="1149"  class="fil1 fnt1">3</text>
+ </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.14423cm" height="3.5cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1029 1146"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:5.89555}
+    .str1 {stroke:black;stroke-width:5.89555;stroke-dasharray:29.477753 17.686652}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:106.113px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:106.113px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="152" y1="128" x2="152" y2= "1133" />
+  <text x="50" y="92"  class="fil1 fnt0">x(m)</text>
+  <text x="873" y="1000"  class="fil1 fnt0">t(s)</text>
+  <line class="fil0 str0" x1="152" y1="974" x2="842" y2= "974" />
+  <text x="219" y="1049"  class="fil1 fnt1">1</text>
+  <text x="46" y="991"  class="fil1 fnt1">0</text>
+  <text x="415" y="1049"  class="fil1 fnt1">3</text>
+  <text x="-1" y="465"  class="fil1 fnt1">20</text>
+  <text x="-1" y="258"  class="fil1 fnt1">24</text>
+  <polyline class="fil0 str1" points="152,445 249,445 249,974 "/>
+  <polyline class="fil0 str1" points="152,237 448,237 448,974 "/>
+  <path class="fil0 str0" d="M152 694c237,-720 451,-589 641,393"/>
+  <rect class="fil0" width="1029" height="1146"/>
+ </g>
+</svg>

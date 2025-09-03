@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.01964cm" height="3.82cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 11365 10801"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:50.8538}
+    .str2 {stroke:#ED3237;stroke-width:50.8538}
+    .str1 {stroke:#373435;stroke-width:50.8538;stroke-dasharray:254.269006 152.561404}
+    .fil0 {fill:none}
+    .fil1 {fill:#373435}
+    .fnt2 {font-weight:normal;font-size:797.92px;font-family:'B Nazanin'}
+    .fnt0 {font-weight:normal;font-size:813.603px;font-family:'B Nazanin'}
+    .fnt3 {font-weight:normal;font-size:915.311px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:915.311px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="1667,1876 1667,9328 7734,9328 "/>
+  <polyline class="fil0 str1" points="1651,7887 2689,7887 2689,9351 "/>
+  <polyline class="fil0 str1" points="1701,3493 5820,3493 5820,9308 "/>
+  <line class="fil0 str2" x1="2689" y1="7887" x2="5820" y2= "3493" />
+  <g transform="matrix(0.99539 0 0 1 2323.4 -32244.4)">
+   <text x="2010" y="33378"  class="fil1 fnt0">سرعت</text>
+  </g>
+  <g transform="matrix(0.99539 0 0 1 -824.553 -32172.6)">
+   <text x="2010" y="33378"  class="fil1 fnt0">متر بر ثانیه</text>
+  </g>
+  <text x="3937" y="1287"  class="fil1 fnt1">)</text>
+  <g transform="matrix(-1 -0 0 1 3068.84 -32090.9)">
+   <text x="2010" y="33378"  class="fil1 fnt1">)</text>
+  </g>
+  <g transform="matrix(0.99539 0 0 1 7837.49 -24031.6)">
+   <text x="2010" y="33378"  class="fil1 fnt2">زمان</text>
+  </g>
+  <g transform="matrix(0.99539 0 0 1 6299.71 -23948.4)">
+   <text x="2010" y="33378"  class="fil1 fnt0">ثانیه</text>
+  </g>
+  <text x="9450" y="9511"  class="fil1 fnt1">)</text>
+  <g transform="matrix(-1 -0 0 1 10193.1 -23866.7)">
+   <text x="2010" y="33378"  class="fil1 fnt1">)</text>
+  </g>
+  <text x="333" y="3513"  class="fil1 fnt3">36</text>
+  <text x="294" y="7944"  class="fil1 fnt3">10</text>
+  <g transform="matrix(0.993319 0 0 1 428.019 -23345.1)">
+   <text x="2010" y="33378"  class="fil1 fnt3">5</text>
+  </g>
+  <g transform="matrix(0.993319 0 0 1 3596.49 -23345.1)">
+   <text x="2010" y="33378"  class="fil1 fnt3">25</text>
+  </g>
+  <rect class="fil0" width="11365" height="10801"/>
+ </g>
+</svg>

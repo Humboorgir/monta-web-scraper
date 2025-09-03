@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.51896cm" height="1.73303cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1226 604"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#EC268F;stroke-width:12.2879}
+    .str2 {stroke:black;stroke-width:6.14393}
+    .str1 {stroke:black;stroke-width:6.14393;stroke-dasharray:29.486682 29.486682}
+    .fil4 {fill:none}
+    .fil1 {fill:none;fill-rule:nonzero}
+    .fil3 {fill:black}
+    .fil2 {fill:black;fill-rule:nonzero}
+    .fil0 {fill:#B3B3B3;fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:110.584px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+    <clipPath id="id0" style="clip-rule:nonzero">
+     <path d="M481 332c0,97 -78,175 -175,175 -97,0 -175,-78 -175,-175 0,-97 78,-175 175,-175 97,0 175,78 175,175z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="23,574 1202,574 1202,507 23,507 "/>
+  <g>
+   <g style="clip-path:url(#id0)">
+    <image x="131" y="157" width="350" height="350" xlink:href="14_Images\14_ImgID1.png"/>
+   </g>
+   <path class="fil1 str0" d="M481 332c0,97 -78,175 -175,175 -97,0 -175,-78 -175,-175 0,-97 78,-175 175,-175 97,0 175,78 175,175z"/>
+  </g>
+  <path class="fil1 str1" d="M481 325l-350 0m175 -168l0 350"/>
+  <path class="fil2" d="M317 155c0,6 -5,11 -11,11 -6,0 -11,-5 -11,-11 0,-6 5,-11 11,-11 6,0 11,5 11,11z"/>
+  <path class="fil1 str2" d="M400 133c45,14 84,45 106,87"/>
+  <polygon class="fil2" points="486,216 503,215 514,202 516,243 "/>
+  <text x="266" y="119"  class="fil3 fnt0">A</text>
+  <rect class="fil4" width="1226" height="604"/>
+ </g>
+</svg>

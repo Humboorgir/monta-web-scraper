@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.7904cm" height="3.55cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1234 914"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#373435;stroke-width:4.64614}
+    .str0 {stroke:black;stroke-width:4.64614}
+    .str3 {stroke:red;stroke-width:4.64614}
+    .str2 {stroke:#373435;stroke-width:4.64614;stroke-dasharray:23.230711 13.938426}
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+    .fnt1 {font-weight:normal;font-size:65.0407px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:74.333px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="57" y="64"  class="fil0 fnt0">x</text>
+  <text x="1186" y="622"  class="fil0 fnt0">t</text>
+  <line class="fil1 str0" x1="75" y1="76" x2="75" y2= "914" />
+  <line class="fil1 str0" x1="1160" y1="606" x2="0" y2= "606" />
+  <line class="fil1 str1" x1="75" y1="606" x2="408" y2= "606" />
+  <line class="fil1 str2" x1="908" y1="458" x2="75" y2= "458" />
+  <path class="fil1 str3" d="M75 392c30,-55 56,-183 116,-183 98,0 183,580 257,580 63,0 77,-183 128,-183 54,0 57,183 120,183 65,0 134,-331 206,-331 47,0 69,71 94,148"/>
+  <text x="1005" y="707"  class="fil0 fnt1">1</text>
+  <text x="984" y="692"  class="fil0 fnt0">t</text>
+  <circle class="fil0" cx="996" cy="606" r="11"/>
+  <rect class="fil1" width="1234" height="864"/>
+ </g>
+</svg>

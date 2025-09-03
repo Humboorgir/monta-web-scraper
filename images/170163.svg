@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.75786cm" height="4.11cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1570 1356"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:red;stroke-width:6.69256}
+    .str2 {stroke:black;stroke-width:5.90284}
+    .str1 {stroke:black;stroke-width:5.90284;stroke-dasharray:29.514206 17.708524}
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+    .fnt1 {font-weight:normal;font-size:106.244px;font-family:'B Nazanin'}
+    .fnt2 {font-weight:normal;font-size:106.244px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:106.244px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="394" y="123"  class="fil0 fnt0">m</text>
+  <text x="355" y="124"  class="fil0 fnt0">(</text>
+  <g transform="matrix(-1 -0 0 1 2903.27 39.8442)">
+   <text x="2379" y="84"  class="fil0 fnt0">(</text>
+  </g>
+  <polyline class="fil1 str0" points="549,1270 943,887 289,273 "/>
+  <line class="fil1 str1" x1="549" y1="273" x2="290" y2= "273" />
+  <text x="1232" y="1295"  class="fil0 fnt0">m</text>
+  <text x="1192" y="1296"  class="fil0 fnt0">(</text>
+  <g transform="matrix(-1 -0 0 1 3740.41 1211.73)">
+   <text x="2379" y="84"  class="fil0 fnt0">(</text>
+  </g>
+  <text x="550" y="113"  class="fil0 fnt1">مسافت</text>
+  <text x="1384" y="1284"  class="fil0 fnt1">مکان</text>
+  <text x="573" y="292"  class="fil0 fnt2">26</text>
+  <text x="412" y="569"  class="fil0 fnt2">16</text>
+  <rect class="fil1" width="1570" height="1356"/>
+  <line class="fil1 str2" x1="1142" y1="1270" x2="58" y2= "1270" />
+  <line class="fil1 str2" x1="549" y1="1270" x2="549" y2= "162" />
+ </g>
+</svg>

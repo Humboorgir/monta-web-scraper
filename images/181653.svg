@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.55111cm" height="3.7cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 613 639"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:3.31503}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:53.0367px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="25,446 313,68 585,446 "/>
+  <line class="fil0 str0" x1="313" y1="68" x2="313" y2= "631" />
+  <polygon class="fil0 str0" points="313,290 215,197 406,197 "/>
+  <polygon class="fil0 str0" points="313,518 96,354 518,354 "/>
+  <text x="264" y="325"  class="fil1 fnt0">B</text>
+  <text x="157" y="206"  class="fil1 fnt0">A</text>
+  <text x="294" y="48"  class="fil1 fnt0">O</text>
+  <text x="430" y="205"  class="fil1 fnt0">C</text>
+  <text x="252" y="564"  class="fil1 fnt0">Bˊ</text>
+  <text x="547" y="372"  class="fil1 fnt0">Cˊ</text>
+  <text x="25" y="368"  class="fil1 fnt0">Aˊ</text>
+  <rect class="fil0" width="613" height="639"/>
+ </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.92136cm" height="3.52cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 11921 8527"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:red;stroke-width:49.1085}
+    .str0 {stroke:black;stroke-width:43.3137}
+    .str1 {stroke:black;stroke-width:43.3137;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:216.568550 129.941130}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:606.343px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:692.97px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="690" y1="8388" x2="690" y2= "1129" />
+  <line class="fil0 str0" x1="690" y1="5738" x2="11003" y2= "5738" />
+  <line class="fil0 str1" x1="3156" y1="5861" x2="3156" y2= "7255" />
+  <line class="fil0 str1" x1="6805" y1="1482" x2="6805" y2= "5648" />
+  <path class="fil0 str2" d="M690 4303c489,1129 978,2259 1658,2759 680,499 1552,368 2175,-499 623,-866 997,-2467 1337,-3541 340,-1075 646,-1622 966,-1603 320,18 654,604 879,1261 224,657 338,1386 476,1907 139,522 302,837 547,994 246,157 574,157 802,11 228,-146 356,-439 485,-731"/>
+  <text x="11195" y="5884"  class="fil1 fnt0">t</text>
+  <text x="9024" y="6430"  class="fil1 fnt0">t</text>
+  <text x="9320" y="6509"  class="fil1 fnt1">5</text>
+  <text x="5194" y="6627"  class="fil1 fnt1">3</text>
+  <text x="4945" y="6552"  class="fil1 fnt0">t</text>
+  <text x="6926" y="6592"  class="fil1 fnt1">4</text>
+  <text x="6656" y="6479"  class="fil1 fnt0">t</text>
+  <text x="3095" y="5512"  class="fil1 fnt1">2</text>
+  <text x="2909" y="5380"  class="fil1 fnt0">t</text>
+  <text x="1274" y="6639"  class="fil1 fnt1">1</text>
+  <text x="1174" y="6534"  class="fil1 fnt0">t</text>
+  <text x="493" y="841"  class="fil1 fnt0">v</text>
+  <rect class="fil0" width="11921" height="8527"/>
+ </g>
+</svg>

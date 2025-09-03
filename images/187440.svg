@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.23878cm" height="2.45cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2347 1357"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:10.2782}
+    .str1 {stroke:black;stroke-width:10.2782;stroke-linejoin:round}
+    .fil0 {fill:none}
+    .fil2 {fill:black}
+    .fil3 {fill:black}
+    .fil1 {fill:white}
+    .fnt1 {font-weight:normal;font-size:164.44px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:164.44px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="2132,1105 1650,242 203,1105 "/>
+  <polyline class="fil0 str1" points="1289,459 1649,1106 2011,889 "/>
+  <rect class="fil1 str0" transform="matrix(0.206091 0.353952 -0.353952 0.206091 1988.58 854.103)" width="102" height="102"/>
+  <rect class="fil1 str0" transform="matrix(0.206091 0.353952 -0.353952 0.206091 1326.22 436.38)" width="102" height="102"/>
+  <rect class="fil1 str0" transform="matrix(0.206091 0.353952 -0.353952 0.206091 1650.17 242.879)" width="102" height="102"/>
+  <text x="1592" y="197"  class="fil2 fnt0">A</text>
+  <text x="1230" y="401"  class="fil2 fnt0">E</text>
+  <text x="2051" y="863"  class="fil2 fnt0">D</text>
+  <text x="2186" y="1135"  class="fil2 fnt0">C</text>
+  <text x="1592" y="1274"  class="fil2 fnt0">H</text>
+  <text x="65" y="1135"  class="fil2 fnt0">B</text>
+  <text x="1904" y="1258"  class="fil2 fnt1">3</text>
+  <text x="820" y="1258"  class="fil2 fnt1">12</text>
+  <rect class="fil0" width="2347" height="1357"/>
+  <line class="fil0 str0" x1="1650" y1="242" x2="1650" y2= "1105" />
+  <rect class="fil3 str0" x="1651" y="1050" width="53.9433" height="53.9433"/>
+ </g>
+</svg>

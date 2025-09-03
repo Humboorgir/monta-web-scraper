@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.86728cm" height="2cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3075 2145"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:17.9629}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:337.965px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="857" y1="1761" x2="2860" y2= "1761" />
+  <line class="fil0 str0" x1="332" y1="607" x2="2335" y2= "607" />
+  <line class="fil0 str0" x1="332" y1="607" x2="857" y2= "1761" />
+  <line class="fil0 str0" x1="2335" y1="607" x2="2860" y2= "1761" />
+  <line class="fil0 str0" x1="857" y1="1761" x2="857" y2= "607" />
+  <line class="fil0 str0" x1="857" y1="1761" x2="2516" y2= "1006" />
+  <rect class="fil0 str0" transform="matrix(-0.759765 0.345811 -0.345811 -0.759765 2564.15 1110.3)" width="141" height="138"/>
+  <rect class="fil0 str0" x="737" y="607" width="120" height="119"/>
+  <text x="736" y="2067"  class="fil1 fnt0">A</text>
+  <text x="42" y="607"  class="fil1 fnt0">B</text>
+  <text x="2351" y="602"  class="fil1 fnt0">C</text>
+  <text x="2774" y="2067"  class="fil1 fnt0">D</text>
+  <text x="2658" y="1037"  class="fil1 fnt0">H</text>
+  <text x="732" y="485"  class="fil1 fnt0">H</text>
+  <line class="fil0 str0" x1="1101" y1="122" x2="1012" y2= "201" />
+  <line class="fil0" x1="551" y1="0" x2="1157" y2= "0" />
+  <line class="fil0" x1="738" y1="2145" x2="1344" y2= "2145" />
+  <line class="fil0" x1="0" y1="686" x2="0" y2= "1159" />
+  <line class="fil0" x1="3075" y1="1443" x2="3075" y2= "1916" />
+ </g>
+</svg>

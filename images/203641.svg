@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.84884cm" height="1.5cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 7587 2347"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:29.1134}
+    .fil3 {fill:none}
+    .fil2 {fill:black}
+    .fil1 {fill:black}
+    .fil0 {fill:black;fill-rule:nonzero}
+    .fnt1 {font-weight:normal;font-size:465.782px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:465.782px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <path class="fil0" d="M6788 794l-6668 0 0 -29 6668 0 0 29zm207 -15l-249 107 3 -7 3 -7 3 -6 2 -7 3 -6 2 -7 2 -7 2 -6 1 -7 2 -7 1 -6 1 -7 0 -7 1 -6 0 -7 0 -7 0 -6 0 -7 -1 -7 0 -6 -1 -7 -1 -7 -2 -6 -1 -7 -2 -7 -2 -6 -2 -7 -3 -7 -2 -6 -3 -7 -3 -7 -3 -6 0 0 249 106z"/>
+  </g>
+  <circle class="fil1 str0" cx="6098" cy="779" r="80"/>
+  <circle class="fil1 str0" cx="3921" cy="779" r="80"/>
+  <circle class="fil1 str0" cx="2855" cy="779" r="80"/>
+  <g>
+   <path class="fil0" d="M4001 1337l249 -106 0 0 -3 6 -3 7 -3 7 -2 6 -3 7 -2 7 -2 6 -2 7 -1 7 -2 6 -1 7 -1 7 -1 6 0 7 0 7 0 6 0 7 0 7 0 6 1 7 1 7 1 6 2 7 1 7 2 6 2 7 2 7 3 6 2 7 3 7 3 6 3 7 -249 -107zm1854 15l-1647 0 0 -29 1647 0 0 29zm207 -15l-250 107 4 -7 3 -6 3 -7 2 -7 3 -6 2 -7 2 -7 1 -6 2 -7 1 -7 2 -6 0 -7 1 -7 1 -6 0 -7 0 -7 0 -6 0 -7 -1 -7 -1 -6 0 -7 -2 -7 -1 -6 -2 -7 -1 -7 -2 -6 -2 -7 -3 -7 -2 -6 -3 -7 -3 -7 -4 -6 0 0 250 106z"/>
+  </g>
+  <text x="2688" y="1432"  class="fil2 fnt0">O</text>
+  <text x="3754" y="476"  class="fil2 fnt0">A</text>
+  <text x="5931" y="476"  class="fil2 fnt0">B</text>
+  <text x="7164" y="884"  class="fil2 fnt0">x</text>
+  <text x="4350" y="1959"  class="fil2 fnt1">160</text>
+  <text x="5257" y="1979"  class="fil2 fnt0">m</text>
+  <rect class="fil3" width="7587" height="2347"/>
+ </g>
+</svg>

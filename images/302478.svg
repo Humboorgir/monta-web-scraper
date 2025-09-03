@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.17513cm" height="2.52413cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2914 1762"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#96989A;stroke-width:12.3117}
+    .str1 {stroke:#373435;stroke-width:20.8057;stroke-linejoin:round}
+    .fil0 {fill:none}
+    .fil1 {fill:none;fill-rule:nonzero}
+    .fil2 {fill:black}
+    .fnt1 {font-weight:normal;font-size:184.662px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:221.597px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+    <clipPath id="id0" style="clip-rule:nonzero">
+     <path d="M1223 1089l-304 558 885 0 0 -9 -581 -549 0 0z"/>
+    </clipPath>
+    <clipPath id="id1" style="clip-rule:nonzero">
+     <path d="M567 1089l656 0 0 0 -434 -412 -222 412z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="1508" y1="677" x2="1373" y2= "815" />
+  <line class="fil0 str0" x1="1575" y1="732" x2="1242" y2= "1055" />
+  <line class="fil0 str0" x1="1533" y1="707" x2="1314" y2= "926" />
+  <line class="fil0 str0" x1="1597" y1="760" x2="1272" y2= "1089" />
+  <line class="fil0 str0" x1="1630" y1="788" x2="1338" y2= "1089" />
+  <line class="fil0 str0" x1="1660" y1="814" x2="1385" y2= "1089" />
+  <line class="fil0 str0" x1="1694" y1="842" x2="1446" y2= "1089" />
+  <line class="fil0 str0" x1="1727" y1="869" x2="1510" y2= "1086" />
+  <line class="fil0 str0" x1="1759" y1="896" x2="1566" y2= "1089" />
+  <line class="fil0 str0" x1="1790" y1="922" x2="1630" y2= "1083" />
+  <line class="fil0 str0" x1="1820" y1="947" x2="1678" y2= "1089" />
+  <line class="fil0 str0" x1="1852" y1="974" x2="1742" y2= "1089" />
+  <line class="fil0 str0" x1="1886" y1="1002" x2="1799" y2= "1089" />
+  <line class="fil0 str0" x1="1917" y1="1029" x2="1859" y2= "1087" />
+  <line class="fil0 str0" x1="1950" y1="1057" x2="1913" y2= "1094" />
+  <g>
+   <g style="clip-path:url(#id0)">
+    <image x="919" y="1089" width="885" height="558" xlink:href="5.svg_Images\5.svg_ImgID1.png"/>
+   </g>
+  </g>
+  <g>
+   <g style="clip-path:url(#id1)">
+    <image x="567" y="677" width="656" height="412" xlink:href="5.svg_Images\5.svg_ImgID2.png"/>
+   </g>
+  </g>
+  <polyline class="fil1 str1" points="1989,1089 1464,649 1009,268 789,677 567,1089 "/>
+  <polyline class="fil1 str1" points="567,1089 266,1647 919,1647 1804,1647 2656,1647 1990,1089 "/>
+  <polyline class="fil1 str1" points="789,677 1223,1089 1223,1089 1804,1638 "/>
+  <polyline class="fil1 str1" points="1461,653 1223,1089 1223,1089 919,1647 "/>
+  <polyline class="fil1 str1" points="567,1089 567,1089 1223,1089 1223,1089 1989,1089 1990,1089 "/>
+  <text x="931" y="211"  class="fil2 fnt0">A</text>
+  <text x="58" y="1695"  class="fil2 fnt0">B</text>
+  <text x="2718" y="1695"  class="fil2 fnt0">C</text>
+  <text x="1121" y="957"  class="fil2 fnt0">O</text>
+  <text x="758" y="957"  class="fil2 fnt0">S</text>
+  <text x="853" y="1037"  class="fil2 fnt1">1</text>
+  <text x="1424" y="922"  class="fil2 fnt0">S</text>
+  <text x="1518" y="1002"  class="fil2 fnt1">2</text>
+  <text x="1199" y="1474"  class="fil2 fnt0">S</text>
+  <text x="1330" y="1554"  class="fil2 fnt1">3</text>
+  <rect class="fil0" width="2914" height="1762"/>
+ </g>
+</svg>

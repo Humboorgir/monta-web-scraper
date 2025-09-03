@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="45.9318mm" height="39.9521mm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 12305.2 10703.2"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:47.3;stroke-miterlimit:2.61313}
+    .str1 {stroke:black;stroke-width:47.3;stroke-miterlimit:2.61313;stroke-dasharray:236.289299 141.773580}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:850.6px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:850.6px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="1836.8" y1="1068.1" x2="1836.8" y2= "10444.7" />
+  <line class="fil0 str0" x1="1836.7" y1="5631.3" x2="10714.4" y2= "5631.3" />
+  <polyline class="fil0 str0" points="1836.7,3344.9 5557.5,9263.4 9515.8,5632.9 "/>
+  <text x="11023.8" y="5836.3"  class="fil1 fnt0">t(s)</text>
+  <text x="740.1" y="800.8"  class="fil1 fnt0">v(m/s)</text>
+  <line class="fil0 str1" x1="5557.6" y1="9276.7" x2="1836.8" y2= "9276.7" />
+  <text x="1165.4" y="3413.6"  class="fil1 fnt1">6</text>
+  <text x="1165.6" y="5769.5"  class="fil1 fnt1">0</text>
+  <text x="666.2" y="9436.6"  class="fil1 fnt1">12</text>
+  <text x="9388.8" y="6316"  class="fil1 fnt1">20</text>
+  <text x="189.5" y="9412.8"  class="fil1 fnt1">-</text>
+  <rect class="fil0" x="-0" y="-0" width="12305.2" height="10703.2"/>
+ </g>
+</svg>

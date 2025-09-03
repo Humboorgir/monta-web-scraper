@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.82984cm" height="2.8cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1386.59 1013.74"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:6.5;stroke-miterlimit:2.61313}
+    .str1 {stroke:black;stroke-width:6.5;stroke-miterlimit:2.61313;stroke-dasharray:32.493732 19.496239}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:116.97px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:116.97px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="1114,880.14 111.44,880.14 111.44,173.48 "/>
+  <polyline class="fil0 str1" points="768.47,880.14 768.47,621.23 111.44,621.23 "/>
+  <path class="fil0 str0" d="M111.44 880.14c262.53,-568.46 533.45,-568.46 812.77,0"/>
+  <text x="160.58" y="116.41"  class="fil1 fnt0">(</text>
+  <g transform="matrix(-1 -0 0 1 2262.88 -4483.15)">
+   <text x="1914.92" y="4600.32"  class="fil1 fnt0">(</text>
+  </g>
+  <text x="74.92" y="115.18"  class="fil1 fnt0">x</text>
+  <text x="212.33" y="115.18"  class="fil1 fnt0">m</text>
+  <text x="1206.83" y="900.47"  class="fil1 fnt0">(</text>
+  <g transform="matrix(-1 -0 0 1 3277.45 -3699.84)">
+   <text x="1914.92" y="4600.32"  class="fil1 fnt0">(</text>
+  </g>
+  <text x="1153.91" y="906.67"  class="fil1 fnt0">t</text>
+  <text x="1261.11" y="898.49"  class="fil1 fnt0">s</text>
+  <text x="21.78" y="643.22"  class="fil1 fnt1">2</text>
+  <text x="733.96" y="973.58"  class="fil1 fnt1">5</text>
+  <text x="41.88" y="944.75"  class="fil1 fnt1">0</text>
+  <rect class="fil0" x="-0" y="0" width="1386.59" height="1013.74"/>
+ </g>
+</svg>

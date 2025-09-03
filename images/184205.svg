@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.53521cm" height="3.75cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3864 3195"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str3 {stroke:#000066;stroke-width:17.4363}
+    .str4 {stroke:red;stroke-width:17.4363}
+    .str0 {stroke:black;stroke-width:15.3788}
+    .str1 {stroke:black;stroke-width:15.3788;stroke-dasharray:76.893920 46.136352}
+    .str2 {stroke:black;stroke-width:15.3788;stroke-dasharray:76.893920 46.136352}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fil2 {fill:black;fill-rule:nonzero}
+    .fnt2 {font-weight:normal;font-size:246.043px;font-family:'B Nazanin'}
+    .fnt4 {font-weight:normal;font-size:246.043px;font-family:'B Yekan'}
+    .fnt3 {font-weight:normal;font-size:246.043px;font-family:'Times New Roman'}
+    .fnt0 {font-weight:normal;font-size:276.801px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:276.801px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="2901,2828 433,2828 433,395 "/>
+  <polyline class="fil0 str1" points="811,2828 811,2136 433,2136 "/>
+  <polyline class="fil0 str2" points="1837,2828 1837,2551 1837,1459 433,1459 "/>
+  <polyline class="fil0 str1" points="2117,2828 2117,752 433,752 "/>
+  <text x="498" y="3027"  class="fil1 fnt0">5</text>
+  <text x="868" y="3025"  class="fil1 fnt0">6</text>
+  <text x="1673" y="3027"  class="fil1 fnt0">1</text>
+  <text x="1795" y="3019"  class="fil1 fnt0">0</text>
+  <text x="1973" y="3028"  class="fil1 fnt0">1</text>
+  <text x="2103" y="3026"  class="fil1 fnt0">2</text>
+  <g>
+   <path class="fil2" d="M735 2904l70 -81 12 10 -70 81 -12 -10zm-46 65l22 -87 61 52 -83 35z"/>
+  </g>
+  <line class="fil0 str3" x1="897" y1="2828" x2="2285" y2= "801" />
+  <path class="fil0 str4" d="M433 2828c378,-1369 1416,-612 1684,-2076"/>
+  <text x="186" y="2180"  class="fil1 fnt0">8</text>
+  <text x="99" y="1505"  class="fil1 fnt0">16</text>
+  <text x="2987" y="2901"  class="fil1 fnt1">t</text>
+  <text x="783" y="289"  class="fil1 fnt1">s</text>
+  <text x="436" y="285"  class="fil1 fnt1">m</text>
+  <text x="3258" y="2884"  class="fil1 fnt1">s</text>
+  <text x="125" y="283"  class="fil1 fnt1">v</text>
+  <text x="957" y="268"  class="fil1 fnt1">)</text>
+  <text x="318" y="279"  class="fil1 fnt1">(</text>
+  <text x="3416" y="2888"  class="fil1 fnt1">)</text>
+  <text x="3116" y="2888"  class="fil1 fnt1">(</text>
+  <text x="2330" y="795"  class="fil1 fnt2">خط مماس بر نمودار</text>
+  <text x="3210" y="1107"  class="fil1 fnt2">در لحظۀ</text>
+  <text x="2464" y="1116"  class="fil1 fnt3">t</text>
+  <text x="2584" y="1121"  class="fil1 fnt3">=</text>
+  <text x="2723" y="1086"  class="fil1 fnt4">1</text>
+  <text x="2831" y="1078"  class="fil1 fnt4">0</text>
+  <text x="2992" y="1094"  class="fil1 fnt3">s</text>
+  <text x="708" y="289"  class="fil1 fnt1">/</text>
+  <rect class="fil0" width="3864" height="3195"/>
+ </g>
+</svg>

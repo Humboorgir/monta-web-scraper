@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.30244cm" height="3cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 945 659"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:3.95706}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:71.2226px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="366,83 862,569 73,569 "/>
+  <polyline class="fil0 str0" points="366,83 468,569 614,326 400,244 "/>
+  <text x="341" y="62"  class="fil1 fnt0">A</text>
+  <text x="16" y="597"  class="fil1 fnt0">B</text>
+  <text x="884" y="593"  class="fil1 fnt0">C</text>
+  <text x="444" y="645"  class="fil1 fnt0">N</text>
+  <text x="634" y="318"  class="fil1 fnt0">M</text>
+  <text x="330" y="277"  class="fil1 fnt0">O</text>
+  <rect class="fil0" width="945" height="659"/>
+ </g>
+</svg>

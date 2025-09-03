@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.58261cm" height="2.3cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 816 524"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:4.18169}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:78.6743px;font-family:'Times New Roman'}
+    .fnt2 {font-weight:normal;font-size:78.6771px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:78.6771px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="76" y1="420" x2="740" y2= "420" />
+  <polyline class="fil0 str0" points="76,420 159,128 483,128 740,420 "/>
+  <line class="fil0 str0" x1="483" y1="128" x2="76" y2= "420" />
+  <line class="fil0 str0" x1="159" y1="128" x2="740" y2= "420" />
+  <line class="fil0 str0" x1="107" y1="305" x2="638" y2= "305" />
+  <text x="117" y="94"  class="fil1 fnt0">A</text>
+  <text x="482" y="100"  class="fil1 fnt1">B</text>
+  <text x="737" y="490"  class="fil1 fnt1">C</text>
+  <text x="48" y="498"  class="fil1 fnt1">D</text>
+  <text x="229" y="263"  class="fil1 fnt1">E</text>
+  <text x="443" y="263"  class="fil1 fnt1">F</text>
+  <text x="33" y="303"  class="fil1 fnt0">M</text>
+  <text x="650" y="302"  class="fil1 fnt0">N</text>
+  <text x="320" y="199"  class="fil1 fnt1">O</text>
+  <text x="305" y="95"  class="fil1 fnt2">4</text>
+  <text x="92" y="203"  class="fil1 fnt2">2</text>
+  <text x="39" y="364"  class="fil1 fnt2">1</text>
+  <text x="352" y="482"  class="fil1 fnt2">7</text>
+  <line class="fil0" x1="159" y1="0" x2="275" y2= "0" />
+  <line class="fil0" x1="43" y1="524" x2="159" y2= "524" />
+  <line class="fil0" x1="0" y1="263" x2="0" y2= "355" />
+  <line class="fil0" x1="816" y1="372" x2="816" y2= "464" />
+ </g>
+</svg>

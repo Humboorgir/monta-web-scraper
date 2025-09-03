@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4cm" height="2.25cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1745 982"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:8.07964;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fil3 {fill:black}
+    .fil2 {fill:black;fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:129.265px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="566,781 1495,785 873,208 "/>
+  <polygon class="fil0 str0" points="1582,208 143,205 960,558 "/>
+  <line class="fil0 str0" x1="37" y1="205" x2="1695" y2= "208" />
+  <text x="830" y="169"  class="fil1 fnt0">A</text>
+  <text x="110" y="168"  class="fil1 fnt0">N</text>
+  <text x="1507" y="168"  class="fil1 fnt0">M</text>
+  <g>
+   <path class="fil2" d="M1354 212c-2,0 -4,-2 -4,-4 0,-3 2,-4 4,-4l0 8zm39 0l-39 0 0 -8 39 0 0 8zm58 -4l-69 29 0 -2 1 -1 1 -2 1 -2 0 -2 1 -2 1 -2 0 -2 1 -1 0 -2 0 -2 1 -2 0 -2 0 -2 0 -1 0 -2 0 -2 0 -2 0 -2 0 -2 -1 -2 0 -1 0 -2 -1 -2 0 -2 -1 -2 -1 -2 0 -1 -1 -2 -1 -2 -1 -2 0 -2 0 0 69 30zm-58 -4c3,0 4,1 4,4 0,2 -1,4 -4,4l0 -8z"/>
+  </g>
+  <g>
+   <path class="fil2" d="M1042 786c-2,0 -4,-2 -4,-5 0,-2 2,-4 4,-4l0 9zm39 0l-39 0 0 -9 39 0 0 9zm58 -5l-70 30 1 -2 1 -2 1 -1 1 -2 0 -2 1 -2 1 -2 0 -2 0 -2 1 -1 0 -2 0 -2 1 -2 0 -2 0 -2 0 -2 0 -1 0 -2 0 -2 -1 -2 0 -2 0 -2 -1 -1 0 -2 0 -2 -1 -2 -1 -2 0 -2 -1 -2 -1 -1 -1 -2 -1 -2 0 0 70 29zm-58 -4c3,0 4,2 4,4 0,3 -1,5 -4,5l0 -9z"/>
+  </g>
+  <polyline class="fil0 str0" points="567,781 959,559 1487,781 "/>
+  <path class="fil0 str0" d="M665 727c21,11 32,33 25,54"/>
+  <text x="939" y="497"  class="fil1 fnt0">I</text>
+  <circle class="fil3" cx="960" cy="562" r="23"/>
+  <text x="564" y="925"  class="fil1 fnt0">B</text>
+  <text x="1444" y="925"  class="fil1 fnt0">C</text>
+  <path class="fil0 str0" d="M1382 737c-16,9 -23,27 -18,44"/>
+  <path class="fil0 str0" d="M1363 729c-19,11 -28,34 -22,55"/>
+  <path class="fil0 str0" d="M1341 642c-27,7 -44,32 -41,60"/>
+  <path class="fil0 str0" d="M1361 661c-12,2 -22,9 -29,19 -6,10 -8,23 -5,34"/>
+  <path class="fil0 str0" d="M604 710c17,3 30,16 32,32"/>
+  <rect class="fil0" width="1745" height="982"/>
+ </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.81113cm" height="2cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 492 258"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:2.47655}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:46.5956px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="440,257 322,51 117,51 58,257 "/>
+  <line class="fil0 str0" x1="101" y1="97" x2="348" y2= "97" />
+  <g transform="matrix(1 0 0 1 1979.51 1591.58)">
+   <text x="-1906" y="-1558"  class="fil1 fnt0">A</text>
+  </g>
+  <g transform="matrix(1 0 0 1 2241.52 1589.04)">
+   <text x="-1906" y="-1558"  class="fil1 fnt0">B</text>
+  </g>
+  <g transform="matrix(1 0 0 1 1938.53 1667.67)">
+   <text x="-1906" y="-1558"  class="fil1 fnt0">M</text>
+  </g>
+  <g transform="matrix(1 0 0 1 2290.21 1669.52)">
+   <text x="-1906" y="-1558"  class="fil1 fnt0">N</text>
+  </g>
+  <g transform="matrix(1 0 0 1 2367.82 1814.01)">
+   <text x="-1906" y="-1558"  class="fil1 fnt0">C</text>
+  </g>
+  <text x="-1" y="256"  class="fil1 fnt0">D</text>
+ </g>
+</svg>

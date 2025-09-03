@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.67643cm" height="2.35cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1740.84 1112.76"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:8.79;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:140.67px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:140.67px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="165.46,143.42 1590.87,946.62 165.46,941.01 "/>
+  <line class="fil0 str0" x1="1077.78" y1="657.5" x2="907.95" y2= "946.62" />
+  <rect class="fil0 str0" transform="matrix(0.809542 0.457763 -0.457763 0.809542 1076.58 657.497)" width="73.29" height="73.29"/>
+  <text x="1108.43" y="630.72"  class="fil1 fnt0">E</text>
+  <text x="36.73" y="980.94"  class="fil1 fnt0">B</text>
+  <rect class="fil0 str0" x="165.46" y="853.74" width="87.58" height="87.58"/>
+  <text x="114.9" y="116.32"  class="fil1 fnt0">A</text>
+  <text x="868.14" y="1074.21"  class="fil1 fnt0">D</text>
+  <text x="1630.5" y="993.25"  class="fil1 fnt0">C</text>
+  <text x="872.75" y="828.86"  class="fil1 fnt1">3</text>
+  <text x="693.37" y="376.29"  class="fil1 fnt1">6</text>
+  <text x="1318.17" y="744.59"  class="fil1 fnt1">4</text>
+  <text x="535.06" y="1043.96"  class="fil1 fnt0">y</text>
+  <text x="45.8" y="568.9"  class="fil1 fnt0">x</text>
+  <rect class="fil0" x="-0" width="1740.84" height="1112.76"/>
+ </g>
+</svg>

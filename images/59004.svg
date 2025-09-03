@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.98164cm" height="2.35cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 421 248"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:1.89507}
+    .str1 {stroke:red;stroke-width:1.89507}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:35.6551px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:35.6551px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="205,131 85,55 43,131 "/>
+  <polyline class="fil0 str0" points="95,61 90,70 80,65 "/>
+  <polygon class="fil0 str0" points="204,130 334,206 380,130 "/>
+  <polyline class="fil0 str0" points="322,199 328,188 340,195 "/>
+  <g transform="matrix(1 0 0 1 1990.54 1039.04)">
+   <text x="-1991" y="-908"  class="fil1 fnt0">A</text>
+  </g>
+  <g transform="matrix(1 0 0 1 2065.12 946.566)">
+   <text x="-1991" y="-908"  class="fil1 fnt0">B</text>
+  </g>
+  <g transform="matrix(1 0 0 1 2174.51 1078.6)">
+   <text x="-1991" y="-908"  class="fil1 fnt0">C</text>
+  </g>
+  <text x="317" y="111"  class="fil1 fnt0">D</text>
+  <text x="325" y="248"  class="fil1 fnt0">E</text>
+  <text x="403" y="143"  class="fil1 fnt0">F</text>
+  <line class="fil0 str1" x1="334" y1="206" x2="334" y2= "129" />
+  <polyline class="fil0 str0" points="322,130 322,140 333,140 "/>
+  <polyline class="fil0 str0" points="154,76 156,80 165,52 195,52 "/>
+  <text x="170" y="78"  class="fil1 fnt1">3</text>
+  <text x="252" y="114"  class="fil1 fnt1">1</text>
+  <text x="30" y="91"  class="fil1 fnt1">1</text>
+  <path class="fil0 str0" d="M230 131c2,5 1,8 -4,11"/>
+  <path class="fil0 str0" d="M187 119c-5,3 -6,7 -4,12"/>
+  <line class="fil0" x1="102" y1="0" x2="63" y2= "0" />
+ </g>
+</svg>

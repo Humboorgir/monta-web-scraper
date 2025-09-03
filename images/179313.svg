@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="9.82903cm" height="1.50115cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4824.46 736.82"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:24.54;stroke-miterlimit:2.61313}
+    .fil5 {fill:none}
+    .fil2 {fill:black}
+    .fil3 {fill:gray}
+    .fil0 {fill:gray}
+    .fil1 {fill:#E6E6E6}
+    .fil4 {fill:black;fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:173.15px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:173.15px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M3084.24 399.96c3.97,-29.16 34.64,-86.16 88.03,-132.33 53.39,-46.17 129.51,-81.52 190.65,-99.18 61.15,-17.67 107.32,-17.65 281.2,-17.65 173.88,0 475.46,-0.01 777.05,-0.03 0,96.68 0,193.36 0,290.04 -379.51,0 -759.01,0 -974.92,-1.51 -215.9,-1.51 -268.21,-4.53 -305.73,-6.69 -37.51,-2.16 -60.25,-3.48 -56.28,-32.63z"/>
+  <path class="fil1" d="M3084.63 397.53c2.57,-14.54 11.13,-35.12 25.26,-57.61l392.45 0 0 -133.41 918.83 0 0 191.02 -694.27 0 -224.57 0 -417.71 0z"/>
+  <circle class="fil2" cx="3076.17" cy="411.82" r="21.65"/>
+  <rect class="fil3" x="3859.45" y="281.23" width="497.83" height="41.59"/>
+  <text x="3611.37" y="334.58"  class="fil2 fnt0">2</text>
+  <path class="fil4" d="M3719.58 355.98c10.66,-20.08 37.39,-44.05 14.58,-85.54 -6.91,-12.56 -20.29,-23.95 -11.95,-23.95 9.47,0 68.01,64.38 0.32,111.08l-2.95 -1.59z"/>
+  <path class="fil4" d="M3605.39 355.98c-10.66,-20.08 -37.39,-44.05 -14.58,-85.54 6.91,-12.56 20.29,-23.95 11.95,-23.95 -9.47,0 -68.01,64.38 -0.32,111.08l2.95 -1.59z"/>
+  <circle class="fil5 str0" cx="3271.25" cy="482.82" r="36.63"/>
+  <circle class="fil5 str0" cx="3421.12" cy="482.82" r="36.63"/>
+  <circle class="fil5 str0" cx="3679.8" cy="482.82" r="36.63"/>
+  <circle class="fil5 str0" cx="3829.67" cy="482.82" r="36.63"/>
+  <circle class="fil5 str0" cx="4095.38" cy="482.82" r="36.63"/>
+  <circle class="fil5 str0" cx="4245.25" cy="482.82" r="36.63"/>
+  <text x="2991.85" y="345.25"  class="fil2 fnt1">B</text>
+  <path class="fil0" d="M1473.81 399.96c-3.97,-29.16 -34.64,-86.16 -88.03,-132.33 -53.39,-46.17 -129.51,-81.52 -190.65,-99.18 -61.15,-17.67 -107.32,-17.65 -281.2,-17.65 -173.88,0 -475.46,-0.01 -777.05,-0.03 0,96.68 0,193.36 0,290.04 379.51,0 759.01,0 974.92,-1.51 215.9,-1.51 268.21,-4.53 305.73,-6.69 37.51,-2.16 60.25,-3.48 56.28,-32.63z"/>
+  <path class="fil1" d="M1473.43 397.53c-2.57,-14.54 -11.13,-35.12 -25.26,-57.61l-392.45 0 0 -133.41 -918.83 0 0 191.02 694.27 0 224.57 0 417.71 0z"/>
+  <circle class="fil2" cx="1481.88" cy="411.82" r="21.65"/>
+  <rect class="fil3" x="200.78" y="281.23" width="497.83" height="41.59"/>
+  <text x="844.41" y="334.49"  class="fil2 fnt0">1</text>
+  <path class="fil4" d="M952.68 355.98c10.66,-20.08 37.39,-44.05 14.58,-85.54 -6.91,-12.56 -20.29,-23.95 -11.95,-23.95 9.47,0 68.01,64.38 0.32,111.08l-2.95 -1.59z"/>
+  <path class="fil4" d="M838.48 355.98c-10.66,-20.08 -37.39,-44.05 -14.58,-85.54 6.91,-12.56 20.29,-23.95 11.95,-23.95 -9.47,0 -68.01,64.38 -0.32,111.08l2.95 -1.59z"/>
+  <circle class="fil5 str0" cx="1286.81" cy="482.82" r="36.63"/>
+  <circle class="fil5 str0" cx="1136.94" cy="482.82" r="36.63"/>
+  <circle class="fil5 str0" cx="878.26" cy="482.82" r="36.63"/>
+  <circle class="fil5 str0" cx="728.39" cy="482.82" r="36.63"/>
+  <circle class="fil5 str0" cx="462.68" cy="482.82" r="36.63"/>
+  <circle class="fil5 str0" cx="312.81" cy="482.82" r="36.63"/>
+  <text x="1457.29" y="345.25"  class="fil2 fnt1">A</text>
+  <g>
+   <path class="fil4" d="M4587.33 525.59l-4450.44 0 0 -12.27 4450.44 0 0 12.27zm24.16 -6.14l-87 34.64 1.13 -2.16 1.06 -2.16 0.98 -2.16 0.91 -2.16 0.84 -2.16 0.77 -2.16 0.69 -2.16 0.62 -2.16 0.54 -2.16 0.47 -2.16 0.4 -2.17 0.33 -2.16 0.26 -2.16 0.18 -2.16 0.11 -2.16 0.04 -2.16 -0.04 -2.16 -0.11 -2.16 -0.18 -2.16 -0.26 -2.16 -0.33 -2.16 -0.4 -2.17 -0.47 -2.16 -0.54 -2.16 -0.62 -2.16 -0.69 -2.16 -0.77 -2.16 -0.84 -2.16 -0.91 -2.16 -0.98 -2.16 -1.06 -2.16 -1.13 -2.16 0 0 87 34.64z"/>
+  </g>
+  <text x="4635.28" y="558.24"  class="fil2 fnt1">x</text>
+  <rect class="fil5" x="-0" y="-0" width="4824.46" height="736.82"/>
+ </g>
+</svg>

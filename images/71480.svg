@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.51744cm" height="2.26cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 435 391"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:2.83891}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:53.4132px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="59" y1="330" x2="381" y2= "330" />
+  <line class="fil0 str0" x1="59" y1="330" x2="232" y2= "61" />
+  <line class="fil0 str0" x1="232" y1="61" x2="381" y2= "330" />
+  <line class="fil0 str0" x1="59" y1="330" x2="305" y2= "193" />
+  <line class="fil0 str0" x1="381" y1="330" x2="153" y2= "183" />
+  <rect class="fil0 str0" transform="matrix(-0.692669 0.384677 -0.384677 -0.692669 312.412 206.19)" width="20.3361" height="18.9753"/>
+  <rect class="fil0 str0" transform="matrix(-0.428745 0.666292 -0.666292 -0.428745 164.937 190.775)" width="18.3432" height="17.7318"/>
+  <text x="213" y="49"  class="fil1 fnt0">A</text>
+  <text x="17" y="374"  class="fil1 fnt0">B</text>
+  <text x="372" y="390"  class="fil1 fnt0">C</text>
+  <text x="216" y="296"  class="fil1 fnt0">O</text>
+  <text x="329" y="193"  class="fil1 fnt0">H</text>
+  <text x="99" y="184"  class="fil1 fnt0">H</text>
+  <line class="fil0 str0" x1="164" y1="126" x2="150" y2= "141" />
+  <line class="fil0" x1="187" y1="0" x2="252" y2= "0" />
+  <line class="fil0" x1="50" y1="391" x2="115" y2= "391" />
+  <line class="fil0" x1="435" y1="248" x2="435" y2= "321" />
+  <line class="fil0" x1="0" y1="205" x2="0" y2= "277" />
+ </g>
+</svg>

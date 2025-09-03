@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.78472cm" height="3.02491cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2069 2247"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:15;stroke-miterlimit:10}
+    .fil3 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil2 {fill:black}
+    .fil1 {fill:black}
+    .fnt2 {font-weight:normal;font-size:210px;font-family:'Times New Roman'}
+    .fnt1 {font-weight:normal;font-size:236px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:236px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="257" y1="1214" x2="1841" y2= "1214" />
+  <line class="fil0 str0" x1="257" y1="2150" x2="257" y2= "279" />
+  <path class="fil0 str0" d="M259 1017c156,-298 465,-327 590,196 122,555 518,578 657,-6"/>
+  <path class="fil1 str0" d="M364 824c23,0 43,18 43,41 0,24 -20,43 -43,43 -23,0 -41,-18 -41,-43 0,-23 18,-41 41,-41z"/>
+  <path class="fil1 str0" d="M774 950c23,0 43,20 43,43 0,23 -20,43 -43,43 -24,0 -43,-20 -43,-43 0,-23 18,-43 43,-43z"/>
+  <path class="fil1 str0" d="M966 1460c23,0 41,18 41,41 0,24 -18,43 -41,43 -23,0 -43,-18 -43,-43 0,-23 20,-41 43,-41z"/>
+  <path class="fil1 str0" d="M1379 1460c24,0 43,18 43,41 0,24 -18,43 -43,43 -23,0 -41,-18 -41,-43 0,-23 18,-41 41,-41z"/>
+  <text x="292" y="742"  class="fil2 fnt0">E</text>
+  <text x="820" y="899"  class="fil2 fnt0">F</text>
+  <text x="795" y="1797"  class="fil2 fnt0">G</text>
+  <text x="1421" y="1793"  class="fil2 fnt0">H</text>
+  <text x="40" y="1249"  class="fil2 fnt1">0</text>
+  <text x="1881" y="1269"  class="fil2 fnt0">t</text>
+  <text x="201" y="216"  class="fil2 fnt0">v</text>
+  <text x="331" y="297"  class="fil2 fnt2">b</text>
+  <rect class="fil3" width="2069" height="2247"/>
+ </g>
+</svg>

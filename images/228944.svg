@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.82159cm" height="3cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1298.3 1019.18"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:6.18;stroke-miterlimit:2.61313}
+    .str1 {stroke:black;stroke-width:6.18;stroke-miterlimit:2.61313;stroke-dasharray:30.886147 18.531688}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt2 {font-weight:normal;font-size:98.83px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:111.18px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:111.18px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="1044.08,879.92 167.21,879.92 167.21,169.7 "/>
+  <polyline class="fil0 str1" points="409.19,879.92 409.19,391.74 167.21,391.74 "/>
+  <polyline class="fil0 str0" points="167.21,635.83 409.19,391.74 893.15,879.92 "/>
+  <text x="393.07" y="984.84"  class="fil1 fnt0">t</text>
+  <text x="931.23" y="984.84"  class="fil1 fnt0">t</text>
+  <text x="851.7" y="974.72"  class="fil1 fnt1">3</text>
+  <text x="1127.3" y="906.71"  class="fil1 fnt0">(</text>
+  <g transform="matrix(-1 -0 0 1 3186.1 -3107.35)">
+   <text x="1910.79" y="4014.06"  class="fil1 fnt0">(</text>
+  </g>
+  <text x="1077.01" y="912.6"  class="fil1 fnt0">t</text>
+  <text x="1178.9" y="904.82"  class="fil1 fnt0">s</text>
+  <text x="86.65" y="114.4"  class="fil1 fnt0">(</text>
+  <g transform="matrix(-1 -0 0 1 2253.56 -3899.66)">
+   <text x="1910.79" y="4014.06"  class="fil1 fnt0">(</text>
+  </g>
+  <text x="21.08" y="114.4"  class="fil1 fnt0">v</text>
+  <text x="135.84" y="114.4"  class="fil1 fnt0">m/s</text>
+  <text x="101.49" y="936.75"  class="fil1 fnt1">0</text>
+  <text x="42.65" y="660.01"  class="fil1 fnt0">v</text>
+  <text x="94.06" y="679.98"  class="fil1 fnt2">1</text>
+  <text x="42.65" y="390.29"  class="fil1 fnt0">v</text>
+  <text x="94.06" y="410.26"  class="fil1 fnt2">2</text>
+  <rect class="fil0" x="-0" y="-0" width="1298.3" height="1019.18"/>
+ </g>
+</svg>

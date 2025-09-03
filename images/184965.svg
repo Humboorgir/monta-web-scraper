@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.87386cm" height="3cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 756 586"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:3.57426}
+    .fil4 {fill:none}
+    .fil5 {fill:black}
+    .fil2 {fill:#7CB342;fill-rule:nonzero}
+    .fil0 {fill:#8C6E62;fill-rule:nonzero}
+    .fil3 {fill:white;fill-rule:nonzero;fill-opacity:0.239216}
+    .fil1 {fill:white;fill-rule:nonzero;fill-opacity:0.388235}
+    .fnt0 {font-weight:normal;font-size:57.1841px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:57.1841px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="158,497 127,497 127,338 158,338 "/>
+  <polygon class="fil1" points="143,338 127,338 127,497 143,497 "/>
+  <g id="_1038136880">
+   <path class="fil2" d="M212 208c6,-11 9,-23 9,-36 0,-43 -35,-78 -78,-78 -44,0 -79,35 -79,78 0,13 3,25 9,36 -35,23 -57,62 -57,106 0,70 56,127 127,127 70,0 127,-57 127,-127 0,-44 -23,-83 -58,-106z"/>
+  </g>
+  <path class="fil3" d="M143 94c-44,0 -79,35 -79,78 0,13 3,25 9,36 -35,23 -57,62 -57,106 0,70 56,127 127,127l0 -347z"/>
+  <polygon class="fil4 str0" points="143,496 676,496 143,94 "/>
+  <line class="fil4 str0" x1="569" y1="496" x2="569" y2= "416" />
+  <polyline class="fil4 str0" points="582,496 582,484 569,484 "/>
+  <text x="614" y="546"  class="fil5 fnt0">3</text>
+  <text x="338" y="542"  class="fil5 fnt0">12</text>
+  <text x="128" y="555"  class="fil5 fnt1">B</text>
+  <text x="122" y="69"  class="fil5 fnt1">A</text>
+  <text x="555" y="393"  class="fil5 fnt1">A</text>
+  <text x="596" y="393"  class="fil5 fnt1">΄</text>
+  <text x="551" y="554"  class="fil5 fnt1">B</text>
+  <text x="590" y="554"  class="fil5 fnt1">΄</text>
+  <text x="687" y="502"  class="fil5 fnt1">O</text>
+  <rect class="fil4" width="756" height="586"/>
+  <polyline class="fil4 str0" points="174,496 174,464 142,464 "/>
+ </g>
+</svg>

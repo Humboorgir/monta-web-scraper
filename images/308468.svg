@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.76909cm" height="3.57275cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8456 6335"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:31.2788}
+    .str2 {stroke:#EC268F;stroke-width:62.5575;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke:#373435;stroke-width:31.2788;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:150.116806 150.116806}
+    .fil3 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil2 {fill:black}
+    .fil1 {fill:black;fill-rule:nonzero}
+    .fnt1 {font-weight:normal;font-size:469.146px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:562.982px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="314" y1="4038" x2="7844" y2= "4038" />
+  <polygon class="fil1" points="7728,4158 7778,4038 7728,3919 8011,4038 "/>
+  <line class="fil0 str0" x1="314" y1="840" x2="314" y2= "6102" />
+  <polygon class="fil1" points="194,957 314,906 433,957 314,673 "/>
+  <path class="fil0 str1" d="M1364 2750l0 1288m777 -2153l0 2153m777 -2153l0 2153m777 -2153l0 2153m1866 1517l0 -1517m776 1517l0 -1517m777 834l0 -834"/>
+  <path class="fil0 str2" d="M1364 2750l777 -865m0 0l1554 0m0 0l1866 3670m776 0l777 -683"/>
+  <line class="fil0 str2" x1="5561" y1="5555" x2="6338" y2= "5555" />
+  <text x="177" y="509"  class="fil2 fnt0">x</text>
+  <text x="8145" y="4204"  class="fil2 fnt0">t</text>
+  <text x="1154" y="4543"  class="fil2 fnt0">t</text>
+  <text x="1282" y="4732"  class="fil2 fnt1">1</text>
+  <text x="1958" y="4543"  class="fil2 fnt0">t</text>
+  <text x="2105" y="4732"  class="fil2 fnt1">2</text>
+  <text x="2705" y="4543"  class="fil2 fnt0">t</text>
+  <text x="2906" y="4732"  class="fil2 fnt1">3</text>
+  <text x="3493" y="4543"  class="fil2 fnt0">t</text>
+  <text x="3694" y="4732"  class="fil2 fnt1">4</text>
+  <text x="4507" y="4543"  class="fil2 fnt0">t</text>
+  <text x="4708" y="4732"  class="fil2 fnt1">5</text>
+  <text x="5420" y="3623"  class="fil2 fnt0">t</text>
+  <text x="5588" y="3813"  class="fil2 fnt1">6</text>
+  <text x="6172" y="3623"  class="fil2 fnt0">t</text>
+  <text x="6372" y="3813"  class="fil2 fnt1">7</text>
+  <text x="6900" y="3623"  class="fil2 fnt0">t</text>
+  <text x="7035" y="3813"  class="fil2 fnt1">8</text>
+  <rect class="fil3" width="8456" height="6335"/>
+ </g>
+</svg>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.06512cm" height="3.65cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 770 691"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:5.16949}
+    .str0 {stroke:black;stroke-width:5.17361}
+    .str2 {stroke:black;stroke-width:3.45182;stroke-dasharray:17.436220 17.436220}
+    .fil4 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil2 {fill:black}
+    .fil1 {fill:black}
+    .fil3 {fill:black;fill-rule:nonzero}
+    .fnt2 {font-weight:normal;font-size:65.391px;font-family:'B Nazanin'}
+    .fnt1 {font-weight:normal;font-size:65.391px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:65.391px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="85" y1="625" x2="85" y2= "168" />
+  <line class="fil0 str1" x1="87" y1="624" x2="598" y2= "624" />
+  <polyline class="fil0 str2" points="87,271 283,271 283,625 "/>
+  <path class="fil0 str0" d="M86 404c38,3 67,-9 85,-18 68,-37 135,-132 157,-240"/>
+  <line class="fil0 str2" x1="88" y1="526" x2="369" y2= "165" />
+  <text x="34" y="117"  class="fil1 fnt0">x</text>
+  <text x="98" y="116"  class="fil1 fnt0">m</text>
+  <text x="70" y="118"  class="fil1 fnt0">(</text>
+  <g transform="matrix(-1 -0 0 1 2212.26 1844.85)">
+   <text x="2033" y="-1728"  class="fil1 fnt0">(</text>
+  </g>
+  <text x="37" y="274"  class="fil1 fnt1">7</text>
+  <text x="36" y="409"  class="fil1 fnt1">4</text>
+  <text x="36" y="530"  class="fil1 fnt1">2</text>
+  <text x="41" y="658"  class="fil1 fnt1">0</text>
+  <text x="263" y="677"  class="fil1 fnt1">3</text>
+  <text x="630" y="640"  class="fil1 fnt0">t</text>
+  <text x="692" y="635"  class="fil1 fnt0">s</text>
+  <text x="659" y="640"  class="fil1 fnt0">(</text>
+  <g transform="matrix(-1 -0 0 1 2781.97 2367.38)">
+   <text x="2033" y="-1728"  class="fil1 fnt0">(</text>
+  </g>
+  <g transform="matrix(0.736467 -0.676474 0.676474 0.736467 114.126 2856.86)">
+   <text x="2033" y="-1728"  class="fil1 fnt2">خط مماس</text>
+  </g>
+  <g transform="matrix(0.736467 -0.676474 0.676474 0.736467 -0.482401 2974.43)">
+   <text x="2033" y="-1728"  class="fil2 fnt0">t</text>
+  </g>
+  <g transform="matrix(0.736467 -0.676474 0.676474 0.736467 52.6305 2915.35)">
+   <text x="2033" y="-1728"  class="fil1 fnt1">3</text>
+  </g>
+  <g transform="matrix(0.736467 -0.676474 0.676474 0.736467 22.5806 2956.58)">
+   <text x="2033" y="-1728"  class="fil1 fnt0">=</text>
+  </g>
+  <g transform="matrix(0.736467 -0.676474 0.676474 0.736467 89.4463 2891.29)">
+   <text x="2033" y="-1728"  class="fil1 fnt0">s</text>
+  </g>
+  <polygon class="fil3" points="69,180 86,174 102,180 86,142 "/>
+  <polygon class="fil3" points="582,608 589,624 582,640 620,624 "/>
+  <rect class="fil4" x="1" width="768" height="684"/>
+  <rect class="fil4" y="8" width="770" height="684"/>
+ </g>
+</svg>

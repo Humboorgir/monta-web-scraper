@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.9cm" height="1.85908cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 999 476"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:4.22306}
+    .str1 {stroke:black;stroke-width:5.63074}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:79.4554px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="363" y1="90" x2="28" y2= "378" />
+  <polyline class="fil0 str0" points="363,90 976,378 28,378 "/>
+  <line class="fil0 str0" x1="230" y1="204" x2="597" y2= "204" />
+  <line class="fil0 str0" x1="496" y1="290" x2="793" y2= "290" />
+  <line class="fil0 str0" x1="597" y1="204" x2="395" y2= "378" />
+  <line class="fil0 str0" x1="789" y1="290" x2="687" y2= "378" />
+  <polyline class="fil0 str1" points="107,288 138,282 129,312 "/>
+  <polyline class="fil0 str1" points="131,268 163,262 153,292 "/>
+  <polyline class="fil0 str1" points="627,275 655,290 628,308 "/>
+  <polyline class="fil0 str1" points="338,187 366,203 339,220 "/>
+  <polyline class="fil0 str1" points="825,361 853,377 826,394 "/>
+  <text x="339" y="68"  class="fil1 fnt0">A</text>
+  <line class="fil0" x1="385" y1="0" x2="356" y2= "0" />
+  <text x="-1" y="476"  class="fil1 fnt0">B</text>
+  <text x="949" y="475"  class="fil1 fnt0">C</text>
+  <text x="363" y="476"  class="fil1 fnt0">F</text>
+  <text x="664" y="476"  class="fil1 fnt0">P</text>
+  <text x="152" y="187"  class="fil1 fnt0">D</text>
+  <text x="627" y="187"  class="fil1 fnt0">E</text>
+  <text x="806" y="274"  class="fil1 fnt0">N</text>
+  <text x="404" y="297"  class="fil1 fnt0">M</text>
+  <polyline class="fil0 str1" points="416,339 447,333 438,363 "/>
+  <polyline class="fil0 str1" points="440,319 471,313 462,344 "/>
+  <polyline class="fil0 str1" points="707,340 738,334 728,364 "/>
+  <polyline class="fil0 str1" points="731,320 762,314 753,344 "/>
+ </g>
+</svg>

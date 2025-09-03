@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.52187cm" height="3.06cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2165 1881"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:10.9543}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:175.256px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="1078,174 1522,951 1956,1779 1088,1779 198,1779 655,951 "/>
+  <text x="46" y="1844"  class="fil1 fnt0">B</text>
+  <text x="1031" y="143"  class="fil1 fnt0">A</text>
+  <text x="496" y="904"  class="fil1 fnt0">M</text>
+  <text x="1536" y="892"  class="fil1 fnt0">N</text>
+  <line class="fil0 str0" x1="700" y1="855" x2="1469" y2= "855" />
+  <rect class="fil0" width="2165" height="1881"/>
+  <text x="2014" y="1829"  class="fil1 fnt0">C</text>
+ </g>
+</svg>

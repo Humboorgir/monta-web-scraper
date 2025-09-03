@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.79011cm" height="2.9cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5620 1854"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:11.4993}
+    .str1 {stroke:black;stroke-width:16.2971;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fil2 {fill:black}
+    .fnt0 {font-weight:normal;font-size:206.973px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:206.973px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="3888,1595 5364,1595 3888,344 "/>
+  <line class="fil0 str0" x1="3888" y1="344" x2="4481" y2= "1595" />
+  <g transform="matrix(0.999728 0.0233425 -0.0233426 0.999728 550.514 -4620.38)">
+   <text x="4395" y="6042"  class="fil1 fnt0">40</text>
+  </g>
+  <g transform="matrix(0.999728 0.0233425 -0.0233426 0.999728 737.91 -4717.25)">
+   <text x="4395" y="6042"  class="fil1 fnt0">0</text>
+  </g>
+  <path class="fil0 str0" d="M5243 1493c-39,19 -53,53 -40,102"/>
+  <g transform="matrix(1 0 0 1 -4240.78 -5835.5)">
+   <text x="4395" y="6042"  class="fil1 fnt1">A</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -4365.79 -4377.26)">
+   <text x="4395" y="6042"  class="fil1 fnt1">B</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1498.91 -4377.26)">
+   <text x="4395" y="6042"  class="fil1 fnt1">C</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -3635.87 -4237.31)">
+   <text x="4395" y="6042"  class="fil1 fnt1">D</text>
+  </g>
+  <text x="3832" y="308"  class="fil1 fnt1">A</text>
+  <text x="3654" y="1664"  class="fil1 fnt1">B</text>
+  <text x="5386" y="1667"  class="fil1 fnt1">C</text>
+  <text x="4408" y="1825"  class="fil1 fnt1">D</text>
+  <polygon class="fil0" points="0,1854 5620,1854 5620,0 0,0 "/>
+  <polygon class="fil2 str0" points="3888,1595 3996,1595 3996,1487 3888,1487 "/>
+  <line class="fil0 str1" x1="3956" y1="158" x2="4002" y2= "113" />
+  <line class="fil0 str1" x1="3799" y1="1510" x2="3844" y2= "1465" />
+  <line class="fil0 str1" x1="4550" y1="1688" x2="4595" y2= "1642" />
+  <line class="fil0 str1" x1="5540" y1="1507" x2="5585" y2= "1461" />
+  <polygon class="fil0 str0" points="229,1596 229,297 2836,1596 "/>
+  <line class="fil0 str0" x1="229" y1="297" x2="832" y2= "1596" />
+  <path class="fil0 str0" d="M384 374c-1,54 -29,81 -81,82"/>
+  <text x="422" y="704"  class="fil1 fnt0">25</text>
+  <text x="601" y="608"  class="fil1 fnt0">0</text>
+  <rect class="fil2 str0" x="229" y="1497" width="98.2456" height="98.2456"/>
+ </g>
+</svg>

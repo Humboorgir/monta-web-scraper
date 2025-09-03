@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.95845cm" height="4.15cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 40124 42066"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:182.459}
+    .str1 {stroke:black;stroke-width:182.459}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fil2 {fill:black}
+    .fnt0 {font-weight:normal;font-size:3067.98px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:3199.24px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="907" y1="36487" x2="32383" y2= "36487" />
+  <line class="fil0 str0" x1="6826" y1="41863" x2="6826" y2= "3859" />
+  <line class="fil0 str0" x1="25425" y1="37007" x2="25425" y2= "35967" />
+  <text x="24980" y="39736"  class="fil1 fnt0">4</text>
+  <text x="2483" y="8992"  class="fil1 fnt0">12</text>
+  <path class="fil0 str0" d="M6836 8645c616,9431 8030,22053 18589,27842"/>
+  <line class="fil0 str0" x1="6317" y1="8645" x2="7356" y2= "8645" />
+  <text x="1937" y="2730"  class="fil2 fnt1">v</text>
+  <text x="5582" y="2604"  class="fil2 fnt1">m</text>
+  <text x="3964" y="2981"  class="fil2 fnt1">(</text>
+  <text x="10114" y="2727"  class="fil2 fnt1">s</text>
+  <g transform="matrix(-1 -0 0 1 9473.83 -95996.8)">
+   <text x="-3045" y="98978"  class="fil2 fnt1">(</text>
+  </g>
+  <line class="fil0 str1" x1="8487" y1="3213" x2="9687" y2= "888" />
+  <text x="33464" y="37038"  class="fil2 fnt1">t</text>
+  <text x="36261" y="36814"  class="fil2 fnt1">s</text>
+  <text x="34780" y="36868"  class="fil2 fnt1">(</text>
+  <g transform="matrix(-1 -0 0 1 35834 -62109.6)">
+   <text x="-3045" y="98978"  class="fil2 fnt1">(</text>
+  </g>
+  <rect class="fil0" width="40124" height="42066"/>
+ </g>
+</svg>

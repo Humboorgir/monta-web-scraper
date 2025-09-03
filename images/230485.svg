@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.96499cm" height="3.7cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5149 4805"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:22.9414}
+    .str1 {stroke:black;stroke-width:22.9414;stroke-dasharray:114.706961 68.824177}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:367.023px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:367.023px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="483,481 483,4418 4385,4418 "/>
+  <text x="386" y="325"  class="fil1 fnt0">x</text>
+  <text x="627" y="325"  class="fil1 fnt0">(</text>
+  <text x="794" y="325"  class="fil1 fnt0">m</text>
+  <text x="1138" y="325"  class="fil1 fnt0">)</text>
+  <text x="4477" y="4496"  class="fil1 fnt0">t</text>
+  <text x="4660" y="4496"  class="fil1 fnt0">(</text>
+  <text x="4828" y="4496"  class="fil1 fnt0">s</text>
+  <text x="5003" y="4496"  class="fil1 fnt0">)</text>
+  <text x="233" y="4646"  class="fil1 fnt1">0</text>
+  <text x="207" y="3747"  class="fil1 fnt1">4</text>
+  <text x="6" y="1394"  class="fil1 fnt1">20</text>
+  <text x="1572" y="4711"  class="fil1 fnt1">4</text>
+  <text x="2764" y="4711"  class="fil1 fnt1">8</text>
+  <polyline class="fil0 str1" points="483,3687 1674,3687 1674,4418 "/>
+  <polyline class="fil0 str1" points="483,1394 2872,1394 2872,4418 "/>
+  <path class="fil0 str0" d="M483 1394c815,3115 1671,3083 2484,-437"/>
+  <rect class="fil0" width="5149" height="4805"/>
+ </g>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.98475cm" height="2.62cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2782 1462"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:red;stroke-width:11.4724}
+    .str0 {stroke:black;stroke-width:10.1186}
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+    .fnt0 {font-weight:normal;font-size:161.887px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="1545" y="186"  class="fil0 fnt0">x</text>
+  <text x="2671" y="1100"  class="fil0 fnt0">t</text>
+  <polyline class="fil1 str0" points="2589,1101 1586,1101 1586,232 "/>
+  <text x="104" y="186"  class="fil0 fnt0">x</text>
+  <text x="1367" y="1100"  class="fil0 fnt0">t</text>
+  <polyline class="fil1 str0" points="1292,1101 145,1101 145,231 "/>
+  <path class="fil1 str1" d="M145 1101c0,0 354,-752 843,-152"/>
+  <path class="fil1 str1" d="M1590 1101c0,0 79,-301 341,-340 261,-38 343,-143 380,-320"/>
+  <rect class="fil1" width="2782" height="1462"/>
+  <text x="645" y="1340"  class="fil0 fnt0">B</text>
+  <g transform="matrix(1 0 0 -1 -1939.14 2853.7)">
+   <text x="2492" y="1607"  class="fil0 fnt0">( </text>
+  </g>
+  <g transform="matrix(-1 -0 0 1 3349.41 -281.4)">
+   <text x="2492" y="1607"  class="fil0 fnt0">( </text>
+  </g>
+  <text x="2064" y="1341"  class="fil0 fnt0">A</text>
+  <g transform="matrix(1 0 0 -1 -521.884 2853.7)">
+   <text x="2492" y="1607"  class="fil0 fnt0">( </text>
+  </g>
+  <g transform="matrix(-1 -0 0 1 4766.67 -281.4)">
+   <text x="2492" y="1607"  class="fil0 fnt0">( </text>
+  </g>
+ </g>
+</svg>

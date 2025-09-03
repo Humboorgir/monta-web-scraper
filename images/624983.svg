@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021.5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="35.6309mm" height="36.5571mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 974.99 1000.33"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID1" horiz-adv-x="500" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="B Yekan">
+		<font-face-src>
+			<font-face-name name="B Yekan"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="0" horiz-adv-x="590" d="M452 154.992c0,-38.4882 -16.3465,-72 -49.0079,-100.819 -32.6614,-28.8504 -68.315,-43.1811 -106.992,-43.1811 -40.3465,0 -76.5039,14.3307 -108.661,43.1811 -32.1575,28.8189 -48.3465,63.1496 -48.3465,103.15 0,41.0079 16.3465,77.3543 49.0079,109.165 32.6614,31.685 69.5118,47.5276 110.488,47.5276 39.5276,0 75.1811,-16.6929 106.52,-49.8583 31.3386,-33.1654 46.9921,-69.4803 46.9921,-109.165zm-70.9921 2.33071c0,23.1811 -8.85039,43.3386 -26.3307,60.6929 -17.5118,17.3228 -38.0157,25.9843 -61.3543,25.9843 -23.1496,0 -43.3071,-9.16535 -60.5039,-27.4961 -17.1654,-18.1732 -25.8268,-39.1811 -25.8268,-62.6772 0,-22.4882 9.82677,-41.8268 29.3543,-57.8268 18.1417,-14.6772 38.6457,-21.9843 61.8268,-21.9843 21.6693,0 41.0079,8.31496 57.6693,25.1654 16.8189,16.8189 25.1654,36.1575 25.1654,58.1417z"/>
+   <glyph unicode="1" horiz-adv-x="590" d="M358.984 -98.0044l-85.9853 0 0 269.181c0,89.8405 -13.6821,181.306 -41.0084,274.473l83.1884 27.3641 30.161 -117.696c0.340162,-1.66301 1.66301,-12.3214 4.00635,-31.824 6.50087,-52.3093 9.63792,-103.145 9.63792,-152.317l0 -269.181z"/>
+   <glyph unicode="2" horiz-adv-x="590" d="M467.344 312.987c0,-32.5043 -14.5136,-59.9819 -43.5029,-82.8105 -27.024,-21.5058 -57.185,-32.1642 -90.3318,-32.1642 -25.172,0 -52.4983,9.48673 -82.0168,28.498l1.51183 -324.514 -87.9885 0 0 256.822c0,116.524 -14.0222,212.337 -42.0289,287.852l84.5113 27.3263 35.15 -144.644c8.84421,-36.8509 30.35,-55.3708 64.8575,-55.3708 24.1515,0 42.8226,9.67571 56.1645,28.8382 9.48673,13.6821 13.3419,27.1751 11.8301,40.517l-14.1734 104.845c17.8396,5.82055 45.0147,14.4758 81.4876,25.8145 16.3656,-80.0136 24.5294,-133.646 24.5294,-161.01z"/>
+  </font>
+  <font id="FontID0" horiz-adv-x="722" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Times New Roman">
+		<font-face-src>
+			<font-face-name name="Times New Roman"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="t" horiz-adv-x="277" d="M162.016 594.992l0 -146.992 104.472 0 0 -33.0079 -104.472 -0.976378 0 -290.173c0,-29.0079 4.15748,-48.6614 12.4724,-58.6772 8.18898,-10.1732 18.8346,-15.1496 31.8425,-15.1496 10.8346,0 21.1654,3.30709 31.3386,10.1417 9.98425,6.67717 17.8268,16.6614 23.3386,29.8583l18.9921 0c-11.3386,-32.189 -27.4961,-56.3465 -48.3465,-72.6929 -20.9764,-16.1575 -42.4882,-24.315 -64.6614,-24.315 -14.9921,0 -29.6693,4.15748 -44,12.5039 -14.3307,8.31496 -24.8189,20.315 -31.6535,35.811 -6.83465,15.4961 -10.3307,39.3386 -10.3307,71.685l0 301.984 -70.9921 0 0 15.4961c17.9843,7.1811 36.315,19.1811 55.1496,36 18.8346,17.0079 35.4961,37.1654 50.3307,60.6929 7.49606,12.315 18.0157,34.9921 31.4961,67.811l15.0236 0z"/>
+   <glyph unicode="v" horiz-adv-x="500" d="M8.66142 448l209.827 0 0 -17.9843 -13.6693 0c-12.6614,0 -22.3307,-3.1811 -28.9764,-9.35433 -6.83465,-6.17323 -10.1732,-14.4882 -10.1732,-24.8189 0,-11.3386 3.49606,-24.8504 10.3307,-40.5039l104.504 -247.181 104.504 256.346c7.49606,18.3307 11.1496,32.1575 11.1496,41.5118 0,4.66142 -1.16535,8.31496 -3.81102,11.3071 -3.68504,4.85039 -8.18898,8.18898 -13.6693,10.0157 -5.51181,1.82677 -16.8504,2.67717 -33.6693,2.67717l0 17.9843 145.323 0 0 -17.9843c-17.0079,-1.35433 -28.6614,-4.85039 -35.1496,-10.3622 -11.5276,-9.82677 -21.6693,-26.3307 -30.8346,-49.3228l-157.354 -383.339 -20.8189 0 -159.496 377.008c-7.1811,17.8268 -14.0157,30.4882 -20.5039,38.1732 -6.51969,7.65354 -14.8346,14.1732 -24.8504,19.4961 -5.48031,2.99213 -16.5039,5.66929 -32.6614,8.34646l0 17.9843z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"B Yekan";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID1") format(svg)}
+    @font-face { font-family:"Times New Roman";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:black;stroke-width:4.83;stroke-miterlimit:2.61313}
+    .str1 {stroke:black;stroke-width:4.83;stroke-miterlimit:2.61313;stroke-dasharray:24.134652 14.480791}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:72.4px;font-family:'B Yekan'}
+    .fnt3 {font-weight:normal;font-size:72.4px;font-family:'B Yekan'}
+    .fnt4 {font-weight:normal;font-size:86.88px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:86.88px;font-family:'Times New Roman'}
+    .fnt2 {font-weight:normal;font-size:86.88px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="86.1" y1="91.51" x2="86.1" y2= "981.54" />
+  <line class="fil0 str0" x1="86.1" y1="601.55" x2="913.98" y2= "601.55" />
+  <path class="fil0 str0" d="M86.1 397.92c50.67,-120.38 157.94,-116.15 202.09,-27.21 196.77,328.11 288.56,483.77 275.36,466.98"/>
+  <line class="fil0 str1" x1="198.39" y1="305.58" x2="198.39" y2= "601.55" />
+  <text x="64.43" y="68.88"  class="fil1 fnt0">v</text>
+  <text x="931.45" y="627.1"  class="fil1 fnt0">t</text>
+  <text x="185.79" y="683.58"  class="fil1 fnt0">t</text>
+  <text x="202.83" y="714.57"  class="fil1 fnt1">1</text>
+  <text x="428.15" y="547.12"  class="fil1 fnt2">t</text>
+  <text x="452.14" y="578.11"  class="fil1 fnt3">2</text>
+  <text x="20.09" y="620.68"  class="fil1 fnt4">0</text>
+  <rect class="fil0" y="-0" width="974.99" height="1000.33"/>
+ </g>
+</svg>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.89101cm" height="2.45cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 650.27 551.08"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID1" horiz-adv-x="500" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="B Yekan">
+		<font-face-src>
+			<font-face-name name="B Yekan"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="3" horiz-adv-x="590" d="M566.508 319.325c0,-32.1735 -13.3584,-59.3154 -40.0043,-81.9928 -25.3348,-21.508 -54.1776,-32.3152 -86.67,-32.3152 -36.0003,0 -71.8234,20.3033 -107.682,61.158 0,-42.1657 -30.6498,-63.1777 -91.985,-63.1777 -30.5081,0 -59.1737,7.3347 -86.1739,22.1813l0 -323.188 -85.9967 0 0 256.502c0,108.851 -14.6694,204.521 -44.0082,287.329l86.8471 27.3545 32.8467 -144.001c8.46857,-36.8507 31.1459,-55.1697 68.3155,-55.1697 18.8505,0 34.3349,6.1654 46.3468,18.6734 16.6537,16.4765 23.6695,33.4845 20.9765,50.8114l-16.4765 105.166 82.4888 30.3309c13.3229,-69.662 19.9844,-119.304 19.9844,-149.139 0,-3.5079 -0.496067,-13.8544 -1.4882,-30.8624 14.9883,-18.6379 33.6617,-27.9923 56.1619,-27.9923 17.008,0 31.6774,6.1654 44.1854,18.4962 12.4725,12.3308 18.8151,27.0002 18.8151,44.0082 0,3.33073 0,6.4843 0,9.85047l-14.3151 104.989 80.6463 24.8388 16.6891 -142.194c0.3189,-3.47247 0.496067,-7.47644 0.496067,-11.6576z"/>
+   <glyph unicode="0" horiz-adv-x="590" d="M451.988 154.985c0,-38.4806 -16.3348,-72.0006 -49.0043,-100.808 -32.6341,-28.8427 -68.3155,-43.1933 -106.973,-43.1933 -40.3586,0 -76.5006,14.3505 -108.674,43.1933 -32.1735,28.8073 -48.3311,63.1422 -48.3311,103.146 0,40.9964 16.3348,77.351 49.0043,109.17 32.6695,31.6774 69.4848,47.5161 110.481,47.5161 39.5082,0 75.1896,-16.6891 106.513,-49.8547 31.3231,-33.1656 46.9846,-69.4848 46.9846,-109.17zm-70.973 2.3386c0,23.1734 -8.85834,43.335 -26.3624,60.6619 -17.4686,17.3623 -37.9846,26.0081 -61.3351,26.0081 -23.138,0 -43.2996,-9.17724 -60.4847,-27.4963 -17.1497,-18.1773 -25.8309,-39.1539 -25.8309,-62.6816 0,-22.5002 9.81504,-41.8114 29.3388,-57.8272 18.1419,-14.6694 38.6578,-22.0041 61.8312,-22.0041 21.6498,0 40.9964,8.36227 57.6501,25.1931 16.8308,16.8308 25.1931,36.142 25.1931,58.1461z"/>
+  </font>
+  <font id="FontID0" horiz-adv-x="722" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Times New Roman">
+		<font-face-src>
+			<font-face-name name="Times New Roman"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="A" horiz-adv-x="722" d="M458.153 220.998l-256.821 0 -44.3271 -103.82c-11.0198,-25.6892 -16.6891,-45.0004 -16.6891,-57.6855 0,-9.9922 4.85437,-18.9923 14.5277,-26.6459 9.49614,-7.51187 30.3309,-12.508 62.1501,-14.8466l0 -18.0001 -208.986 0 0 18.0001c27.6734,4.81894 45.4964,11.1615 53.6461,18.9923 16.6891,15.6615 35.0081,47.5161 55.1697,95.3511l233.187 545.674 16.4765 0 230.529 -551.52c18.4962,-44.3271 35.327,-72.9927 50.4925,-86.3156 15.1655,-13.1812 36.142,-20.5159 63.3194,-22.1813l0 -18.0001 -261.321 0 0 18.0001c26.327,1.34647 44.15,5.66934 53.5044,13.1812 9.31897,7.47644 13.819,16.6537 13.819,27.4963 0,14.3151 -6.4843,36.9924 -19.4883,67.9966l-39.1893 94.3236zm-14.9883 36.0003l-111.65 267.486 -114.698 -267.486 226.348 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"B Yekan";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID1") format(svg)}
+    @font-face { font-family:"Times New Roman";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#373435;stroke-width:4.09;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+    .fil2 {fill:#373435}
+    .fil1 {fill:#373435}
+    .fnt2 {font-weight:normal;font-size:56.54px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:65.36px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:65.36px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="619.98,518.53 14.89,518.53 623.81,257.35 "/>
+  <ellipse class="fil0 str0" cx="445.18" cy="204.12" rx="115.82" ry="117.57"/>
+  <line class="fil0 str0" x1="394.07" y1="98.58" x2="493.75" y2= "310.88" />
+  <circle class="fil1 str0" cx="395.47" cy="101.55" r="15.7"/>
+  <circle class="fil1 str0" cx="444.95" cy="203.8" r="15.7"/>
+  <path class="fil0 str0" d="M97.57 483.06c9.42,9.21 12.75,21.04 9.98,35.47"/>
+  <text x="359.3" y="57.75"  class="fil2 fnt0">A</text>
+  <text x="154.32" y="501.12"  class="fil2 fnt1">30</text>
+  <text x="205.91" y="469.05"  class="fil2 fnt2">0</text>
+  <rect class="fil0" x="0" y="0" width="650.27" height="551.08"/>
+ </g>
+</svg>

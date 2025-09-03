@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.12537cm" height="1.6122cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 223 169"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:1.8489}
+    .str3 {stroke:black;stroke-width:1.8489}
+    .str1 {stroke:#373435;stroke-width:1.8489;stroke-linecap:round}
+    .str2 {stroke:#373435;stroke-width:1.8489;stroke-dasharray:9.244494 5.546696}
+    .fil0 {fill:none}
+    .fil2 {fill:#373435}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:33.2781px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:36.5325px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1128103008">
+   <line class="fil0 str0" x1="45" y1="21" x2="223" y2= "21" />
+   <line class="fil0 str1" x1="53" y1="21" x2="62" y2= "9" />
+   <line class="fil0 str1" x1="68" y1="21" x2="77" y2= "9" />
+   <line class="fil0 str1" x1="84" y1="21" x2="93" y2= "9" />
+   <line class="fil0 str1" x1="99" y1="21" x2="108" y2= "9" />
+   <line class="fil0 str1" x1="114" y1="21" x2="123" y2= "9" />
+   <line class="fil0 str1" x1="130" y1="21" x2="139" y2= "9" />
+   <line class="fil0 str1" x1="145" y1="21" x2="154" y2= "9" />
+   <line class="fil0 str1" x1="160" y1="21" x2="169" y2= "9" />
+   <line class="fil0 str1" x1="176" y1="21" x2="185" y2= "9" />
+   <line class="fil0 str1" x1="191" y1="21" x2="200" y2= "9" />
+   <line class="fil0 str1" x1="206" y1="21" x2="215" y2= "9" />
+  </g>
+  <line class="fil0 str2" x1="151" y1="21" x2="151" y2= "162" />
+  <line class="fil0 str0" x1="14" y1="100" x2="151" y2= "21" />
+  <circle class="fil1 str3" cx="14" cy="100" r="9"/>
+  <path class="fil0 str0" d="M134 31c1,10 7,16 17,18"/>
+  <text x="96" y="81"  class="fil2 fnt0">60</text>
+  <text x="131" y="80"  class="fil2 fnt1">˚</text>
+  <rect class="fil0" width="223" height="169"/>
+ </g>
+</svg>

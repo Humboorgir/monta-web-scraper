@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.29085cm" height="3.2cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 998 970"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str4 {stroke:black;stroke-width:2.50089}
+    .str0 {stroke:#373435;stroke-width:3.47237;stroke-linejoin:round}
+    .str2 {stroke:black;stroke-width:11.5789;stroke-linecap:round;stroke-linejoin:round}
+    .str3 {stroke:black;stroke-width:4.96568;stroke-linecap:square}
+    .str1 {stroke:black;stroke-width:5.78947;stroke-dasharray:27.785506 27.785506}
+    .fil6 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil3 {fill:black}
+    .fil4 {fill:black}
+    .fil5 {fill:#373435;fill-rule:nonzero}
+    .fil1 {fill:black;fill-rule:nonzero}
+    .fil2 {fill:black;fill-rule:nonzero}
+    .fnt1 {font-weight:normal;font-size:81.046px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:104.204px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="187" y1="429" x2="158" y2= "429" />
+  <line class="fil0 str0" x1="187" y1="303" x2="158" y2= "303" />
+  <line class="fil0 str1" x1="394" y1="682" x2="177" y2= "682" />
+  <line class="fil0 str0" x1="187" y1="814" x2="158" y2= "814" />
+  <line class="fil0 str0" x1="187" y1="682" x2="158" y2= "682" />
+  <polyline class="fil0 str1" points="612,303 612,556 613,814 177,814 "/>
+  <path class="fil0 str2" d="M399 427c101,3 173,-46 208,-122"/>
+  <path class="fil0 str2" d="M394 682c34,106 135,144 218,126"/>
+  <polyline class="fil0 str1" points="179,429 394,429 394,552 394,682 "/>
+  <line class="fil0 str1" x1="612" y1="303" x2="182" y2= "302" />
+  <g>
+   <path class="fil1" d="M173 179l21 50 0 0 -1 -1 -2 0 -1 -1 -1 0 -2 -1 -1 0 -1 -1 -2 0 -1 0 -1 -1 -1 0 -2 0 -1 0 -1 0 -2 0 -1 0 -1 0 -2 0 -1 0 -1 0 -2 0 -1 0 -1 1 -2 0 -1 0 -1 1 -2 0 -1 1 -1 0 -2 1 -1 0 -1 1 21 -50zm-4 747l0 -706 8 0 0 706 -8 0z"/>
+  </g>
+  <g>
+   <path class="fil2" d="M769 558l-50 22 0 0 1 -2 0 -1 1 -1 0 -2 1 -1 0 -1 1 -2 0 -1 0 -1 1 -2 0 -1 0 -1 0 -2 0 -1 0 -1 0 -2 0 -1 0 -1 0 -2 0 -1 0 -1 0 -2 -1 -1 0 -1 0 -1 -1 -2 0 -1 -1 -1 0 -2 -1 -1 0 -1 -1 -2 50 21zm-592 -4l551 0 0 9 -551 0 0 -9z"/>
+  </g>
+  <text x="42" y="312"  class="fil3 fnt0">v</text>
+  <text x="95" y="328"  class="fil3 fnt1">2</text>
+  <text x="50" y="440"  class="fil3 fnt0">v</text>
+  <text x="102" y="457"  class="fil3 fnt1">1</text>
+  <text x="55" y="814"  class="fil3 fnt0">v</text>
+  <text x="108" y="830"  class="fil3 fnt1">2</text>
+  <text x="50" y="692"  class="fil3 fnt0">v</text>
+  <text x="102" y="708"  class="fil3 fnt1">1</text>
+  <line class="fil0 str0" x1="56" y1="682" x2="27" y2= "682" />
+  <line class="fil0 str0" x1="56" y1="804" x2="27" y2= "804" />
+  <text x="414" y="636"  class="fil3 fnt0">t</text>
+  <text x="446" y="660"  class="fil3 fnt1">1</text>
+  <text x="645" y="644"  class="fil3 fnt0">t</text>
+  <text x="671" y="652"  class="fil3 fnt1">2</text>
+  <text x="837" y="582"  class="fil3 fnt0">t</text>
+  <text x="923" y="580"  class="fil3 fnt0">s</text>
+  <text x="887" y="583"  class="fil4 fnt0">(</text>
+  <g transform="matrix(-1 -0 0 1 2645.67 1270.24)">
+   <text x="1645" y="-689"  class="fil4 fnt0">(</text>
+  </g>
+  <line class="fil0 str3" x1="253" y1="121" x2="352" y2= "121" />
+  <text x="145" y="144"  class="fil3 fnt0">v</text>
+  <text x="255" y="97"  class="fil3 fnt0">m</text>
+  <text x="281" y="192"  class="fil3 fnt0">s</text>
+  <text x="213" y="146"  class="fil4 fnt0">(</text>
+  <g transform="matrix(-1 -0 0 1 2036.9 835.173)">
+   <text x="1645" y="-689"  class="fil4 fnt0">(</text>
+  </g>
+  <text x="666" y="869"  class="fil3 fnt0">B</text>
+  <text x="641" y="300"  class="fil3 fnt0">A</text>
+  <polygon class="fil5" points="709,533 720,558 709,584 770,558 "/>
+  <polygon class="fil2 str4" points="147,239 173,228 199,239 173,178 "/>
+  <rect class="fil6" width="998" height="970"/>
+ </g>
+</svg>

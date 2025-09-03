@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.6278cm" height="3cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8980 5821"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:36.3116}
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+    .fil2 {fill:black}
+    .fnt0 {font-weight:normal;font-size:580.945px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:580.945px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="1515" y="2913"  class="fil0 fnt0">5</text>
+  <text x="3256" y="550"  class="fil0 fnt1">A</text>
+  <text x="369" y="5556"  class="fil0 fnt1">B</text>
+  <text x="4596" y="4576"  class="fil0 fnt1">D</text>
+  <text x="4895" y="5692"  class="fil0 fnt1">E</text>
+  <text x="8486" y="5015"  class="fil0 fnt1">C</text>
+  <text x="6207" y="2668"  class="fil0 fnt0">7</text>
+  <g id="_716478128">
+   <polyline class="fil1 str0" points="3517,820 4208,4723 2476,5030 907,5308 "/>
+   <line class="fil1 str0" x1="3527" y1="795" x2="8304" y2= "4841" />
+   <line class="fil1 str0" x1="3521" y1="777" x2="919" y2= "5282" />
+   <line class="fil1 str0" x1="4215" y1="4713" x2="4925" y2= "5042" />
+   <line class="fil1 str0" x1="919" y1="5282" x2="8304" y2= "4841" />
+  </g>
+  <rect class="fil2" transform="matrix(0.982081 -0.188458 0.188458 0.982081 3945.22 4538.53)" width="220" height="220"/>
+  <rect class="fil1" width="8980" height="5821"/>
+ </g>
+</svg>

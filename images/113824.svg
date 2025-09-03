@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.48556cm" height="2.55cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4191.56 4300.22"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:31.31;stroke-miterlimit:2.61313}
+    .str0 {stroke:black;stroke-width:31.31;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .str2 {stroke:black;stroke-width:31.31;stroke-miterlimit:2.61313;stroke-dasharray:156.559003 93.935402}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:500.95px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:500.95px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="1133.63,451.18 532.35,3845.25 3684.62,3845.25 "/>
+  <polyline class="fil0 str1" points="1798.97,1336.41 813.18,2260.04 2493.16,2260.04 532.35,3845.25 "/>
+  <path class="fil0 str1" d="M608.02 3443.69c204.34,19.54 356.41,197.54 343.83,402.44"/>
+  <path class="fil0 str2" d="M595.1 3548.44c130.87,43.42 224.1,159.63 238.09,296.81"/>
+  <text x="954.5" y="398.71"  class="fil1 fnt0">A</text>
+  <text x="2557.36" y="2239.66"  class="fil1 fnt0">D</text>
+  <text x="80.3" y="4026.65"  class="fil1 fnt0">B</text>
+  <text x="3798.14" y="4011.32"  class="fil1 fnt0">C</text>
+  <text x="327.71" y="2364.5"  class="fil1 fnt0">E</text>
+  <text x="1860.94" y="1288.2"  class="fil1 fnt0">F</text>
+  <text x="2062.66" y="4185.04"  class="fil1 fnt1">5</text>
+  <text x="311.04" y="3022.65"  class="fil1 fnt1">4</text>
+  <rect class="fil0" x="0" y="0" width="4191.56" height="4300.22"/>
+ </g>
+</svg>

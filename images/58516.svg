@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.65583cm" height="1.8cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 466 230"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:2.35781}
+    .str1 {stroke:red;stroke-width:2.35781}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:44.3614px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:44.3614px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="466,228 127,2 23,228 "/>
+  <line class="fil0 str1" x1="63" y1="140" x2="229" y2= "70" />
+  <path class="fil0 str0" d="M256 88c-23,5 -41,3 -55,-6"/>
+  <text x="36" y="75"  class="fil1 fnt0">4</text>
+  <text x="-5" y="190"  class="fil1 fnt0">2</text>
+  <text x="362" y="130"  class="fil1 fnt0">5</text>
+  <path class="fil0 str0" d="M35 201c13,4 20,13 21,27"/>
+  <path class="fil0 str0" d="M32 208c9,4 14,10 14,21"/>
+  <g transform="matrix(1 0 0 1 -1633.56 -2629.18)">
+   <text x="1828" y="2657"  class="fil1 fnt1">x</text>
+  </g>
+ </g>
+</svg>

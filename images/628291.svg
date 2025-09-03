@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021.5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="28.2124mm" height="21.1998mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 592.22 445.01"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="722" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Times New Roman">
+		<font-face-src>
+			<font-face-name name="Times New Roman"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="t" horiz-adv-x="277" d="M162.001 594.998l0 -146.994 104.505 0 0 -32.9966 -104.505 -0.994068 0 -290.172c0,-29.0204 4.16867,-48.6772 12.506,-58.6821 8.14494,-10.1651 18.8232,-15.1675 31.8422,-15.1675 10.8065,0 21.164,3.33494 31.3292,10.1651 9.97274,6.66987 17.8291,16.6747 23.3125,29.8541l19.0156 0c-11.3516,-32.1629 -27.5132,-56.3412 -48.3245,-72.6631 -21.0037,-16.1937 -42.5204,-24.3386 -64.6785,-24.3386 -15.0072,0 -29.6617,4.16867 -43.9955,12.506 -14.3338,8.30527 -24.8517,20.3303 -31.6819,35.8185 -6.83021,15.4882 -10.3255,39.3458 -10.3255,71.6691l0 302.004 -70.9957 0 0 15.4882c17.9894,7.18294 36.3316,19.1759 55.1547,36.0109 18.8552,16.9954 35.4978,37.1653 50.3447,60.6702 7.50361,12.3136 17.9894,34.9848 31.4895,67.8211l15.0072 0z"/>
+   <glyph unicode="v" horiz-adv-x="500" d="M8.65801 448.004l209.844 0 0 -17.9894 -13.6604 0c-12.6663,0 -22.3505,-3.1746 -29.0204,-9.36348 -6.83021,-6.15681 -10.1651,-14.4941 -10.1651,-24.8196 0,-11.3195 3.49527,-24.8196 10.3575,-40.5002l104.473 -247.17 104.505 256.341c7.50361,18.3422 11.1592,32.1629 11.1592,41.4943 0,4.68174 -1.1544,8.33734 -3.81594,11.3516 -3.6556,4.81 -8.17701,8.14494 -13.6604,9.97274 -5.51547,1.85987 -16.835,2.6936 -33.67,2.6936l0 17.9894 145.326 0 0 -17.9894c-16.9954,-1.3468 -28.6676,-4.84207 -35.1772,-10.3575 -11.4799,-9.81241 -21.645,-26.3268 -30.8161,-49.3186l-157.351 -383.325 -20.8113 0 -159.5 376.976c-7.18294,17.8291 -14.0131,30.4954 -20.5227,38.1914 -6.47747,7.66394 -14.8148,14.1414 -24.8196,19.4966 -5.51547,2.9822 -16.5143,5.64374 -32.676,8.33734l0 17.9894z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Times New Roman";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:black;stroke-width:3.9;stroke-miterlimit:2.61313}
+    .str1 {stroke:red;stroke-width:4.42;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .str3 {stroke:black;stroke-width:3.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .str2 {stroke:black;stroke-width:3.7;stroke-miterlimit:2.61313;stroke-dasharray:7.405733 3.702866}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:65.46px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="43.31" y1="417.23" x2="43.31" y2= "78.67" />
+  <line class="fil0 str0" x1="43.31" y1="278.34" x2="519.98" y2= "278.34" />
+  <g transform="matrix(1 0 0 1 -873.904 -1297.48)">
+   <text x="1410.62" y="1582.55"  class="fil1 fnt0">t</text>
+  </g>
+  <path class="fil0 str1" d="M43.31 345.96c34.69,-63.62 84.49,-123.19 119,-133.62 34.57,-10.49 61.02,32.21 83.82,60.65 12.31,15.65 46.4,67.33 84.01,67.39 32.09,0.06 64.23,-37.24 96.38,-76.91 2.24,-2.79 40.67,-52.69 57.59,-76.16"/>
+  <g transform="matrix(1 0 0 1 -1383.99 -1524.98)">
+   <text x="1410.62" y="1582.55"  class="fil1 fnt0">v</text>
+  </g>
+  <rect class="fil0" width="592.22" height="445.01"/>
+  <line class="fil0 str2" x1="471.75" y1="278.34" x2="471.75" y2= "203.96" />
+  <g transform="matrix(1 0 0 1 -948.364 -1242.12)">
+   <text x="1410.62" y="1582.55"  class="fil1 fnt0">t</text>
+  </g>
+  <line class="fil0 str3" x1="483.35" y1="299.5" x2="491.54" y2= "291.3" />
+ </g>
+</svg>

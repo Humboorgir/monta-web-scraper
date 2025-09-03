@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.75701cm" height="2.6cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1429 989"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:red;stroke-width:8.55031}
+    .str0 {stroke:black;stroke-width:7.52427}
+    .str2 {stroke:black;stroke-width:7.52427;stroke-dasharray:37.621359 22.572815}
+    .fil0 {fill:none}
+    .fil1 {fill:#373435}
+    .fnt1 {font-weight:normal;font-size:120.653px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:120.653px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="256,181 256,812 1104,812 "/>
+  <path class="fil0 str1" d="M846 812c-240,-439 -417,-534 -591,-273"/>
+  <polyline class="fil0 str2" points="448,812 448,395 256,395 "/>
+  <text x="197" y="148"  class="fil1 fnt0">x</text>
+  <g transform="matrix(-1 -0 0 1 2345.75 -5679.66)">
+   <text x="1879" y="5829"  class="fil1 fnt0">(</text>
+  </g>
+  <text x="327" y="148"  class="fil1 fnt0">m</text>
+  <text x="281" y="150"  class="fil1 fnt0">(</text>
+  <text x="1151" y="823"  class="fil1 fnt0">t</text>
+  <g transform="matrix(-1 -0 0 1 3262.96 -4996.3)">
+   <text x="1879" y="5829"  class="fil1 fnt0">(</text>
+  </g>
+  <text x="1272" y="823"  class="fil1 fnt0">s</text>
+  <text x="1209" y="833"  class="fil1 fnt0">(</text>
+  <text x="810" y="913"  class="fil1 fnt1">5</text>
+  <text x="413" y="916"  class="fil1 fnt1">2</text>
+  <text x="157" y="544"  class="fil1 fnt1">4</text>
+  <text x="53" y="398"  class="fil1 fnt1">7/2</text>
+  <rect class="fil0" width="1429" height="989"/>
+ </g>
+</svg>

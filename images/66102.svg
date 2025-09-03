@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.19752cm" height="2.3cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 83 86"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:0.568836}
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+    .fil2 {fill:#CCCCCC}
+    .fnt0 {font-weight:normal;font-size:10.7025px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="41" y="9"  class="fil0 fnt0">A</text>
+  <text x="23" y="30"  class="fil0 fnt0">M</text>
+  <text x="2" y="86"  class="fil0 fnt0">B</text>
+  <text x="74" y="84"  class="fil0 fnt0">C</text>
+  <line class="fil1" x1="1" y1="79" x2="1" y2= "86" />
+  <polygon class="fil2" points="45,13 37,31 54,40 "/>
+  <polygon class="fil1 str0" points="45,13 12,83 70,83 "/>
+  <line class="fil1 str0" x1="37" y1="31" x2="54" y2= "40" />
+  <text x="60" y="43"  class="fil0 fnt0">N</text>
+  <line class="fil1" x1="41" y1="0" x2="49" y2= "0" />
+  <line class="fil1" x1="0" y1="76" x2="0" y2= "86" />
+  <line class="fil1" x1="83" y1="77" x2="83" y2= "86" />
+ </g>
+</svg>

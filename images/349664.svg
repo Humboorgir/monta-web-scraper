@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.46732cm" height="2.39169cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2107 1128"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:7.07526}
+    .str1 {stroke:red;stroke-width:7.07526}
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+    .fnt1 {font-weight:normal;font-size:133.095px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:133.095px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(1 0 0 1 -1891.15 -1345.28)">
+   <text x="2234" y="1898"  class="fil0 fnt0">h</text>
+  </g>
+  <polygon class="fil1 str0" points="1866,1121 489,5 121,666 1866,666 "/>
+  <g transform="matrix(1 0 0 1 -2044.09 -1655.38)">
+   <text x="2234" y="1898"  class="fil0 fnt1">4</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -2236.85 -1307.71)">
+   <text x="2234" y="1898"  class="fil0 fnt1">3</text>
+  </g>
+  <line class="fil1 str1" x1="276" y1="384" x2="276" y2= "666" />
+  <g transform="matrix(1 0 0 1 -1820.34 -1314.59)">
+   <text x="2234" y="1898"  class="fil0 fnt1">1</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -277.298 -963.169)">
+   <text x="2234" y="1898"  class="fil0 fnt0">h</text>
+  </g>
+  <polyline class="fil1 str0" points="276,611 231,611 231,666 "/>
+  <g transform="matrix(1 0 0 1 -1338.42 -1638.16)">
+   <text x="2234" y="1898"  class="fil0 fnt1">10</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -784.213 -898.072)">
+   <text x="2234" y="1898"  class="fil0 fnt1">6</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -188.697 -922.171)">
+   <text x="2234" y="1898"  class="fil0 fnt1">2</text>
+  </g>
+  <polyline class="fil1 str0" points="1867,745 1803,745 1803,667 "/>
+ </g>
+</svg>

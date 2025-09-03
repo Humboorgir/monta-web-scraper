@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.06695cm" height="1.9cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1554 726"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:7.24959}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:136.399px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:136.399px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="139" y1="572" x2="1425" y2= "572" />
+  <line class="fil0 str0" x1="139" y1="572" x2="1012" y2= "143" />
+  <line class="fil0 str0" x1="1012" y1="143" x2="1425" y2= "572" />
+  <line class="fil0 str0" x1="1012" y1="143" x2="1108" y2= "572" />
+  <text x="16" y="623"  class="fil1 fnt0">B</text>
+  <text x="1457" y="621"  class="fil1 fnt0">C</text>
+  <text x="963" y="106"  class="fil1 fnt0">A</text>
+  <text x="1051" y="710"  class="fil1 fnt0">M</text>
+  <path class="fil0 str0" d="M309 488c23,25 35,52 35,83"/>
+  <path class="fil0 str0" d="M1030 222c21,5 35,-1 41,-19"/>
+  <path class="fil0 str0" d="M911 192c32,33 72,43 119,30"/>
+  <text x="1065" y="349"  class="fil1 fnt0">α</text>
+  <text x="929" y="349"  class="fil1 fnt0">α</text>
+  <text x="848" y="338"  class="fil1 fnt1">2</text>
+  <text x="1243" y="690"  class="fil1 fnt1">2</text>
+  <text x="1279" y="338"  class="fil1 fnt1">3</text>
+  <line class="fil0" x1="1554" y1="510" x2="1554" y2= "623" />
+  <line class="fil0" x1="0" y1="510" x2="0" y2= "613" />
+  <line class="fil0" x1="987" y1="0" x2="1071" y2= "0" />
+  <line class="fil0" x1="1060" y1="726" x2="1170" y2= "726" />
+  <text x="365" y="550"  class="fil1 fnt0">α</text>
+ </g>
+</svg>

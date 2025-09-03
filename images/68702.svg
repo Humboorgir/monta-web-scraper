@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.58342cm" height="2.3cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2241 1438"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:11.5131}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:184.196px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:184.196px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="1089,240 1829,1347 236,1348 "/>
+  <line class="fil0 str0" x1="521" y1="983" x2="1589" y2= "983" />
+  <text x="245" y="1020"  class="fil1 fnt0">M</text>
+  <text x="1670" y="1007"  class="fil1 fnt0">N</text>
+  <text x="1041" y="165"  class="fil1 fnt0">A</text>
+  <text x="36" y="1430"  class="fil1 fnt0">B</text>
+  <text x="1880" y="1435"  class="fil1 fnt0">C</text>
+  <line class="fil0" x1="954" y1="0" x2="1075" y2= "0" />
+  <line class="fil0" x1="0" y1="1429" x2="0" y2= "1276" />
+  <line class="fil0" x1="2041" y1="1412" x2="2041" y2= "1259" />
+  <text x="296" y="532"  class="fil1 fnt0">x</text>
+  <text x="574" y="521"  class="fil1 fnt1">3</text>
+  <text x="1872" y="1172"  class="fil1 fnt0">x</text>
+  <text x="2118" y="1157"  class="fil1 fnt1">1</text>
+  <text x="1996" y="1170"  class="fil1 fnt1">-</text>
+  <text x="152" y="1210"  class="fil1 fnt0">x</text>
+  <text x="1415" y="600"  class="fil1 fnt0">x</text>
+  <text x="435" y="570"  class="fil1 fnt0">+</text>
+  <polyline class="fil0 str0" points="1100,926 1148,983 1095,1027 "/>
+  <polyline class="fil0 str0" points="1143,927 1191,984 1139,1028 "/>
+  <polyline class="fil0 str0" points="1087,1290 1134,1347 1082,1391 "/>
+  <polyline class="fil0 str0" points="1127,1293 1174,1350 1122,1394 "/>
+  <line class="fil0" x1="2241" y1="1193" x2="2241" y2= "1003" />
+ </g>
+</svg>

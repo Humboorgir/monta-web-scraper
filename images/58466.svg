@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.86554cm" height="2.3cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1038 618"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:4.57606}
+    .str1 {stroke:red;stroke-width:4.57606}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:86.097px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="929,500 316,92 102,500 "/>
+  <line class="fil0 str1" x1="316" y1="92" x2="316" y2= "500" />
+  <line class="fil0 str1" x1="929" y1="500" x2="249" y2= "220" />
+  <polyline class="fil0 str0" points="275,235 262,260 234,249 "/>
+  <polyline class="fil0 str0" points="318,460 356,460 356,500 "/>
+  <g transform="matrix(1 0 0 1 -1587.96 1487.7)">
+   <text x="1933" y="-1250"  class="fil1 fnt0">O</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1646.51 1308.75)">
+   <text x="1933" y="-1250"  class="fil1 fnt0">A</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1934.24 1755.07)">
+   <text x="1933" y="-1250"  class="fil1 fnt0">B</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -949.032 1753.05)">
+   <text x="1933" y="-1250"  class="fil1 fnt0">C</text>
+  </g>
+  <text x="155" y="218"  class="fil1 fnt0">D</text>
+  <text x="295" y="618"  class="fil1 fnt0">H</text>
+ </g>
+</svg>

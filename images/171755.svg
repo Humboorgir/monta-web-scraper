@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.25198cm" height="2cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3459 2127"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:22;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:347px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" x="487" y="399" width="2682" height="1372"/>
+  <path class="fil0 str0" d="M487 1772l2682 -1372"/>
+  <path class="fil0 str0" d="M487 399l556 1088"/>
+  <rect class="fil0 str0" transform="matrix(0.394498 0.77107 -0.77107 0.394498 1002.17 1406.76)" width="104" height="121"/>
+  <text x="362" y="308"  class="fil1 fnt0">A</text>
+  <text x="3060" y="315"  class="fil1 fnt0">B</text>
+  <text x="137" y="1947"  class="fil1 fnt0">D</text>
+  <text x="3098" y="2122"  class="fil1 fnt0">C</text>
+  <text x="1164" y="1717"  class="fil1 fnt0">H</text>
+  <path class="fil0" d="M0 2075l581 0"/>
+  <path class="fil0" d="M2879 0l581 0"/>
+ </g>
+</svg>

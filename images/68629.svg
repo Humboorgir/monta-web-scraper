@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.61684cm" height="3.45cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 758 723"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:3.78035}
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+    .fnt1 {font-weight:normal;font-size:60.4813px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:60.4813px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="22" y="437"  class="fil0 fnt0">x</text>
+  <polygon class="fil1 str0" points="315,76 667,636 81,592 "/>
+  <line class="fil1 str0" x1="215" y1="302" x2="477" y2= "329" />
+  <text x="68" y="447"  class="fil0 fnt0">+</text>
+  <text x="102" y="432"  class="fil0 fnt1">1</text>
+  <text x="300" y="702"  class="fil0 fnt0">x</text>
+  <text x="347" y="712"  class="fil0 fnt0">+</text>
+  <text x="394" y="698"  class="fil0 fnt1">3</text>
+  <text x="144" y="187"  class="fil0 fnt0">x</text>
+  <text x="224" y="182"  class="fil0 fnt1">1</text>
+  <text x="184" y="186"  class="fil0 fnt1">-</text>
+  <line class="fil1" x1="290" y1="0" x2="326" y2= "0" />
+  <polyline class="fil1" points="709,684 758,684 758,578 "/>
+  <text x="514" y="345"  class="fil0 fnt0">E</text>
+  <text x="141" y="317"  class="fil0 fnt0">D</text>
+  <text x="290" y="51"  class="fil0 fnt0">A</text>
+  <text x="15" y="632"  class="fil0 fnt0">B</text>
+  <text x="700" y="669"  class="fil0 fnt0">C</text>
+  <line class="fil1" x1="237" y1="671" x2="287" y2= "671" />
+  <text x="295" y="383"  class="fil0 fnt0">x</text>
+  <text x="376" y="378"  class="fil0 fnt1">1</text>
+  <text x="336" y="382"  class="fil0 fnt1">-</text>
+  <line class="fil1" x1="296" y1="723" x2="400" y2= "723" />
+  <line class="fil1" x1="0" y1="401" x2="0" y2= "488" />
+ </g>
+</svg>

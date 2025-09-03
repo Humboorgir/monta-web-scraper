@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5.16059cm" height="1.18cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4766 1090"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:17.058}
+    .str0 {stroke:red;stroke-width:17.058}
+    .fil1 {fill:none}
+    .fil3 {fill:black}
+    .fil2 {fill:black}
+    .fil0 {fill:black;fill-rule:nonzero}
+    .fil4 {fill:red;fill-rule:nonzero}
+    .fnt1 {font-weight:normal;font-size:320.929px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:320.94px;font-family:'B Yekan'}
+    .fnt2 {font-weight:normal;font-size:320.94px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <path class="fil0" d="M3716 590l-3265 0 0 -17 3265 0 0 17zm142 -9l-172 74 2 -5 2 -4 2 -5 2 -5 2 -4 1 -5 2 -4 1 -5 1 -5 1 -4 1 -5 0 -4 1 -5 0 -4 0 -5 1 -5 -1 -4 0 -5 0 -4 -1 -5 0 -5 -1 -4 -1 -5 -1 -4 -1 -5 -2 -5 -1 -4 -2 -5 -2 -4 -2 -5 -2 -4 -2 -5 0 0 172 73z"/>
+  </g>
+  <path class="fil1 str0" d="M2772 581c-691,-1130 -691,-174 -1164,-174 -375,0 -467,-410 -711,-395 -191,11 -402,544 -436,578"/>
+  <circle class="fil2 str1" cx="461" cy="590" r="46"/>
+  <circle class="fil2 str1" cx="2772" cy="581" r="46"/>
+  <g transform="matrix(0.999997 0 0 0.999997 2944.48 5355.69)">
+   <text x="-2580" y="-4384"  class="fil3 fnt0">30</text>
+  </g>
+  <g transform="matrix(0.999997 0 0 0.999997 5171.03 5343.66)">
+   <text x="-2580" y="-4384"  class="fil3 fnt0">60</text>
+  </g>
+  <g transform="matrix(0.999997 0 0 0.999997 2732.07 5394.02)">
+   <text x="-2580" y="-4384"  class="fil3 fnt1">-</text>
+  </g>
+  <g transform="matrix(0.999995 0 0 0.999995 4932.76 5428.26)">
+   <text x="-2580" y="-4384"  class="fil3 fnt2">+</text>
+  </g>
+  <g>
+   <path class="fil4" d="M1073 68l-11 13 -10 -9 -10 -7 -10 -8 -10 -6 -10 -6 -10 -5 -10 -4 -11 -4 -10 -3 -10 -3 -10 -2 -10 -1 -11 -1 -10 0 -10 0 -10 1 -9 1 -10 2 -10 3 -9 3 -9 3 -10 4 -9 4 -8 5 -9 5 -8 6 -8 6 -8 7 -8 7 -7 8 -7 8 -7 8 -14 -11 8 -9 7 -8 8 -8 8 -8 9 -7 9 -7 9 -6 9 -6 10 -5 9 -5 10 -4 10 -4 11 -3 10 -2 11 -2 11 -2 10 -1 11 0 11 0 11 1 11 2 12 2 11 3 11 3 11 4 11 5 11 5 11 6 11 7 10 8 11 8 10 9zm100 101l-177 -60 5 -2 5 -2 4 -2 5 -2 4 -2 4 -3 4 -2 4 -3 4 -3 4 -2 4 -3 3 -3 4 -3 3 -3 3 -4 3 -3 3 -4 3 -3 3 -4 3 -4 2 -3 3 -4 2 -4 2 -4 3 -5 2 -4 1 -4 2 -5 2 -5 2 -4 1 -5 2 -5 0 0 78 169z"/>
+  </g>
+  <circle class="fil2 str1" cx="1297" cy="579" r="27"/>
+  <g transform="matrix(0.999995 0 0 0.999995 2766.02 4823.88)">
+   <text x="-2580" y="-4384"  class="fil3 fnt2">A</text>
+  </g>
+  <g transform="matrix(0.999995 0 0 0.999995 5387.28 4808.33)">
+   <text x="-2580" y="-4384"  class="fil3 fnt2">B</text>
+  </g>
+  <g transform="matrix(0.999995 0 0 0.999995 7123.87 5048.19)">
+   <text x="-2580" y="-4384"  class="fil3 fnt2">)</text>
+  </g>
+  <g transform="matrix(0.999995 0 0 0.999995 6720.62 5051.21)">
+   <text x="-2580" y="-4384"  class="fil3 fnt2">(</text>
+  </g>
+  <g transform="matrix(0.999995 0 0 0.999995 6856.91 5035.59)">
+   <text x="-2580" y="-4384"  class="fil3 fnt2">m</text>
+  </g>
+  <g transform="matrix(0.999995 0 0 0.999995 6479.33 5047.13)">
+   <text x="-2580" y="-4384"  class="fil3 fnt2">x</text>
+  </g>
+  <line class="fil1" x1="0" y1="311" x2="0" y2= "744" />
+  <line class="fil1" x1="4766" y1="238" x2="4766" y2= "672" />
+  <line class="fil1" x1="457" y1="1090" x2="879" y2= "1090" />
+ </g>
+</svg>

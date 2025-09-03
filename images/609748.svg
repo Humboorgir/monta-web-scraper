@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="56.4446mm" height="32.6321mm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 51896.2 30002.6"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:162.2;stroke-miterlimit:2.61313}
+    .str2 {stroke:#FF0004;stroke-width:229.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .str1 {stroke:#FF0004;stroke-width:161.8;stroke-miterlimit:2.61313;stroke-dasharray:809.088670 485.453202}
+    .str3 {stroke:black;stroke-width:162.2;stroke-miterlimit:2.61313;stroke-dasharray:810.927508 162.185502}
+    .str4 {stroke:black;stroke-width:162.2;stroke-miterlimit:2.61313;stroke-dasharray:810.927508 486.556505}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fil3 {fill:black}
+    .fil2 {fill:#FF0004}
+    .fnt1 {font-weight:normal;font-size:2919.2px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:2919.2px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="3607.3" y1="5055.7" x2="3607.3" y2= "28408.9" />
+  <line class="fil0 str0" x1="3607.3" y1="20462.3" x2="46457" y2= "20462.3" />
+  <path class="fil0 str0" d="M3607.3 26037.1c4609.9,-6403.6 7945.9,-10137.3 10007.8,-11201.2 2208.4,-1139.1 2589.7,855.5 4339.9,581 934.5,-146.7 1871.5,-749 2810.8,-1806.6 6609.2,-7199.5 9318.3,-48 13136.6,6852"/>
+  <line class="fil0 str1" x1="17950.9" y1="12254.7" x2="3607.3" y2= "20462.3" />
+  <line class="fil0 str1" x1="25156.4" y1="8399.9" x2="37062.3" y2= "20484.1" />
+  <text x="2994.8" y="4437.4"  class="fil1 fnt0">x(m)</text>
+  <text x="47151.5" y="21165.8"  class="fil1 fnt0">t(s)</text>
+  <text x="36042.5" y="23797.4"  class="fil2 fnt0">t</text>
+  <line class="fil0 str2" x1="36901.6" y1="21819.5" x2="37367.9" y2= "21353.2" />
+  <text x="28078.3" y="22854.7"  class="fil1 fnt1">7</text>
+  <text x="12428.3" y="22854.7"  class="fil1 fnt1">3</text>
+  <line class="fil0 str3" x1="13615.1" y1="14835.9" x2="13615.1" y2= "20462.3" />
+  <line class="fil0 str4" x1="28899.5" y1="12254.7" x2="28899.5" y2= "20462.3" />
+  <text x="1427.9" y="20936.6"  class="fil1 fnt1">0</text>
+  <text x="1427.2" y="15361.4"  class="fil1 fnt1">6</text>
+  <line class="fil0 str4" x1="13615.1" y1="14835.9" x2="3607.3" y2= "14835.9" />
+  <line class="fil0 str4" x1="28899.5" y1="12254.7" x2="3607.3" y2= "12254.7" />
+  <text x="1429.1" y="12815.1"  class="fil1 fnt1">8</text>
+  <rect class="fil0" y="-0" width="51896.2" height="30002.6"/>
+  <circle class="fil3" cx="28899.5" cy="12254.7" r="459.7"/>
+  <circle class="fil3" cx="13615.1" cy="14835.9" r="459.7"/>
+ </g>
+</svg>

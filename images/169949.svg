@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5.95087cm" height="3.75cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5505 3469"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:red;stroke-width:19.1974}
+    .str3 {stroke:black;stroke-width:16.9321}
+    .str2 {stroke:black;stroke-width:16.9321}
+    .str0 {stroke:black;stroke-width:16.9321;stroke-dasharray:84.660361 50.796217}
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+    .fnt2 {font-weight:normal;font-size:270.894px;font-family:'B Yekan'}
+    .fnt4 {font-weight:normal;font-size:304.758px;font-family:'B Nazanin'}
+    .fnt1 {font-weight:normal;font-size:304.758px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:304.758px;font-family:'Times New Roman'}
+    .fnt3 {font-weight:normal;font-size:321.69px;font-family:'B Nazanin'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="126" y="344"  class="fil0 fnt0">x</text>
+  <text x="478" y="347"  class="fil0 fnt0">m</text>
+  <text x="4269" y="2922"  class="fil0 fnt0">t</text>
+  <text x="4557" y="2905"  class="fil0 fnt0">s</text>
+  <text x="338" y="350"  class="fil0 fnt0">(</text>
+  <g transform="matrix(-1 -0 0 1 -2146.8 2823.93)">
+   <text x="-2975" y="-2474"  class="fil0 fnt0">(</text>
+  </g>
+  <text x="4410" y="2909"  class="fil0 fnt0">(</text>
+  <g transform="matrix(-1 -0 0 1 1827.46 5382.94)">
+   <text x="-2975" y="-2474"  class="fil0 fnt0">(</text>
+  </g>
+  <polyline class="fil1 str0" points="2752,2863 2752,1612 406,1612 "/>
+  <line class="fil1 str1" x1="1573" y1="2863" x2="3572" y2= "768" />
+  <path class="fil1 str1" d="M406 2863c430,-742 629,-984 1258,-734 343,136 891,-264 1091,-522 287,-370 423,-791 583,-1205"/>
+  <text x="219" y="3042"  class="fil0 fnt1">0</text>
+  <text x="80" y="1658"  class="fil0 fnt1">1</text>
+  <text x="215" y="1658"  class="fil0 fnt1">2</text>
+  <text x="2716" y="3144"  class="fil0 fnt0">t</text>
+  <text x="2783" y="3163"  class="fil0 fnt2">0</text>
+  <polyline class="fil1 str2" points="4209,2863 406,2863 406,479 "/>
+  <text x="1512" y="3127"  class="fil0 fnt0">t</text>
+  <text x="1600" y="3156"  class="fil0 fnt2">0</text>
+  <line class="fil1 str3" x1="1453" y1="3200" x2="1786" y2= "3200" />
+  <text x="1519" y="3390"  class="fil0 fnt1">2</text>
+  <text x="3518" y="597"  class="fil0 fnt3">خط مماس بر نمودار</text>
+  <text x="4315" y="989"  class="fil0 fnt4">در لحظۀ</text>
+  <text x="3981" y="990"  class="fil0 fnt0">t</text>
+  <text x="4065" y="1014"  class="fil0 fnt2">0</text>
+  <rect class="fil1" width="5505" height="3469"/>
+ </g>
+</svg>

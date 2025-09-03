@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.76083cm" height="2.47611cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 314 282"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:1.70786}
+    .str1 {stroke:black;stroke-width:1.70786;stroke-dasharray:8.539297 5.123578}
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+    .fnt0 {font-weight:normal;font-size:32.1328px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(1 0 0 1 1674.45 -568.906)">
+   <text x="-1380" y="810"  class="fil0 fnt0">C</text>
+  </g>
+  <polygon class="fil1 str0" points="272,241 155,38 39,241 "/>
+  <line class="fil1 str1" x1="155" y1="38" x2="155" y2= "241" />
+  <line class="fil1 str1" x1="39" y1="241" x2="214" y2= "140" />
+  <polyline class="fil1 str0" points="218,149 210,154 205,147 "/>
+  <polyline class="fil1 str0" points="155,230 165,230 165,241 "/>
+  <line class="fil1 str1" x1="214" y1="140" x2="214" y2= "241" />
+  <polyline class="fil1 str0" points="215,231 224,231 224,242 "/>
+  <g transform="matrix(1 0 0 1 1521.52 -788.577)">
+   <text x="-1380" y="810"  class="fil0 fnt0">A</text>
+  </g>
+  <g transform="matrix(1 0 0 1 1379.87 -568.907)">
+   <text x="-1380" y="810"  class="fil0 fnt0">B</text>
+  </g>
+  <g transform="matrix(1 0 0 1 1616.01 -674.717)">
+   <text x="-1380" y="810"  class="fil0 fnt0">M</text>
+  </g>
+  <g transform="matrix(1 0 0 1 1587.41 -528.783)">
+   <text x="-1380" y="810"  class="fil0 fnt0">N</text>
+  </g>
+  <g transform="matrix(1 0 0 1 1523.77 -528.612)">
+   <text x="-1380" y="810"  class="fil0 fnt0">H</text>
+  </g>
+ </g>
+</svg>

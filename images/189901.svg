@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.05252cm" height="2.45cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1385 837"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:6.26495}
+    .fil0 {fill:none}
+    .fil2 {fill:black}
+    .fil1 {fill:gray}
+    .fnt0 {font-weight:normal;font-size:100.232px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" x="178" y="116" width="1062" height="611"/>
+  <line class="fil0 str0" x1="178" y1="727" x2="1240" y2= "116" />
+  <line class="fil0 str0" x1="178" y1="116" x2="442" y2= "575" />
+  <rect class="fil1 str0" transform="matrix(-0.498612 -0.866826 0.866826 -0.498612 442.134 575.076)" width="51.313" height="51.313"/>
+  <text x="440" y="678"  class="fil2 fnt0">H</text>
+  <text x="90" y="125"  class="fil2 fnt0">A</text>
+  <text x="1274" y="124"  class="fil2 fnt0">D</text>
+  <text x="1276" y="758"  class="fil2 fnt0">C</text>
+  <text x="94" y="758"  class="fil2 fnt0">B</text>
+  <rect class="fil0" width="1385" height="837"/>
+ </g>
+</svg>

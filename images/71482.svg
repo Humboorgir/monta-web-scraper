@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.17517cm" height="2.24cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 237 244"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:1.78552}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:25.1948px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:33.5939px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="52,164 37,142 21,120 37,98 53,77 79,85 104,94 104,121 104,148 78,156 "/>
+  <polygon class="fil0 str0" points="136,19 177,23 217,26 226,66 236,105 201,126 166,147 135,121 104,94 120,56 "/>
+  <polygon class="fil0 str0" points="135,243 160,224 185,206 175,177 166,148 135,148 104,148 95,177 85,206 110,224 "/>
+  <rect class="fil0 str0" x="104" y="136" width="10.9524" height="11.8047"/>
+  <text x="57" y="132"  class="fil1 fnt0">S</text>
+  <text x="78" y="137"  class="fil1 fnt1">1</text>
+  <text x="155" y="84"  class="fil1 fnt0">S</text>
+  <text x="178" y="89"  class="fil1 fnt1">3</text>
+  <text x="116" y="190"  class="fil1 fnt0">S</text>
+  <text x="140" y="196"  class="fil1 fnt1">2</text>
+  <line class="fil0" x1="113" y1="0" x2="154" y2= "0" />
+  <line class="fil0" x1="0" y1="91" x2="0" y2= "136" />
+ </g>
+</svg>

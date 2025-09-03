@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.79756cm" height="3.3cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1263 1098"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:5.48248}
+    .fil0 {fill:none}
+    .fil2 {fill:black}
+    .fil1 {fill:black;fill-rule:nonzero}
+    .fnt1 {font-weight:normal;font-size:103.151px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:103.151px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="96" y1="910" x2="1173" y2= "910" />
+  <line class="fil0 str0" x1="96" y1="910" x2="782" y2= "164" />
+  <line class="fil0 str0" x1="782" y1="164" x2="1173" y2= "910" />
+  <line class="fil0 str0" x1="466" y1="508" x2="332" y2= "910" />
+  <g>
+   <path class="fil1" d="M411 683l-15 45 -6 -2 16 -45 5 2zm3 -18l4 70 -2 -2 -1 -1 -1 -1 -1 -1 -2 -1 -1 -1 -1 -1 -2 -1 -1 -1 -2 -1 -1 -1 -2 -1 -1 0 -2 -1 -1 0 -2 -1 -1 0 -2 -1 -1 0 -2 -1 -1 0 -2 0 -2 0 -1 0 -2 0 -2 -1 -1 1 -2 0 -2 0 -2 0 -1 0 -2 0 0 0 45 -53z"/>
+  </g>
+  <line class="fil0 str0" x1="959" y1="501" x2="822" y2= "910" />
+  <g>
+   <path class="fil1" d="M901 682l-15 45 -5 -1 15 -46 5 2zm3 -18l4 70 -1 -2 -1 -1 -2 -1 -1 -1 -1 -1 -2 -1 -1 -1 -2 -1 -1 -1 -1 -1 -2 -1 -1 -1 -2 0 -1 -1 -2 -1 -1 0 -2 -1 -1 0 -2 0 -1 -1 -2 0 -2 0 -1 0 -2 -1 -2 0 -1 0 -2 0 -2 0 -2 1 -1 0 -2 0 -2 0 0 0 45 -53z"/>
+  </g>
+  <text x="750" y="114"  class="fil2 fnt0">A</text>
+  <line class="fil0" x1="749" y1="0" x2="829" y2= "0" />
+  <text x="997" y="499"  class="fil2 fnt0">N</text>
+  <text x="347" y="487"  class="fil2 fnt0">M</text>
+  <text x="49" y="1036"  class="fil2 fnt0">B</text>
+  <text x="282" y="1036"  class="fil2 fnt0">E</text>
+  <text x="790" y="1036"  class="fil2 fnt0">F</text>
+  <text x="1149" y="1037"  class="fil2 fnt0">C</text>
+  <text x="170" y="1026"  class="fil2 fnt1">2</text>
+  <text x="975" y="1026"  class="fil2 fnt1">2</text>
+  <text x="901" y="311"  class="fil2 fnt1">7</text>
+  <text x="1103" y="696"  class="fil2 fnt1">4</text>
+  <text x="550" y="311"  class="fil2 fnt1">6</text>
+  <text x="183" y="695"  class="fil2 fnt1">8</text>
+  <line class="fil0" x1="421" y1="1098" x2="500" y2= "1098" />
+  <line class="fil0" x1="0" y1="899" x2="0" y2= "1080" />
+  <line class="fil0" x1="1263" y1="853" x2="1263" y2= "1034" />
+ </g>
+</svg>

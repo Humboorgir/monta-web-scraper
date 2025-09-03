@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="45.1778mm" height="41.5397mm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 100302.4 92225.2"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:391.6;stroke-miterlimit:2.61313}
+    .str1 {stroke:black;stroke-width:391.6;stroke-miterlimit:2.61313;stroke-dasharray:1958.190144 1174.914086}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fil2 {fill:black}
+    .fnt1 {font-weight:normal;font-size:7049px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:7049px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="8677.3" y1="90913.5" x2="8677.3" y2= "11216.1" />
+  <line class="fil0 str0" x1="88668.9" y1="48495.4" x2="8677.3" y2= "48495.4" />
+  <path class="fil0 str0" d="M8677.3 70166.3c17007.8,28612.2 36978.5,12674.5 59912.2,-47813.4"/>
+  <line class="fil0 str1" x1="26111" y1="83877.8" x2="26111" y2= "48495.4" />
+  <line class="fil0 str1" x1="8677.3" y1="83898.7" x2="47304.9" y2= "83898.7" />
+  <text x="1924.9" y="7407.8"  class="fil1 fnt0">x(m)</text>
+  <text x="90174.4" y="50194.1"  class="fil1 fnt0">t</text>
+  <text x="94480.2" y="50194.1"  class="fil1 fnt0">s</text>
+  <text x="92132.8" y="50194.1"  class="fil1 fnt0">(</text>
+  <text x="97223.5" y="50194.1"  class="fil1 fnt0">)</text>
+  <text x="57658.3" y="53797.8"  class="fil1 fnt1">8</text>
+  <text x="24029.8" y="46161.1"  class="fil1 fnt1">3</text>
+  <text x="3866.9" y="49641"  class="fil1 fnt1">0</text>
+  <circle class="fil2 str0" cx="26111" cy="83877.8" r="1110.1"/>
+  <rect class="fil0" x="-0.1" y="-0.1" width="100302.4" height="92225.2"/>
+ </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.77666cm" height="3.3cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 819 715"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:3.94421}
+    .str1 {stroke:black;stroke-width:3.94421}
+    .str2 {stroke:black;stroke-width:3.94421;stroke-dasharray:19.721044 11.832626}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:63.1029px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="52,82 52,604 711,604 "/>
+  <path class="fil0 str1" d="M52 604c53,-248 182,-393 386,-437l-386 437z"/>
+  <path class="fil0 str1" d="M438 168c-53,248 -182,392 -386,435"/>
+  <line class="fil0 str2" x1="438" y1="168" x2="438" y2= "604" />
+  <text x="38" y="61"  class="fil1 fnt0">x</text>
+  <text x="750" y="615"  class="fil1 fnt0">t</text>
+  <text x="430" y="672"  class="fil1 fnt0">t</text>
+  <text x="282" y="427"  class="fil1 fnt0">C</text>
+  <text x="203" y="366"  class="fil1 fnt0">B</text>
+  <text x="225" y="215"  class="fil1 fnt0">A</text>
+  <rect class="fil0" width="819" height="715"/>
+ </g>
+</svg>

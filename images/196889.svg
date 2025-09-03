@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.81519cm" height="4cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1117.24 928.1"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:4.4;stroke-miterlimit:2.61313}
+    .str2 {stroke:black;stroke-width:4.4;stroke-miterlimit:2.61313}
+    .str1 {stroke:#373435;stroke-width:4.4;stroke-miterlimit:2.61313;stroke-dasharray:21.994302 13.196581}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fil2 {fill:black}
+    .fil3 {fill:black;fill-rule:nonzero}
+    .fnt1 {font-weight:normal;font-size:70.38px;font-family:'Arial'}
+    .fnt3 {font-weight:normal;font-size:70.38px;font-family:'B Nazanin'}
+    .fnt0 {font-weight:normal;font-size:70.38px;font-family:'B Yekan'}
+    .fnt2 {font-weight:normal;font-size:70.38px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_612864160">
+   <line class="fil0 str0" x1="213.34" y1="113.33" x2="213.34" y2= "903.75" />
+   <line class="fil0 str0" x1="213.34" y1="486.34" x2="991.26" y2= "486.34" />
+   <polyline class="fil0 str1" points="752.59,486.34 752.59,327.54 213.34,327.54 "/>
+   <polyline class="fil0 str1" points="593.19,486.34 593.19,565.74 213.34,565.74 "/>
+   <line class="fil0 str2" x1="746.34" y1="486.34" x2="211.61" y2= "769.59" />
+   <text x="146.85" y="339.8"  class="fil1 fnt0">3</text>
+   <text x="32.41" y="579.52"  class="fil1 fnt0">-1/5</text>
+   <path class="fil0 str2" d="M832.94 610.13c-15.03,-88.34 -30.06,-176.68 -43.34,-224.37 -13.29,-47.7 -24.83,-54.75 -35.9,-54.94 -11.07,-0.18 -21.66,6.5 -35.81,35.14 -14.15,28.64 -31.87,79.22 -51.96,118.35 -20.09,39.13 -42.54,66.81 -83.28,87.88 -40.74,21.08 -99.76,35.56 -156.11,26.35 -56.36,-9.21 -110.05,-42.11 -145.14,-82.98 -35.09,-40.87 -51.57,-89.71 -68.05,-138.55"/>
+   <text x="139.88" y="395.73"  class="fil1 fnt0">2</text>
+   <text x="577.15" y="455.1"  class="fil1 fnt0">3</text>
+   <text x="733.27" y="549.26"  class="fil1 fnt0">4</text>
+   <circle class="fil2 str2" cx="594.75" cy="566.64" r="8.56"/>
+   <text x="107.76" y="774.09"  class="fil1 fnt0">-6</text>
+   <g>
+    <path class="fil3" d="M503.22 652.71l-0.27 4.39 0 0 -4.5 -0.36 -4.08 -0.48 -3.69 -0.6 -3.32 -0.71 -2.96 -0.81 -2.63 -0.91 -2.32 -1.01 -2.02 -1.1 -1.74 -1.2 -1.47 -1.29 -1.21 -1.38 -0.95 -1.46 -0.69 -1.51 -0.44 -1.54 -0.21 -1.54 -0.01 -1.51 0.17 -1.47 0.31 -1.42 0.43 -1.36 0.52 -1.3 0.59 -1.23 0.64 -1.16 0.67 -1.08 0.68 -1 0.67 -0.91 0.65 -0.82 0.6 -0.72 0.54 -0.61 0.46 -0.49 0.36 -0.37 0.23 -0.23 0.11 -0.11 3.02 3.2 -0.04 0.03 -0.19 0.19 -0.3 0.31 -0.39 0.42 -0.47 0.52 -0.52 0.63 -0.56 0.71 -0.58 0.79 -0.58 0.85 -0.56 0.91 -0.53 0.96 -0.47 0.99 -0.4 1 -0.32 1.01 -0.22 1.01 -0.11 0.99 0 0.96 0.12 0.94 0.26 0.92 0.42 0.92 0.59 0.92 0.81 0.93 1.06 0.94 1.34 0.93 1.65 0.9 1.98 0.87 2.33 0.81 2.7 0.74 3.09 0.66 3.49 0.56 3.91 0.46 4.34 0.35 0 0zm43.39 48.36l-3.35 -2.86 1.32 -1.63 1.17 -1.64 1.03 -1.65 0.89 -1.66 0.74 -1.65 0.6 -1.65 0.45 -1.63 0.3 -1.62 0.15 -1.6 0 -1.58 -0.15 -1.56 -0.3 -1.54 -0.46 -1.51 -0.62 -1.49 -0.79 -1.47 -0.96 -1.45 -1.14 -1.42 -1.33 -1.39 -1.53 -1.35 -1.73 -1.32 -1.94 -1.26 -2.14 -1.21 -2.36 -1.15 -2.58 -1.08 -2.81 -1.01 -3.03 -0.93 -3.26 -0.85 -3.49 -0.76 -3.73 -0.66 -3.97 -0.56 -4.21 -0.45 -4.45 -0.34 0.27 -4.39 4.58 0.35 4.35 0.47 4.12 0.58 3.88 0.69 3.66 0.8 3.44 0.9 3.22 0.99 3.01 1.09 2.8 1.18 2.59 1.26 2.38 1.35 2.18 1.43 1.98 1.51 1.78 1.58 1.59 1.66 1.39 1.73 1.18 1.79 0.99 1.84 0.79 1.89 0.59 1.94 0.39 1.97 0.19 1.98 0 1.99 -0.19 2 -0.37 1.99 -0.54 1.98 -0.71 1.97 -0.88 1.95 -1.03 1.92 -1.18 1.89 -1.33 1.86 -1.47 1.83zm-21.93 22.3l12.21 -39.09 0.45 1.02 0.47 1 0.49 0.98 0.51 0.95 0.53 0.93 0.55 0.91 0.57 0.88 0.59 0.86 0.61 0.83 0.63 0.81 0.65 0.79 0.67 0.76 0.69 0.74 0.71 0.71 0.74 0.69 0.75 0.67 0.78 0.64 0.8 0.62 0.82 0.59 0.84 0.57 0.86 0.54 0.88 0.52 0.9 0.5 0.92 0.47 0.94 0.45 0.96 0.42 0.98 0.4 1 0.38 1.02 0.35 1.04 0.33 1.06 0.3 1.08 0.28 0 0 -36.69 18.19z"/>
+   </g>
+   <text x="432.24" y="848.41"  class="fil1 fnt1">t</text>
+   <text x="467.58" y="853.72"  class="fil1 fnt1">=</text>
+   <text x="513.21" y="839.1"  class="fil1 fnt0">3</text>
+   <text x="561.78" y="845.08"  class="fil1 fnt2">s</text>
+   <text x="364.04" y="761.79"  class="fil1 fnt3">خط مماس بر نمودار</text>
+   <text x="615.85" y="842.06"  class="fil1 fnt3">در لحظه</text>
+   <text x="1001.39" y="505.7"  class="fil1 fnt2">t</text>
+   <text x="1025.6" y="501.97"  class="fil1 fnt2">(</text>
+   <text x="1048.67" y="500.77"  class="fil1 fnt2">s</text>
+   <g transform="matrix(-1 -0 0 1 3487.11 730.395)">
+    <text x="2384.16" y="-228.42"  class="fil1 fnt2">(</text>
+   </g>
+   <text x="157.48" y="78.66"  class="fil1 fnt2">x</text>
+   <text x="200.81" y="74.56"  class="fil1 fnt2">(</text>
+   <text x="223.83" y="73.37"  class="fil1 fnt2">m</text>
+   <g transform="matrix(-1 -0 0 1 2685.98 302.988)">
+    <text x="2384.16" y="-228.42"  class="fil1 fnt2">(</text>
+   </g>
+  </g>
+  <rect class="fil0" x="-0" y="-0" width="1117.24" height="928.1"/>
+ </g>
+</svg>

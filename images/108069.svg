@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.50693cm" height="2.22912cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 934 830"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:6.57021}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:105.116px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:105.116px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="801,263 96,661 801,661 "/>
+  <polyline class="fil0 str0" points="97,657 187,131 804,265 "/>
+  <polyline class="fil0 str0" points="373,171 313,539 313,661 "/>
+  <polyline class="fil0 str0" points="183,162 214,169 219,138 "/>
+  <polyline class="fil0 str0" points="370,202 396,209 402,178 "/>
+  <polyline class="fil0 str0" points="314,612 365,612 365,661 "/>
+  <polyline class="fil0 str0" points="800,612 749,612 749,661 "/>
+  <text x="235" y="536"  class="fil1 fnt0">O</text>
+  <text x="293" y="761"  class="fil1 fnt0">F</text>
+  <text x="772" y="761"  class="fil1 fnt0">C</text>
+  <text x="39" y="761"  class="fil1 fnt0">D</text>
+  <text x="128" y="114"  class="fil1 fnt0">A</text>
+  <text x="369" y="151"  class="fil1 fnt0">E</text>
+  <text x="823" y="260"  class="fil1 fnt0">B</text>
+  <text x="271" y="358"  class="fil1 fnt1">3</text>
+  <text x="827" y="514"  class="fil1 fnt1">3</text>
+  <text x="70" y="389"  class="fil1 fnt1">5</text>
+  <rect class="fil0" width="934" height="830"/>
+ </g>
+</svg>

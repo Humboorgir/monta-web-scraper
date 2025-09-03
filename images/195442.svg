@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.02101cm" height="2.9cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 964.92 695.91"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:4.14;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:77.97px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="872.08,627.7 271.16,120.83 86.98,439.1 "/>
+  <polyline class="fil0 str0" points="251.52,441.71 271.16,120.83 433.7,522.39 "/>
+  <line class="fil0 str0" x1="86.98" y1="439.1" x2="402" y2= "444.09" />
+  <text x="237.9" y="101.93"  class="fil1 fnt0">A</text>
+  <text x="23.56" y="474.16"  class="fil1 fnt0">B</text>
+  <text x="884.68" y="661.29"  class="fil1 fnt0">C</text>
+  <text x="420.66" y="461.59"  class="fil1 fnt0">O</text>
+  <text x="269.3" y="428.12"  class="fil1 fnt0">D</text>
+  <text x="399.96" y="603.2"  class="fil1 fnt0">M</text>
+  <rect class="fil0" y="-0" width="964.92" height="695.91"/>
+ </g>
+</svg>

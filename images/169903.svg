@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.8924cm" height="3.75cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1380.25 1057.96"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#373435;stroke-width:5.16;stroke-miterlimit:22.9256}
+    .str0 {stroke:black;stroke-width:5.16;stroke-miterlimit:22.9256}
+    .str1 {stroke:black;stroke-width:5.16;stroke-miterlimit:2.61313}
+    .str3 {stroke:red;stroke-width:7.74;stroke-linecap:round;stroke-miterlimit:22.9256}
+    .str4 {stroke:#373435;stroke-width:5.16;stroke-miterlimit:22.9256;stroke-dasharray:25.795672 15.477403}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt3 {font-weight:normal;font-size:72.22px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:82.54px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:82.54px;font-family:'Times New Roman'}
+    .fnt2 {font-weight:normal;font-size:87.7px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="157.26" y1="1057.96" x2="157.26" y2= "191.17" />
+  <line class="fil0 str0" x1="79.88" y1="651.74" x2="1169.49" y2= "651.74" />
+  <line class="fil0 str1" x1="1032.2" y1="636.47" x2="1032.2" y2= "667.02" />
+  <text x="348.41" y="597.66"  class="fil1 fnt0">5</text>
+  <text x="81.33" y="319.33"  class="fil1 fnt0">2</text>
+  <text x="1201.58" y="676"  class="fil1 fnt1">t</text>
+  <text x="1240.39" y="671.64"  class="fil1 fnt1">(</text>
+  <text x="1273.74" y="670.24"  class="fil1 fnt1">s</text>
+  <g transform="matrix(-1 -0 0 1 3781.75 -1240.53)">
+   <text x="2446.2" y="1912.16"  class="fil1 fnt1">(</text>
+  </g>
+  <line class="fil0 str1" x1="813.46" y1="636.47" x2="813.46" y2= "667.02" />
+  <line class="fil0 str1" x1="594.73" y1="636.47" x2="594.73" y2= "667.02" />
+  <line class="fil0 str1" x1="157.26" y1="636.47" x2="157.26" y2= "667.02" />
+  <line class="fil0 str1" x1="375.99" y1="636.47" x2="375.99" y2= "667.02" />
+  <text x="587.51" y="597.57"  class="fil1 fnt0">10</text>
+  <text x="987.98" y="728.35"  class="fil1 fnt0">20</text>
+  <text x="96.19" y="987.03"  class="fil1 fnt0">2</text>
+  <text x="96.19" y="819.88"  class="fil1 fnt0">1</text>
+  <text x="55.29" y="824.73"  class="fil1 fnt0">-</text>
+  <text x="55.38" y="988.83"  class="fil1 fnt0">-</text>
+  <line class="fil0 str2" x1="145.42" y1="328.89" x2="170.23" y2= "328.89" />
+  <line class="fil0 str2" x1="145.42" y1="813.4" x2="170.23" y2= "813.4" />
+  <line class="fil0 str2" x1="144.85" y1="974.88" x2="169.66" y2= "974.88" />
+  <line class="fil0 str3" x1="375.99" y1="813.41" x2="594.72" y2= "813.41" />
+  <line class="fil0 str3" x1="375.99" y1="974.89" x2="157.83" y2= "974.89" />
+  <line class="fil0 str3" x1="594.72" y1="327.42" x2="1032.2" y2= "327.42" />
+  <polyline class="fil0 str4" points="375.99,651.74 375.99,813.41 157.83,813.41 "/>
+  <polyline class="fil0 str4" points="155.62,328.2 594.72,328.2 594.72,814.75 "/>
+  <line class="fil0 str4" x1="1032.2" y1="327.42" x2="1032.2" y2= "643.93" />
+  <line class="fil0 str4" x1="375.99" y1="974.89" x2="375.99" y2= "813.41" />
+  <rect class="fil0" x="27.63" width="1317.35" height="1057.96"/>
+  <text x="104.83" y="152.11"  class="fil1 fnt2">(</text>
+  <g transform="matrix(-1 -0 0 1 2817.19 -1760.05)">
+   <text x="2446.2" y="1912.16"  class="fil1 fnt2">(</text>
+  </g>
+  <text x="145.72" y="149.35"  class="fil1 fnt2">m</text>
+  <text x="264.91" y="148.28"  class="fil1 fnt2">s</text>
+  <text x="51.97" y="157.08"  class="fil1 fnt2">a</text>
+  <text x="298.52" y="112.61"  class="fil1 fnt3">2</text>
+  <line class="fil0 str1" x1="253.1" y1="96.49" x2="226.02" y2= "157.87" />
+  <rect class="fil0" x="-0" y="55.04" width="1380.25" height="1002.92"/>
+ </g>
+</svg>

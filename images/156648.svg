@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.6708cm" height="3.65cm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1745.23 1363.81"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:6.96;stroke-miterlimit:2.61313}
+    .str1 {stroke:#373435;stroke-width:6.96;stroke-miterlimit:2.61313;stroke-dasharray:34.786446 20.871868}
+    .fil0 {fill:none}
+    .fil1 {fill:#373435}
+    .fnt1 {font-weight:normal;font-size:111.31px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:111.31px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M176.18 131.4l0 1151.62"/>
+  <path class="fil0 str0" d="M176.18 762.52l1320.52 0"/>
+  <text x="1525.93" y="772.47"  class="fil1 fnt0">t</text>
+  <text x="1570.79" y="768.82"  class="fil1 fnt0">(</text>
+  <text x="1603.93" y="769.87"  class="fil1 fnt0">s</text>
+  <g transform="matrix(-1 -0 0 1 4018.42 539.434)">
+   <text x="2335.4" y="229.38"  class="fil1 fnt0">(</text>
+  </g>
+  <text x="153.74" y="102.69"  class="fil1 fnt0">x</text>
+  <path class="fil0 str0" d="M176.18 519.41c168.87,-412.05 323.18,-331.01 462.92,243.11 146.71,545.46 279.59,545.46 398.63,0"/>
+  <path class="fil0 str1" d="M849.23 762.52l0 408.94"/>
+  <path class="fil0 str1" d="M384.07 259.54l0 502.98"/>
+  <text x="356.97" y="847.85"  class="fil1 fnt1">4</text>
+  <text x="578.67" y="847.63"  class="fil1 fnt1">9</text>
+  <text x="793.38" y="717.43"  class="fil1 fnt1">13</text>
+  <text x="977.69" y="717.43"  class="fil1 fnt1">16</text>
+  <path class="fil0" d="M161.47 14.19l91.83 0"/>
+  <path class="fil0" d="M133.3 99.76l0 99.14"/>
+  <path class="fil0" d="M172.43 1311.3l77.74 0"/>
+  <path class="fil0" d="M1745.23 679.44l0 117.4"/>
+  <rect class="fil0" x="-0" y="-0" width="1745.22" height="1363.81"/>
+ </g>
+</svg>

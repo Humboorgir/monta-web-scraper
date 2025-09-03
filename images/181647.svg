@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.60425cm" height="2.1cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2976 1734"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:17.2697}
+    .fil0 {fill:none}
+    .fil2 {fill:black}
+    .fil1 {fill:#B3B3B3}
+    .fnt0 {font-weight:normal;font-size:276.295px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" transform="matrix(0.254707 0.329988 -0.329988 0.254707 1722.16 364.836)" width="226" height="231"/>
+  <polygon class="fil0 str0" points="1722,365 420,1372 2500,1372 "/>
+  <polygon class="fil1 str0" points="2500,1372 1983,702 766,1372 "/>
+  <text x="1613" y="278"  class="fil2 fnt0">A</text>
+  <text x="79" y="1464"  class="fil2 fnt0">B</text>
+  <text x="669" y="1688"  class="fil2 fnt0">E</text>
+  <text x="2661" y="1559"  class="fil2 fnt0">C</text>
+  <text x="2096" y="702"  class="fil2 fnt0">D</text>
+  <rect class="fil0" width="2976" height="1734"/>
+ </g>
+</svg>

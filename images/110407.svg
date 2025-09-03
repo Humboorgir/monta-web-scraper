@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.50498cm" height="2.25cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 615.65 395.21"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:3.24;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+    .fil2 {fill:black}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:45.31px;font-family:'Times New Roman'}
+    .fnt2 {font-weight:normal;font-size:51.79px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:51.79px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="166.42,55.55 283.5,340.48 49.33,340.48 "/>
+  <polygon class="fil0 str0" points="166.65,55.45 564.82,340.48 283.5,340.48 "/>
+  <line class="fil0 str0" x1="326.41" y1="169.1" x2="119.5" y2= "169.1" />
+  <circle class="fil1" cx="326.41" cy="169.82" r="6.66"/>
+  <circle class="fil1" cx="213.63" cy="170.04" r="6.74"/>
+  <circle class="fil1" cx="119.5" cy="169.72" r="7.59"/>
+  <text x="147.82" y="45.35"  class="fil2 fnt0">A</text>
+  <text x="61.43" y="169.72"  class="fil2 fnt0">M</text>
+  <text x="177.75" y="220.84"  class="fil2 fnt0">D</text>
+  <text x="337.52" y="170.61"  class="fil2 fnt0">N</text>
+  <text x="7.17" y="360.91"  class="fil2 fnt0">B</text>
+  <text x="287.85" y="386.41"  class="fil2 fnt0">E</text>
+  <text x="573.71" y="352.08"  class="fil2 fnt0">C</text>
+  <text x="116.69" y="106.41"  class="fil2 fnt1">x</text>
+  <text x="449" y="238.1"  class="fil2 fnt2">4/5</text>
+  <text x="239.19" y="93.73"  class="fil2 fnt2">2</text>
+  <text x="266.89" y="94.15"  class="fil2 fnt1">x</text>
+  <line class="fil0 str0" x1="293.46" y1="84" x2="317.75" y2= "84" />
+  <text x="319.7" y="93.19"  class="fil2 fnt2">0/5</text>
+  <text x="46.91" y="253.35"  class="fil2 fnt2">3</text>
+  <rect class="fil0" x="-0" width="615.65" height="395.21"/>
+ </g>
+</svg>

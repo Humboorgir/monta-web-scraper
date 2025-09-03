@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.31538cm" height="2.5cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1132 656"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:4.93936}
+    .str2 {stroke:red;stroke-width:4.93936}
+    .str1 {stroke:black;stroke-width:4.93936;stroke-dasharray:29.636186 19.757457}
+    .fil2 {fill:none}
+    .fil1 {fill:black}
+    .fil0 {fill:black;fill-rule:nonzero}
+    .fnt3 {font-weight:normal;font-size:69.7197px;font-family:'B Yekan'}
+    .fnt2 {font-weight:normal;font-size:81.3369px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:81.3369px;font-family:'Times New Roman'}
+    .fnt0 {font-weight:normal;font-size:92.9568px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M135 131l21 50 0 0 -2 0 -1 -1 -1 -1 -1 0 -2 -1 -1 0 -1 0 -2 -1 -1 0 -1 0 -2 -1 -1 0 -1 0 -2 0 -1 0 -1 0 -2 0 -1 0 -1 0 -2 0 -1 0 -1 1 -1 0 -2 0 -1 1 -1 0 -2 0 -1 1 -1 0 -2 1 -1 1 -1 0 21 -50 0 0zm-3 525l0 -483 5 0 0 483 -5 0z"/>
+  <path class="fil0" d="M895 421l-760 0 0 -5 760 0 0 0 0 5zm30 0l-30 0 0 -5 30 0 0 5zm40 -3l-50 21 1 -1 0 -1 1 -1 0 -2 1 -1 0 -1 1 -2 0 -1 0 -1 1 -2 0 -1 0 -1 0 -2 0 -1 0 -1 0 -2 0 -1 0 -1 0 -2 0 -1 0 -1 0 -2 -1 -1 0 -1 0 -1 -1 -2 0 -1 -1 -1 0 -2 -1 -1 0 -1 -1 -2 0 0 50 21 0 0z"/>
+  <g transform="matrix(1 0 0 1 -2097.13 95.816)">
+   <text x="2158" y="-6"  class="fil1 fnt0">v</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1986.11 49.3882)">
+   <text x="2158" y="-6"  class="fil1 fnt1">m</text>
+  </g>
+  <line class="fil2 str0" x1="161" y1="69" x2="243" y2= "69" />
+  <g transform="matrix(1 0 0 1 -1966.93 133.161)">
+   <text x="2158" y="-6"  class="fil1 fnt1">s</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -2030.52 92.7873)">
+   <text x="2158" y="-6"  class="fil1 fnt1">(</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1903.35 91.7787)">
+   <text x="2158" y="-6"  class="fil1 fnt1">)</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1094.92 445.024)">
+   <text x="2158" y="-6"  class="fil1 fnt1">s</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1122.17 449.061)">
+   <text x="2158" y="-6"  class="fil1 fnt1">(</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1061.61 449.061)">
+   <text x="2158" y="-6"  class="fil1 fnt1">)</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1162.54 446.033)">
+   <text x="2158" y="-6"  class="fil1 fnt0">t</text>
+  </g>
+  <line class="fil2" x1="129" y1="0" x2="266" y2= "0" />
+  <line class="fil2" x1="1132" y1="359" x2="1132" y2= "494" />
+  <g transform="matrix(1.23866 0 0 1 -2625.25 312.085)">
+   <text x="2158" y="-6"  class="fil1 fnt2">8</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -2154.66 563.109)">
+   <text x="2158" y="-6"  class="fil1 fnt3">-</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -2107.22 559.072)">
+   <text x="2158" y="-6"  class="fil1 fnt2">8</text>
+  </g>
+  <polyline class="fil2 str1" points="135,294 626,294 626,418 "/>
+  <g transform="matrix(1 0 0 1 -1788.29 506.59)">
+   <text x="2158" y="-6"  class="fil1 fnt2">3</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1553.13 503.561)">
+   <text x="2158" y="-6"  class="fil1 fnt2">6</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1390.64 503.561)">
+   <text x="2158" y="-6"  class="fil1 fnt2">8</text>
+  </g>
+  <line class="fil2" x1="0" y1="481" x2="0" y2= "577" />
+  <g transform="matrix(1 0 0 1 -2098.14 438.969)">
+   <text x="2158" y="-6"  class="fil1 fnt2">0</text>
+  </g>
+  <polyline class="fil2 str2" points="135,540 626,294 875,294 "/>
+  <line class="fil2 str1" x1="790" y1="294" x2="790" y2= "418" />
+ </g>
+</svg>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.2605cm" height="2.1cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2493 1606"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:13.2306}
+    .str1 {stroke:blue;stroke-width:13.2306}
+    .str2 {stroke:red;stroke-width:13.2306}
+    .fil0 {fill:none}
+    .fil2 {fill:black}
+    .fil1 {fill:white}
+    .fil3 {fill:black;fill-rule:nonzero}
+    .fil4 {fill:blue;fill-rule:nonzero}
+    .fil5 {fill:red;fill-rule:nonzero}
+    .fnt1 {font-weight:normal;font-size:248.93px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:264.489px;font-family:'B Nazanin'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="544" y1="702" x2="2094" y2= "702" />
+  <path class="fil0 str1" d="M497 714c124,709 1486,692 1610,-4"/>
+  <path class="fil0 str2" d="M2112 680c-176,-607 -195,52 -434,-236 -14,-17 -60,-96 -122,-99 -43,-1 -111,87 -116,95 -81,122 -175,138 -243,19 -175,-306 -192,297 -431,9 -14,-17 -55,-109 -114,-103 -65,7 -143,283 -155,303"/>
+  <circle class="fil1 str0" cx="2107" cy="710" r="53"/>
+  <circle class="fil1 str0" cx="491" cy="702" r="53"/>
+  <text x="1169" y="240"  class="fil2 fnt0">مسیر</text>
+  <g transform="matrix(0.999997 0 0 0.999997 -603.925 -586.178)">
+   <text x="1630" y="812"  class="fil2 fnt1">1</text>
+  </g>
+  <text x="1169" y="940"  class="fil2 fnt0">مسیر</text>
+  <text x="1178" y="1460"  class="fil2 fnt0">مسیر</text>
+  <g transform="matrix(0.999997 0 0 0.999997 -609.552 112.002)">
+   <text x="1630" y="812"  class="fil2 fnt1">2</text>
+  </g>
+  <g transform="matrix(0.999997 0 0 0.999997 -577.94 640.575)">
+   <text x="1630" y="812"  class="fil2 fnt1">3</text>
+  </g>
+  <g>
+   <path class="fil3" d="M1235 708l-109 0 0 -13 109 0 0 13zm110 -6l-133 57 2 -4 1 -4 2 -3 1 -4 1 -3 2 -4 1 -3 1 -4 0 -3 1 -4 1 -4 0 -3 1 -4 0 -3 0 -4 0 -3 0 -4 0 -3 0 -4 -1 -4 0 -3 -1 -4 -1 -3 0 -4 -1 -3 -1 -4 -2 -4 -1 -3 -1 -4 -2 -3 -1 -4 -2 -3 0 0 133 57z"/>
+  </g>
+  <g>
+   <path class="fil4" d="M780 1101l-6 11 -8 -4 -7 -4 -8 -5 -7 -4 -7 -5 -8 -5 -7 -5 -7 -6 -7 -5 -8 -6 -7 -6 -7 -6 -7 -6 -7 -7 -7 -6 -6 -7 -7 -7 -7 -7 -7 -7 -6 -8 -7 -7 -7 -8 -6 -8 -7 -8 -6 -8 -7 -9 -6 -8 -7 -9 -6 -9 -6 -9 -7 -9 -6 -10 11 -7 6 9 7 9 6 9 6 9 6 9 7 8 6 9 6 8 7 8 6 8 7 7 6 8 7 7 7 7 6 7 7 7 7 6 6 7 7 6 7 6 7 6 7 6 7 5 7 6 7 5 7 5 7 5 7 5 7 4 7 5 8 4 7 4zm94 58l-144 -13 3 -3 3 -2 3 -2 3 -3 3 -2 2 -3 3 -3 3 -2 2 -3 2 -3 3 -3 2 -2 2 -3 2 -3 2 -3 1 -4 2 -3 1 -3 2 -3 1 -3 2 -4 1 -3 1 -4 1 -3 1 -4 0 -3 1 -4 1 -4 0 -4 0 -4 1 -3 0 -4 0 0 90 113z"/>
+  </g>
+  <g>
+   <path class="fil5" d="M759 445l-11 8 -2 -3 -2 -3 -1 -2 -2 -3 -1 -2 -1 -2 -1 -1 -1 -2 -1 -2 -1 -1 -1 -1 0 -1 -1 -2 0 -1 -1 -1 0 -1 -1 -1 -1 -1 0 -1 -1 -1 -1 -2 -2 -1 -1 -2 -2 -2 -2 -2 -2 -2 -2 -3 -3 -3 -3 -3 -3 -3 -4 -4 -4 -4 9 -9 4 4 4 4 4 3 3 3 2 3 3 3 2 2 2 3 2 2 2 2 1 1 1 2 1 2 1 1 1 1 1 2 1 1 0 1 1 1 1 2 0 1 1 1 1 1 0 2 1 1 1 2 1 1 1 2 2 2 1 3 2 2 2 3zm60 93l-125 -74 4 -1 4 0 4 -1 3 -1 4 -1 4 -1 3 -2 4 -1 3 -1 3 -2 3 -2 4 -1 3 -2 3 -2 3 -2 3 -2 2 -2 3 -2 3 -3 3 -2 2 -3 3 -2 2 -3 2 -3 3 -3 2 -3 2 -3 2 -3 2 -3 2 -3 2 -4 2 -3 0 0 33 141z"/>
+  </g>
+  <text x="58" y="757"  class="fil2 fnt0">الف</text>
+  <text x="2239" y="749"  class="fil2 fnt0">ب</text>
+  <line class="fil0" x1="945" y1="0" x2="1272" y2= "0" />
+  <line class="fil0" x1="1160" y1="1606" x2="1486" y2= "1606" />
+  <line class="fil0" x1="0" y1="495" x2="0" y2= "831" />
+  <line class="fil0" x1="2493" y1="532" x2="2493" y2= "868" />
+ </g>
+</svg>

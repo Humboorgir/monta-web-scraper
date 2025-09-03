@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.85241cm" height="2.2cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 224 173"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:1.42541}
+    .str1 {stroke:red;stroke-width:1.42541}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:26.8185px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" x="1" y="31" width="214" height="110"/>
+  <line class="fil0 str1" x1="216" y1="141" x2="1" y2= "31" />
+  <line class="fil0 str1" x1="1" y1="141" x2="63" y2= "31" />
+  <rect class="fil1 str0" transform="matrix(0.904049 0.473449 -0.473449 0.904049 50.2566 58.1436)" width="7.22871" height="7.22871"/>
+  <g transform="matrix(1 0 0 1 -1218.27 1696.26)">
+   <text x="1426" y="-1523"  class="fil1 fnt0">B</text>
+  </g>
+  <text x="0" y="20"  class="fil1 fnt0">D</text>
+  <g transform="matrix(1 0 0 1 -1226.35 1542.26)">
+   <text x="1426" y="-1523"  class="fil1 fnt0">C</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1370.95 1541)">
+   <text x="1426" y="-1523"  class="fil1 fnt0">F</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1424.39 1695.83)">
+   <text x="1426" y="-1523"  class="fil1 fnt0">A</text>
+  </g>
+ </g>
+</svg>

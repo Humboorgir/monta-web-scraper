@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.20414cm" height="2.5cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2767 1646"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:black;stroke-width:14.9865}
+    .str1 {stroke:black;stroke-width:5.70986}
+    .str0 {stroke:black;stroke-width:5.70986}
+    .str4 {stroke:black;stroke-width:7.92786;stroke-linejoin:round}
+    .str3 {stroke:black;stroke-width:13.2181;stroke-linecap:round;stroke-linejoin:round}
+    .fil1 {fill:none}
+    .fil3 {fill:none;fill-rule:nonzero}
+    .fil0 {fill:#FEFEFE}
+    .fil4 {fill:#373435}
+    .fil5 {fill:black}
+    .fil2 {fill:black;fill-rule:nonzero}
+    .fnt1 {font-weight:normal;font-size:237.911px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:237.911px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="351,1248 341,1262 336,1260 332,1258 329,1254 322,1255 317,1254 309,1252 299,1246 294,1243 277,1239 266,1234 253,1224 241,1219 233,1214 218,1198 207,1179 201,1161 198,1149 198,1116 203,1088 212,1067 228,1037 245,1016 268,999 287,987 305,979 335,973 362,976 369,976 378,969 399,961 429,957 446,956 470,960 482,963 488,964 492,966 497,966 501,968 506,970 514,976 519,984 524,993 498,1037 497,1042 501,1051 502,1059 497,1071 492,1079 483,1080 475,1083 465,1081 463,1085 383,1198 385,1204 388,1212 389,1224 386,1233 382,1238 376,1244 367,1247 360,1246 354,1247 "/>
+  <path class="fil1 str1" d="M351 1248l-10 14 -5 -2 -4 -2 -3 -4c-22,1 -29,-10 -52,-15 -55,-26 -79,-53 -79,-123 9,-52 25,-83 70,-117 36,-22 51,-28 94,-23l7 0c30,-24 78,-21 113,-13 8,1 17,5 24,7l8 6 5 8 5 9 -26 44 -1 5c12,28 -6,44 -32,39l-2 4 -80 113c13,32 4,48 -29,49l-3 1z"/>
+  <polygon class="fil1 str1" points="298,1053 301,1050 305,1052 315,1059 317,1064 321,1067 325,1067 336,1073 332,1077 "/>
+  <line class="fil1 str1" x1="513" y1="976" x2="484" y2= "1018" />
+  <line class="fil1 str1" x1="442" y1="1078" x2="369" y2= "1182" />
+  <line class="fil1 str1" x1="438" y1="1075" x2="365" y2= "1179" />
+  <path class="fil1 str1" d="M432 1026c-9,13 -3,33 15,45 17,12 39,12 48,-1 9,-13 2,-33 -15,-46 -18,-12 -39,-11 -48,2z"/>
+  <path class="fil2 str1" d="M433 1027c-8,12 -2,32 15,43 16,12 37,11 45,-1 9,-12 2,-31 -14,-43 -17,-12 -37,-11 -46,1z"/>
+  <path class="fil3 str1" d="M494 1030c-3,-4 -8,-8 -13,-12 -21,-15 -47,-14 -58,2 -11,15 -2,40 19,55 4,3 9,5 13,7"/>
+  <path class="fil2 str1" d="M317 1189c-9,12 -3,33 15,45 17,12 39,12 48,-1 9,-13 2,-33 -15,-46 -18,-12 -39,-11 -48,2z"/>
+  <path class="fil3 str1" d="M380 1193c-4,-4 -8,-7 -12,-10 -21,-15 -47,-15 -58,1 -11,16 -3,40 19,55 3,3 7,5 11,6"/>
+  <polyline class="fil3 str1" points="524,996 510,972 480,1015 "/>
+  <polyline class="fil3 str1" points="509,974 506,970 503,969 500,973 498,977 499,979 502,982 "/>
+  <path class="fil3 str1" d="M486 974l-2 3c-11,9 -33,17 -35,-4l2 -4c9,-6 26,0 35,5z"/>
+  <polyline class="fil3 str1" points="487,974 478,986 484,992 492,995 "/>
+  <line class="fil3 str1" x1="497" y1="977" x2="483" y2= "992" />
+  <path class="fil3 str1" d="M368 1018c0,-1 1,-1 1,-1 5,-7 2,-17 -6,-23 -8,-5 -18,-5 -23,2 0,0 -1,1 -1,1"/>
+  <polyline class="fil3 str1" points="365,995 373,992 382,999 374,1009 372,1007 "/>
+  <path class="fil3 str1" d="M450 970c-31,-1 -58,7 -78,24"/>
+  <path class="fil3 str1" d="M482 963c-43,-13 -85,-8 -114,14"/>
+  <path class="fil3 str2" d="M221 1102c2,15 13,27 23,34 11,8 32,7 48,2"/>
+  <path class="fil3 str1" d="M341 997c-15,1 -35,5 -53,12"/>
+  <path class="fil3 str1" d="M253 1048c-20,20 -31,42 -30,59"/>
+  <path class="fil3 str1" d="M373 1024c-40,-38 -72,-14 -100,7 -2,1 -4,3 -6,4"/>
+  <polyline class="fil3 str1" points="267,1035 335,1082 386,1009 "/>
+  <polyline class="fil3 str1" points="253,1048 322,1095 290,1140 "/>
+  <path class="fil3 str1" d="M363 1091c-2,2 -1,4 2,6 2,2 5,2 7,0 1,-2 0,-5 -3,-6 -2,-2 -5,-2 -6,0z"/>
+  <path class="fil3 str1" d="M364 1074c0,0 0,0 0,0 -4,-3 -10,-1 -14,4 -3,5 -3,11 1,14 0,0 1,0 1,0"/>
+  <line class="fil3 str1" x1="365" y1="1074" x2="352" y2= "1092" />
+  <line class="fil3 str1" x1="362" y1="1072" x2="350" y2= "1091" />
+  <path class="fil3 str1" d="M412 1026c-4,16 4,35 20,49"/>
+  <line class="fil3 str1" x1="378" y1="1003" x2="412" y2= "1027" />
+  <polyline class="fil3 str1" points="256,1038 392,1133 433,1075 "/>
+  <path class="fil3 str1" d="M345 1006c-18,-6 -48,1 -75,22 -31,23 -52,54 -50,76"/>
+  <polyline class="fil3 str1" points="251,1050 316,1095 285,1140 "/>
+  <path class="fil3 str1" d="M294 1242c-26,-4 -45,-16 -50,-32 -7,-23 22,-47 64,-53 22,-3 45,0 63,7l21 -31"/>
+  <path class="fil3 str1" d="M260 1187c-3,5 0,14 7,19 7,5 16,5 20,-1 4,-5 1,-14 -6,-19 -8,-5 -17,-5 -21,1z"/>
+  <path class="fil3 str1" d="M265 1190c-3,3 -1,9 4,13 5,3 11,3 14,-1 3,-3 1,-9 -4,-13 -5,-3 -12,-3 -14,1z"/>
+  <path class="fil4 str0" d="M271 1194c-1,1 0,3 1,4 2,2 4,2 5,0 1,-1 0,-3 -1,-4 -2,-1 -4,-1 -5,0z"/>
+  <path class="fil1 str1" d="M280 1226c4,6 10,13 17,18 16,11 35,13 41,4 0,0 0,0 0,0"/>
+  <line class="fil1 str1" x1="316" y1="1253" x2="327" y2= "1236" />
+  <polyline class="fil1 str1" points="282,1227 292,1221 322,1243 "/>
+  <line class="fil1 str1" x1="301" y1="1227" x2="292" y2= "1240" />
+  <line class="fil1 str1" x1="310" y1="1233" x2="301" y2= "1246" />
+  <path class="fil1 str1" d="M227 1205c0,0 0,-1 0,-1 16,-22 4,-58 -27,-87"/>
+  <path class="fil1 str1" d="M232 1213c3,-3 5,-6 6,-9 12,-26 -5,-63 -39,-88"/>
+  <line class="fil1 str3" x1="369" y1="1277" x2="960" y2= "369" />
+  <line class="fil1 str3" x1="369" y1="1277" x2="2526" y2= "1277" />
+  <line class="fil1 str3" x1="960" y1="369" x2="2526" y2= "1277" />
+  <polygon class="fil1 str4" points="918,433 961,368 1026,412 982,477 "/>
+  <text x="490" y="750"  class="fil5 fnt0">m</text>
+  <text x="70" y="726"  class="fil5 fnt1">300</text>
+  <text x="843" y="269"  class="fil5 fnt0">B</text>
+  <text x="249" y="1475"  class="fil5 fnt0">A</text>
+  <text x="2517" y="1511"  class="fil5 fnt0">C</text>
+  <text x="2211" y="750"  class="fil5 fnt0">m</text>
+  <text x="1792" y="726"  class="fil5 fnt1">400</text>
+  <rect class="fil1" width="2767" height="1646"/>
+ </g>
+</svg>

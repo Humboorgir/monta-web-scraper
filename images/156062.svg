@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.85729cm" height="3.4cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 792 698"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:3.73161}
+    .str2 {stroke:red;stroke-width:3.73161}
+    .str0 {stroke:black;stroke-width:3.73161;stroke-linecap:round}
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+    .fnt1 {font-weight:normal;font-size:67.1648px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:67.1648px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="57" y="79"  class="fil0 fnt0">x</text>
+  <text x="135" y="79"  class="fil0 fnt0">m</text>
+  <text x="102" y="80"  class="fil0 fnt0">(</text>
+  <g transform="matrix(-1 -0 0 1 2120.9 926.37)">
+   <text x="1906" y="-846"  class="fil0 fnt0">(</text>
+  </g>
+  <text x="638" y="524"  class="fil0 fnt0">t</text>
+  <text x="675" y="524"  class="fil0 fnt0">(</text>
+  <text x="706" y="523"  class="fil0 fnt0">s</text>
+  <g transform="matrix(-1 -0 0 1 2671.91 1370.2)">
+   <text x="1906" y="-846"  class="fil0 fnt0">(</text>
+  </g>
+  <line class="fil1 str0" x1="493" y1="514" x2="493" y2= "524" />
+  <line class="fil1 str1" x1="100" y1="117" x2="100" y2= "698" />
+  <line class="fil1 str1" x1="619" y1="514" x2="0" y2= "514" />
+  <text x="157" y="585"  class="fil0 fnt1">3</text>
+  <line class="fil1 str0" x1="330" y1="514" x2="330" y2= "524" />
+  <line class="fil1 str0" x1="167" y1="514" x2="167" y2= "524" />
+  <text x="473" y="585"  class="fil0 fnt1">5</text>
+  <path class="fil1 str2" d="M545 631c-56,-117 -148,-350 -216,-350 -72,0 -192,305 -229,378"/>
+  <rect class="fil1" width="792" height="698"/>
+ </g>
+</svg>

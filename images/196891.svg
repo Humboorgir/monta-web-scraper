@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.08497cm" height="2.94cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 492.51 354.46"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:2.34;stroke-miterlimit:2.61313}
+    .str1 {stroke:black;stroke-width:2.34;stroke-miterlimit:2.61313}
+    .str2 {stroke:black;stroke-width:2.34;stroke-miterlimit:2.61313;stroke-dasharray:11.699216 7.019530}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:37.43px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:37.43px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="78.97,61.89 78.97,199.04 412.83,199.04 "/>
+  <text x="9.44" y="34.01"  class="fil1 fnt0">v</text>
+  <text x="31.8" y="37.17"  class="fil1 fnt0">(</text>
+  <text x="48.61" y="34.74"  class="fil1 fnt0">m</text>
+  <text x="94.58" y="34.5"  class="fil1 fnt0">s</text>
+  <g transform="matrix(-1 -0 0 1 2155.17 1592.71)">
+   <text x="2030.02" y="-1556.9"  class="fil1 fnt0">(</text>
+  </g>
+  <text x="433.37" y="208.55"  class="fil1 fnt0">t</text>
+  <text x="446.25" y="206.57"  class="fil1 fnt0">(</text>
+  <text x="458.52" y="205.93"  class="fil1 fnt0">s</text>
+  <g transform="matrix(-1 -0 0 1 2517.41 1763.47)">
+   <text x="2030.02" y="-1556.9"  class="fil1 fnt0">(</text>
+  </g>
+  <line class="fil0 str1" x1="78.69" y1="41.64" x2="91.05" y2= "11.94" />
+  <line class="fil0 str0" x1="78.97" y1="176.77" x2="78.97" y2= "345.82" />
+  <path class="fil0 str0" d="M78.97 199.04c9.77,-18.73 19.55,-37.45 31.8,-50.55 12.26,-13.09 27,-20.55 42.37,-20.62 15.37,-0.07 31.35,7.25 43.64,20.34 12.28,13.09 20.86,31.96 29.44,50.83"/>
+  <path class="fil0 str0" d="M225.5 198.31c9.77,18.73 19.55,37.45 31.8,50.55 12.26,13.09 27,20.55 42.37,20.62 15.37,0.07 31.35,-7.25 43.64,-20.34 12.28,-13.09 20.86,-31.96 29.44,-50.83"/>
+  <text x="51.45" y="208.29"  class="fil1 fnt1">0</text>
+  <text x="212.84" y="229.36"  class="fil1 fnt1">2</text>
+  <text x="367.27" y="232.29"  class="fil1 fnt1">4</text>
+  <line class="fil0 str2" x1="153.14" y1="127.86" x2="153.14" y2= "199.04" />
+  <line class="fil0 str2" x1="300.45" y1="198.31" x2="300.45" y2= "269.48" />
+  <text x="142.08" y="229.65"  class="fil1 fnt1">1</text>
+  <text x="288.89" y="183.43"  class="fil1 fnt1">3</text>
+  <rect class="fil0" x="-0" y="-0" width="492.51" height="354.46"/>
+ </g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.96435cm" height="2.3cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 461 358"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:2.84154}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fil2 {fill:black;fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:45.4615px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="306" y1="36" x2="35" y2= "307" />
+  <polyline class="fil0 str0" points="232,110 429,307 35,307 "/>
+  <text x="188" y="98"  class="fil1 fnt0">A</text>
+  <text x="427" y="351"  class="fil1 fnt0">C</text>
+  <line class="fil0 str0" x1="291" y1="51" x2="357" y2= "307" />
+  <text x="347" y="209"  class="fil1 fnt0">M</text>
+  <text x="257" y="36"  class="fil1 fnt0">E</text>
+  <line class="fil0 str0" x1="232" y1="110" x2="274" y2= "307" />
+  <text x="260" y="353"  class="fil1 fnt0">D</text>
+  <text x="4" y="353"  class="fil1 fnt0">B</text>
+  <g>
+   <path class="fil2" d="M254 213l17 25 0 0 0 0 -1 0 -1 0 -1 0 0 0 -1 -1 -1 0 -1 0 0 0 -1 0 -1 0 -1 0 0 0 -1 1 -1 0 0 0 -1 0 -1 0 0 0 -1 1 -1 0 0 0 -1 0 -1 1 0 0 -1 0 -1 1 0 0 -1 1 -1 0 0 1 -1 0 5 -30zm19 94l-18 -86 2 -1 19 87 -3 0z"/>
+  </g>
+  <g>
+   <path class="fil2" d="M339 241l19 25 0 0 -1 -1 -1 0 -1 0 -1 0 0 0 -1 0 -1 0 -1 0 0 0 -1 0 -1 0 0 0 -1 0 -1 0 -1 0 0 0 -1 1 -1 0 0 0 -1 0 -1 1 0 0 -1 0 -1 1 0 0 -1 0 0 1 -1 0 -1 1 0 0 -1 1 0 0 3 -30zm16 66l-15 -58 3 -1 15 59 -3 0z"/>
+  </g>
+  <text x="347" y="353"  class="fil1 fnt0">F</text>
+  <rect class="fil0" width="461" height="358"/>
+ </g>
+</svg>

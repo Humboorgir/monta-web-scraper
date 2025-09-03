@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5.8cm" height="2.25486cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1379 536"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:4.57849}
+    .str1 {stroke:black;stroke-width:4.57849;stroke-dasharray:22.892448 13.735469}
+    .str2 {stroke:red;stroke-width:4.57849;stroke-dasharray:22.892448 13.735469}
+    .fil1 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil2 {fill:black}
+    .fnt0 {font-weight:normal;font-size:86.1428px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M292 138l630 0 -210 307 -630 0 210 -307zm315 0m210 153m-420 153m-210 -153"/>
+  <line class="fil1 str1" x1="82" y1="445" x2="922" y2= "138" />
+  <polyline class="fil1 str2" points="621,243 621,243 1253,445 "/>
+  <line class="fil1 str0" x1="712" y1="445" x2="1379" y2= "445" />
+  <ellipse class="fil2 str0" cx="631" cy="246" rx="10" ry="11"/>
+  <ellipse class="fil2 str0" cx="809" cy="303" rx="10" ry="11"/>
+  <ellipse class="fil2 str0" cx="1244" cy="445" rx="10" ry="11"/>
+  <line class="fil1 str1" x1="292" y1="138" x2="621" y2= "243" />
+  <text x="212" y="129"  class="fil2 fnt0">A</text>
+  <text x="938" y="128"  class="fil2 fnt0">B</text>
+  <text x="592" y="351"  class="fil2 fnt0">M</text>
+  <text x="802" y="403"  class="fil2 fnt0">N</text>
+  <text x="682" y="523"  class="fil2 fnt0">C</text>
+  <text x="-1" y="480"  class="fil2 fnt0">D</text>
+  <text x="1228" y="536"  class="fil2 fnt0">P</text>
+  <rect class="fil1" x="441" width="324.359" height="28.3897"/>
+ </g>
+</svg>

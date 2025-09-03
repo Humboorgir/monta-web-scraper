@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.59987cm" height="2.5cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1668 907"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:18.835}
+    .str1 {stroke:black;stroke-width:6.645}
+    .str2 {stroke:black;stroke-width:6.645;stroke-dasharray:33.224983 19.934990}
+    .fil0 {fill:none}
+    .fil2 {fill:black}
+    .fil1 {fill:black}
+    .fnt2 {font-weight:normal;font-size:93.0224px;font-family:'Times New Roman'}
+    .fnt0 {font-weight:normal;font-size:106.312px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:106.312px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="72" y1="162" x2="1556" y2= "162" />
+  <line class="fil0 str1" x1="1520" y1="95" x2="1446" y2= "162" />
+  <line class="fil0 str1" x1="1435" y1="96" x2="1361" y2= "162" />
+  <line class="fil0 str1" x1="1350" y1="96" x2="1276" y2= "162" />
+  <line class="fil0 str1" x1="1264" y1="96" x2="1191" y2= "162" />
+  <line class="fil0 str1" x1="1179" y1="96" x2="1106" y2= "162" />
+  <line class="fil0 str1" x1="1094" y1="96" x2="1020" y2= "162" />
+  <line class="fil0 str1" x1="1009" y1="96" x2="935" y2= "162" />
+  <line class="fil0 str1" x1="924" y1="96" x2="850" y2= "162" />
+  <line class="fil0 str1" x1="839" y1="96" x2="765" y2= "162" />
+  <line class="fil0 str1" x1="753" y1="96" x2="680" y2= "162" />
+  <line class="fil0 str1" x1="668" y1="96" x2="594" y2= "162" />
+  <line class="fil0 str1" x1="583" y1="96" x2="509" y2= "163" />
+  <line class="fil0 str1" x1="498" y1="96" x2="424" y2= "163" />
+  <line class="fil0 str1" x1="413" y1="96" x2="339" y2= "163" />
+  <line class="fil0 str1" x1="328" y1="96" x2="254" y2= "163" />
+  <line class="fil0 str1" x1="242" y1="96" x2="169" y2= "163" />
+  <line class="fil0 str1" x1="157" y1="96" x2="83" y2= "163" />
+  <line class="fil0 str2" x1="802" y1="168" x2="802" y2= "872" />
+  <line class="fil0 str1" x1="802" y1="168" x2="124" y2= "559" />
+  <line class="fil0 str1" x1="802" y1="168" x2="1480" y2= "559" />
+  <path class="fil0 str1" d="M906 228c-10,55 -52,72 -104,72"/>
+  <circle class="fil1" cx="1480" cy="559" r="36"/>
+  <circle class="fil1" cx="124" cy="559" r="36"/>
+  <text x="842" y="397"  class="fil2 fnt0">60</text>
+  <text x="78" y="486"  class="fil2 fnt1">A</text>
+  <text x="1515" y="506"  class="fil2 fnt1">B</text>
+  <text x="916" y="376"  class="fil2 fnt2">º</text>
+  <text x="607" y="400"  class="fil2 fnt0">60</text>
+  <text x="709" y="385"  class="fil2 fnt2">º</text>
+  <rect class="fil0" width="1668" height="907"/>
+  <path class="fil0 str1" d="M697 228c10,55 53,72 105,72"/>
+ </g>
+</svg>

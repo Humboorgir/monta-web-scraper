@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.18437cm" height="3.05428cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1337 1283"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:8;stroke-miterlimit:2.61313}
+    .str2 {stroke:red;stroke-width:8;stroke-miterlimit:2.61313}
+    .str3 {stroke:black;stroke-width:8;stroke-linecap:square;stroke-miterlimit:10}
+    .str0 {stroke:black;stroke-width:8;stroke-miterlimit:2.61313;stroke-dasharray:41.993649 25.196189}
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+    .fnt1 {font-weight:normal;font-size:119px;font-family:'B Yekan'}
+    .fnt2 {font-weight:normal;font-size:133px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:133px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="367" y="1209"  class="fil0 fnt0">t</text>
+  <text x="400" y="1232"  class="fil0 fnt1">1</text>
+  <text x="769" y="1209"  class="fil0 fnt0">t</text>
+  <text x="818" y="1232"  class="fil0 fnt1">2</text>
+  <line class="fil1 str0" x1="807" y1="1104" x2="807" y2= "565" />
+  <line class="fil1 str0" x1="387" y1="1103" x2="387" y2= "811" />
+  <line class="fil1 str1" x1="113" y1="961" x2="1060" y2= "415" />
+  <path class="fil1 str2" d="M893 130c-59,481 -182,725 -325,747 -108,23 -227,-110 -454,-358"/>
+  <text x="19" y="1151"  class="fil0 fnt2">0</text>
+  <text x="1260" y="1129"  class="fil0 fnt0">t</text>
+  <text x="919" y="188"  class="fil0 fnt0">A</text>
+  <text x="1058" y="565"  class="fil0 fnt0">B</text>
+  <text x="92" y="108"  class="fil0 fnt0">x</text>
+  <rect class="fil1" width="1337" height="1283"/>
+  <polyline class="fil1 str3" points="113,143 113,1103 1224,1103 "/>
+ </g>
+</svg>

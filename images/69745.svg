@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.83811cm" height="2.9cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 524 535"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:3.22219}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:60.6222px;font-family:'Times New Roman'}
+    .fnt1 {font-weight:normal;font-size:60.6244px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="49" y1="443" x2="482" y2= "443" />
+  <line class="fil0 str0" x1="49" y1="443" x2="279" y2= "91" />
+  <line class="fil0 str0" x1="279" y1="91" x2="482" y2= "443" />
+  <line class="fil0 str0" x1="279" y1="91" x2="279" y2= "443" />
+  <line class="fil0 str0" x1="176" y1="248" x2="372" y2= "248" />
+  <text x="257" y="63"  class="fil1 fnt0">A</text>
+  <text x="21" y="510"  class="fil1 fnt1">B</text>
+  <text x="464" y="512"  class="fil1 fnt1">C</text>
+  <text x="257" y="517"  class="fil1 fnt0">H</text>
+  <text x="299" y="320"  class="fil1 fnt0">M</text>
+  <text x="82" y="251"  class="fil1 fnt1">B</text>
+  <text x="409" y="251"  class="fil1 fnt1">C</text>
+  <line class="fil0 str0" x1="134" y1="187" x2="124" y2= "199" />
+  <line class="fil0 str0" x1="456" y1="187" x2="447" y2= "199" />
+  <rect class="fil0 str0" x="279" y="417" width="27.2597" height="25.3393"/>
+  <line class="fil0" x1="226" y1="0" x2="322" y2= "0" />
+  <line class="fil0" x1="240" y1="535" x2="335" y2= "535" />
+  <line class="fil0" x1="524" y1="370" x2="524" y2= "457" />
+  <line class="fil0" x1="0" y1="356" x2="0" y2= "443" />
+ </g>
+</svg>

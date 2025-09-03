@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.16389cm" height="2.4011cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1917 1105"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str3 {stroke:black;stroke-width:8.12154}
+    .str2 {stroke:black;stroke-width:8.12154}
+    .str1 {stroke:#373435;stroke-width:10.8517;stroke-linecap:round;stroke-linejoin:round}
+    .str0 {stroke:black;stroke-width:10.8517;stroke-linecap:round;stroke-linejoin:round}
+    .fil2 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil1 {fill:#FEFEFE}
+    .fil3 {fill:black}
+    .fnt0 {font-weight:normal;font-size:146.178px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+    <clipPath id="id0" style="clip-rule:nonzero">
+     <path d="M1739 897l-418 0 -757 0 -394 0 260 -754 495 0 814 754z"/>
+    </clipPath>
+    <clipPath id="id1" style="clip-rule:nonzero">
+     <path d="M743 325l-574 573 394 0 0 -2 182 -570 -2 -1z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <g style="clip-path:url(#id0)">
+    <image x="170" y="143" width="1569" height="754" xlink:href="9.svg_Images\9.svg_ImgID1.png"/>
+   </g>
+   <polygon class="fil0 str0" points="1739,897 1321,897 564,897 170,897 430,143 925,143 "/>
+  </g>
+  <g>
+   <g style="clip-path:url(#id1)">
+    <image x="169" y="325" width="576" height="573" xlink:href="9.svg_Images\9.svg_ImgID2.png"/>
+   </g>
+  </g>
+  <polyline class="fil0 str1" points="169,898 743,325 925,144 "/>
+  <polyline class="fil0 str0" points="430,144 743,325 745,326 1738,898 "/>
+  <line class="fil0 str0" x1="745" y1="326" x2="1320" y2= "898" />
+  <line class="fil0 str1" x1="745" y1="326" x2="563" y2= "896" />
+  <path class="fil1" d="M769 329c0,10 -9,19 -20,19 -10,0 -19,-9 -19,-19 0,-11 9,-20 19,-20 11,0 20,9 20,20z"/>
+  <path class="fil2 str1" d="M769 329c0,10 -9,19 -20,19 -10,0 -19,-9 -19,-19 0,-11 9,-20 19,-20 11,0 20,9 20,20z"/>
+  <line class="fil2 str2" x1="1687" y1="899" x2="1708" y2= "880" />
+  <line class="fil2 str2" x1="1642" y1="897" x2="1675" y2= "866" />
+  <line class="fil2 str2" x1="1599" y1="897" x2="1650" y2= "850" />
+  <line class="fil2 str2" x1="1550" y1="897" x2="1621" y2= "831" />
+  <line class="fil2 str2" x1="1500" y1="899" x2="1589" y2= "816" />
+  <line class="fil2 str2" x1="1457" y1="895" x2="1561" y2= "798" />
+  <line class="fil2 str2" x1="1408" y1="895" x2="1531" y2= "780" />
+  <line class="fil2 str2" x1="1360" y1="900" x2="1506" y2= "764" />
+  <line class="fil2 str2" x1="1320" y1="893" x2="1474" y2= "750" />
+  <line class="fil2 str2" x1="1296" y1="872" x2="1449" y2= "729" />
+  <line class="fil2 str2" x1="1273" y1="849" x2="1419" y2= "713" />
+  <line class="fil2 str2" x1="1390" y1="698" x2="1254" y2= "825" />
+  <line class="fil2 str2" x1="1231" y1="803" x2="1363" y2= "681" />
+  <line class="fil2 str2" x1="1205" y1="781" x2="1333" y2= "662" />
+  <line class="fil2 str2" x1="1181" y1="758" x2="1303" y2= "645" />
+  <line class="fil2 str2" x1="1160" y1="737" x2="1275" y2= "630" />
+  <line class="fil2 str2" x1="1137" y1="714" x2="1247" y2= "612" />
+  <line class="fil2 str2" x1="1115" y1="692" x2="1217" y2= "597" />
+  <line class="fil2 str2" x1="1092" y1="669" x2="1187" y2= "581" />
+  <line class="fil2 str2" x1="1069" y1="647" x2="1156" y2= "566" />
+  <line class="fil2 str2" x1="1047" y1="624" x2="1129" y2= "547" />
+  <line class="fil2 str2" x1="1024" y1="602" x2="1102" y2= "529" />
+  <line class="fil2 str2" x1="1001" y1="579" x2="1074" y2= "512" />
+  <line class="fil2 str2" x1="979" y1="557" x2="1042" y2= "498" />
+  <line class="fil2 str2" x1="956" y1="534" x2="1014" y2= "479" />
+  <line class="fil2 str2" x1="933" y1="511" x2="985" y2= "463" />
+  <line class="fil2 str2" x1="910" y1="489" x2="956" y2= "446" />
+  <line class="fil2 str2" x1="889" y1="467" x2="929" y2= "429" />
+  <line class="fil2 str2" x1="865" y1="444" x2="898" y2= "414" />
+  <line class="fil2 str2" x1="843" y1="422" x2="871" y2= "396" />
+  <line class="fil2 str2" x1="821" y1="400" x2="843" y2= "379" />
+  <line class="fil2 str2" x1="798" y1="377" x2="813" y2= "362" />
+  <line class="fil2 str3" x1="218" y1="897" x2="728" y2= "387" />
+  <line class="fil2 str3" x1="261" y1="900" x2="706" y2= "455" />
+  <line class="fil2 str3" x1="310" y1="897" x2="683" y2= "524" />
+  <line class="fil2 str3" x1="354" y1="899" x2="663" y2= "590" />
+  <line class="fil2 str3" x1="401" y1="898" x2="639" y2= "659" />
+  <line class="fil2 str3" x1="448" y1="897" x2="620" y2= "724" />
+  <line class="fil2 str3" x1="493" y1="897" x2="598" y2= "792" />
+  <line class="fil2 str3" x1="537" y1="899" x2="575" y2= "861" />
+  <text x="284" y="159"  class="fil3 fnt0">A</text>
+  <text x="976" y="159"  class="fil3 fnt0">B</text>
+  <text x="34" y="958"  class="fil3 fnt0">D</text>
+  <text x="524" y="1055"  class="fil3 fnt0">E</text>
+  <text x="1261" y="1055"  class="fil3 fnt0">F</text>
+  <text x="1788" y="958"  class="fil3 fnt0">C</text>
+  <text x="552" y="403"  class="fil3 fnt0">O</text>
+  <rect class="fil2" width="1917" height="1105"/>
+ </g>
+</svg>

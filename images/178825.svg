@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.96664cm" height="3cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5452 3293"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:19.5156}
+    .str0 {stroke:black;stroke-width:19.5156}
+    .str2 {stroke:black;stroke-width:19.5156;stroke-dasharray:97.577786 58.546672}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:351.258px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:351.258px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="4631,2889 380,2889 380,621 "/>
+  <polyline class="fil0 str1" points="380,2889 2275,1027 3221,1027 4176,2889 "/>
+  <line class="fil0 str2" x1="3221" y1="1027" x2="3221" y2= "2889" />
+  <polyline class="fil0 str2" points="2275,2889 2275,1027 380,1027 "/>
+  <text x="4084" y="3126"  class="fil1 fnt0">8</text>
+  <text x="3129" y="3159"  class="fil1 fnt0">6</text>
+  <text x="2185" y="3166"  class="fil1 fnt0">4</text>
+  <text x="531" y="561"  class="fil1 fnt1">s</text>
+  <text x="467" y="290"  class="fil1 fnt1">m</text>
+  <text x="88" y="411"  class="fil1 fnt1">v</text>
+  <text x="761" y="420"  class="fil1 fnt1">)</text>
+  <text x="324" y="419"  class="fil1 fnt1">(</text>
+  <line class="fil0 str1" x1="441" y1="344" x2="768" y2= "344" />
+  <text x="4712" y="2979"  class="fil1 fnt1">t</text>
+  <text x="5055" y="2957"  class="fil1 fnt1">s</text>
+  <text x="5256" y="2962"  class="fil1 fnt1">)</text>
+  <text x="4876" y="2962"  class="fil1 fnt1">(</text>
+  <rect class="fil0" width="5452" height="3293"/>
+ </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5.59155cm" height="2.01966cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8845 3195"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:28;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+    .fil3 {fill:black}
+    .fil2 {fill:black}
+    .fil1 {fill:black;fill-rule:nonzero}
+    .fnt1 {font-weight:normal;font-size:502px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:502px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="288" y1="446" x2="8389" y2= "446" />
+  <g>
+   <path class="fil1" d="M8303 2651l-2809 0 0 -28 2809 0 0 28zm148 -14l-274 118 4 -7 3 -7 3 -7 3 -7 3 -7 2 -7 2 -7 2 -7 2 -7 2 -7 1 -7 1 -7 1 -7 1 -7 0 -7 0 -7 0 -7 0 -7 -1 -7 -1 -7 -1 -7 -1 -7 -2 -7 -2 -7 -2 -7 -2 -7 -2 -7 -3 -7 -3 -7 -3 -7 -3 -7 -4 -7 0 0 274 118z"/>
+  </g>
+  <g>
+   <path class="fil1" d="M409 2623l3608 0 0 28 -3608 0 0 -28zm-148 14l274 -118 -4 7 -3 7 -3 7 -3 7 -3 7 -2 7 -2 7 -2 7 -2 7 -2 7 -1 7 -1 7 -1 7 -1 7 0 7 0 7 0 7 0 7 1 7 1 7 1 7 1 7 2 7 2 7 2 7 2 7 2 7 3 7 3 7 3 7 3 7 4 7 0 0 -274 -118z"/>
+  </g>
+  <circle class="fil2 str0" cx="288" cy="446" r="129"/>
+  <circle class="fil2 str0" cx="6072" cy="446" r="129"/>
+  <circle class="fil2 str0" cx="8389" cy="446" r="129"/>
+  <g transform="matrix(1 0 0 1 2183.8 17437.7)">
+   <text x="2796" y="-14685"  class="fil3 fnt0">m</text>
+  </g>
+  <text x="4047" y="2732"  class="fil3 fnt1">180</text>
+  <text x="5935" y="1241"  class="fil3 fnt0">B</text>
+  <text x="151" y="1244"  class="fil3 fnt0">A</text>
+  <text x="8221" y="1241"  class="fil3 fnt0">C</text>
+  <rect class="fil0" width="8845" height="3195"/>
+ </g>
+</svg>

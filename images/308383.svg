@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5.2197cm" height="4.87891cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3360 3141"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str4 {stroke:#EC268F;stroke-width:22.711}
+    .str5 {stroke:#CC3C89;stroke-width:22.711}
+    .str3 {stroke:black;stroke-width:11.3555}
+    .str0 {stroke:black;stroke-width:4.90526}
+    .str2 {stroke:black;stroke-width:11.3555;stroke-linecap:round}
+    .str1 {stroke:#373435;stroke-width:11.3555;stroke-dasharray:54.498610 54.498610}
+    .fil3 {fill:none}
+    .fil1 {fill:none;fill-rule:nonzero}
+    .fil2 {fill:black}
+    .fil0 {fill:black;fill-rule:nonzero}
+    .fnt1 {font-weight:normal;font-size:204.386px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:204.386px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M814 2511c0,0 9,1 20,6 6,3 13,8 19,13 2,3 5,6 8,10 3,3 4,8 7,11 3,9 6,17 7,25 1,8 0,16 0,22 -1,7 -3,12 -4,16 -1,3 -1,5 -1,5 0,0 -1,-2 -1,-6 0,-3 0,-9 -1,-15 0,-6 -2,-13 -3,-20 -2,-7 -4,-15 -8,-22 -6,-14 -17,-26 -26,-33 -10,-8 -17,-12 -17,-12z"/>
+  <path class="fil0 str0" d="M1013 1582c0,0 9,3 18,12 5,4 10,10 15,17 2,3 4,7 5,11 2,4 3,9 4,13 1,9 1,18 0,26 -1,8 -3,15 -6,21 -2,6 -5,11 -7,14 -2,3 -3,5 -3,5 0,0 1,-2 1,-6 1,-3 2,-8 3,-15 1,-6 2,-13 2,-20 0,-7 0,-15 -1,-23 -3,-15 -10,-30 -17,-39 -7,-10 -14,-16 -14,-16z"/>
+  <path class="fil1 str1" d="M740 2616l457 0m-457 -920l507 0m554 -439l0 1638"/>
+  <line class="fil1 str2" x1="740" y1="2895" x2="2914" y2= "2895" />
+  <polygon class="fil0" points="2819,2945 2840,2895 2819,2845 2937,2895 "/>
+  <line class="fil1 str3" x1="740" y1="416" x2="740" y2= "2895" />
+  <polygon class="fil0" points="690,463 740,442 790,463 740,345 "/>
+  <line class="fil1 str4" x1="740" y1="2616" x2="2110" y2= "862" />
+  <line class="fil1 str5" x1="740" y1="1696" x2="2208" y2= "1089" />
+  <text x="581" y="254"  class="fil2 fnt0">v</text>
+  <text x="707" y="259"  class="fil2 fnt0">(</text>
+  <text x="803" y="279"  class="fil2 fnt0">m/s</text>
+  <g transform="matrix(-1 -0 0 1 3793.54 -8202.87)">
+   <text x="2610" y="8462"  class="fil2 fnt0">(</text>
+  </g>
+  <text x="2990" y="2955"  class="fil2 fnt0">t</text>
+  <text x="3075" y="2944"  class="fil2 fnt0">(</text>
+  <text x="3161" y="2941"  class="fil2 fnt0">s</text>
+  <g transform="matrix(-1 -0 0 1 5933.34 -5517.25)">
+   <text x="2610" y="8462"  class="fil2 fnt0">(</text>
+  </g>
+  <text x="1771" y="3078"  class="fil2 fnt0">t</text>
+  <text x="2128" y="833"  class="fil2 fnt0">A</text>
+  <text x="2174" y="1140"  class="fil2 fnt0"> B</text>
+  <text x="1263" y="1645"  class="fil2 fnt0">β</text>
+  <text x="882" y="2572"  class="fil2 fnt0">α</text>
+  <text x="453" y="1734"  class="fil2 fnt1">10</text>
+  <text x="329" y="1764"  class="fil2 fnt0">+</text>
+  <text x="551" y="2655"  class="fil2 fnt1">4</text>
+  <text x="416" y="2679"  class="fil2 fnt0">+</text>
+  <rect class="fil3" x="277" width="3083" height="3141"/>
+ </g>
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.1926cm" height="2.4cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 429 323"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:2.26406}
+    .str1 {stroke:red;stroke-width:2.26406}
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+    .fil3 {fill:black;fill-rule:nonzero}
+    .fil2 {fill:red;fill-rule:nonzero}
+    .fnt1 {font-weight:normal;font-size:42.5976px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:42.5976px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(1 0 0 1 -1197.44 -549.366)">
+   <text x="1596" y="871"  class="fil0 fnt0">C</text>
+  </g>
+  <polygon class="fil1 str0" points="373,305 387,41 46,305 "/>
+  <line class="fil1 str1" x1="373" y1="305" x2="238" y2= "157" />
+  <line class="fil1 str0" x1="238" y1="157" x2="381" y2= "157" />
+  <line class="fil1 str1" x1="381" y1="157" x2="327" y2= "88" />
+  <g>
+   <path class="fil2" d="M349 118l-5 -6 2 -1 5 6 -2 1zm9 10l-14 -7 11 -9 3 15z"/>
+  </g>
+  <g>
+   <path class="fil2" d="M295 221l-5 -5 2 -2 5 5 -2 2zm10 9l-15 -5 10 -9 4 15z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M308 158l-7 0 0 -2 7 0 0 2zm14 -1l-14 7 0 -14 14 7z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M236 306l-7 0 0 -2 7 0 0 2zm14 -1l-14 7 0 -14 14 7z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M252 306l-7 0 0 -2 7 0 0 2zm14 -1l-14 7 0 -14 14 7z"/>
+  </g>
+  <g transform="matrix(1 0 0 1 -1221.47 -842.574)">
+   <text x="1596" y="871"  class="fil0 fnt0">A</text>
+  </g>
+  <text x="290" y="79"  class="fil0 fnt0">E</text>
+  <text x="400" y="171"  class="fil0 fnt0">D</text>
+  <text x="192" y="165"  class="fil0 fnt0">F</text>
+  <g transform="matrix(1 0 0 1 -1597.03 -555.358)">
+   <text x="1596" y="871"  class="fil0 fnt0">B</text>
+  </g>
+  <g>
+   <path class="fil3" d="M324 158l-7 0 0 -2 7 0 0 2zm14 -1l-14 7 0 -14 14 7z"/>
+  </g>
+  <text x="336" y="54"  class="fil0 fnt1">2</text>
+  <text x="245" y="117"  class="fil0 fnt1">3</text>
+ </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.64186cm" height="2.33cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 851 751"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str3 {stroke:black;stroke-width:6.43622}
+    .str2 {stroke:black;stroke-width:2.78027}
+    .str0 {stroke:black;stroke-width:9.65433;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke:black;stroke-width:9.65433;stroke-dasharray:30.889473 30.889473}
+    .fil4 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil3 {fill:black}
+    .fil1 {fill:#373435;fill-rule:nonzero}
+    .fil2 {fill:black;fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:115.845px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M685 372c0,144 -117,261 -261,261 -145,0 -262,-117 -262,-261 0,-145 117,-262 262,-262 144,0 261,117 261,262z"/>
+  <line class="fil0 str1" x1="424" y1="35" x2="424" y2= "708" />
+  <path class="fil1 str2" d="M84 367l0 9 -31 0 0 -9 31 0zm61 0l0 9 -30 0 0 -9 30 0zm62 0l0 9 -31 0 0 -9 31 0zm62 0l0 9 -31 0 0 -9 31 0zm62 0l0 9 -31 0 0 -9 31 0zm62 0l0 9 -31 0 0 -9 31 0zm61 0l0 9 -31 0 0 -9 31 0zm62 0l0 9 -31 0 0 -9 31 0zm62 0l0 9 -31 0 0 -9 31 0zm62 0l0 9 -31 0 0 -9 31 0zm61 0l0 9 -30 0 0 -9 30 0zm62 0l0 9 -31 0 0 -9 31 0zm31 9l0 0 0 -9 0 0 0 9z"/>
+  <path class="fil2 str2" d="M177 372c0,8 -7,15 -15,15 -9,0 -15,-7 -15,-15 0,-9 6,-16 15,-16 8,0 15,7 15,16z"/>
+  <path class="fil2 str2" d="M700 372c0,8 -6,15 -15,15 -8,0 -15,-7 -15,-15 0,-9 7,-16 15,-16 9,0 15,7 15,16z"/>
+  <path class="fil1" d="M439 110c0,8 -7,15 -15,15 -9,0 -16,-7 -16,-15 0,-9 7,-15 16,-15 8,0 15,6 15,15z"/>
+  <path class="fil0 str3" d="M710 347c17,-39 13,-79 -13,-118"/>
+  <polygon class="fil2" points="715,230 697,234 688,249 679,208 "/>
+  <text x="51" y="493"  class="fil3 fnt0">B</text>
+  <text x="738" y="346"  class="fil3 fnt0">A</text>
+  <rect class="fil4" width="851" height="751"/>
+ </g>
+</svg>

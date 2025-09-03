@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.5181cm" height="2.2cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 305 191"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:1.49004}
+    .str1 {stroke:red;stroke-width:1.49004}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:28.0347px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:28.0347px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="196" y1="31" x2="31" y2= "157" />
+  <polyline class="fil0 str0" points="31,157 294,157 196,31 "/>
+  <line class="fil0 str1" x1="138" y1="75" x2="123" y2= "157" />
+  <text x="152" y="43"  class="fil1 fnt0">a</text>
+  <text x="144" y="129"  class="fil1 fnt0">b</text>
+  <path class="fil0 str0" d="M206 44c-9,3 -17,3 -25,-2"/>
+  <g transform="matrix(1 0 0 1 -1759.27 229.181)">
+   <text x="1759" y="-67"  class="fil1 fnt0">A</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1644.5 256.13)">
+   <text x="1759" y="-67"  class="fil1 fnt0">F</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1473.28 257.883)">
+   <text x="1759" y="-67"  class="fil1 fnt0">B</text>
+  </g>
+  <g transform="matrix(1 0 0 1 -1572.84 86.1682)">
+   <text x="1759" y="-67"  class="fil1 fnt0">C</text>
+  </g>
+  <text x="121" y="66"  class="fil1 fnt0">E</text>
+  <text x="49" y="107"  class="fil1 fnt1">24</text>
+  <text x="53" y="187"  class="fil1 fnt1">18</text>
+  <path class="fil0 str0" d="M126 141c-10,1 -17,7 -22,16"/>
+  <text x="192" y="186"  class="fil1 fnt1">30</text>
+  <text x="274" y="106"  class="fil1 fnt1">24</text>
+ </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.62814cm" height="3.5cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 6268 6047"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str3 {stroke:black;stroke-width:28.4638}
+    .str2 {stroke:red;stroke-width:35.2274}
+    .str1 {stroke:black;stroke-width:31.0706}
+    .str0 {stroke:black;stroke-width:31.7575;stroke-dasharray:190.492363 126.994909}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:497.094px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:497.094px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="920,1403 1719,1403 1719,4806 "/>
+  <line class="fil0 str1" x1="930" y1="581" x2="930" y2= "5987" />
+  <line class="fil0 str1" x1="5546" y1="4806" x2="639" y2= "4806" />
+  <g transform="matrix(0.999994 0 0 0.999994 2649.57 913.882)">
+   <text x="-1814" y="-500"  class="fil1 fnt0">x</text>
+  </g>
+  <g transform="matrix(0.999994 0 0 0.999994 7544.15 5394.41)">
+   <text x="-1814" y="-500"  class="fil1 fnt0">t</text>
+  </g>
+  <text x="200" y="1438"  class="fil1 fnt1">18</text>
+  <line class="fil0 str1" x1="978" y1="2958" x2="886" y2= "2958" />
+  <line class="fil0 str1" x1="978" y1="1403" x2="886" y2= "1403" />
+  <text x="200" y="2993"  class="fil1 fnt1">10</text>
+  <text x="1553" y="5179"  class="fil1 fnt1">4</text>
+  <path class="fil0 str2" d="M932 2958c143,-703 428,-1555 787,-1555 975,-18 2049,1892 2903,3801"/>
+  <circle class="fil1 str3" cx="4420" cy="4806" r="62"/>
+  <rect class="fil0" width="6268" height="6047"/>
+ </g>
+</svg>

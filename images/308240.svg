@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.79677cm" height="3.82057cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1102 1109"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#EC268F;stroke-width:10.2368}
+    .str1 {stroke:#373435;stroke-width:5.11842}
+    .str0 {stroke:#373435;stroke-width:2.21102}
+    .fil5 {fill:none}
+    .fil1 {fill:none;fill-rule:nonzero}
+    .fil4 {fill:black}
+    .fil0 {fill:#373435;fill-rule:nonzero}
+    .fil2 {fill:#EC268F;fill-rule:nonzero}
+    .fil3 {fill:#EC268F;fill-rule:nonzero}
+    .fnt1 {font-weight:normal;font-size:92.1257px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:92.1257px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M421 913c0,0 7,-1 19,0 11,1 26,5 40,13 3,2 6,4 9,7 3,2 5,5 8,8 3,2 4,5 6,8 3,2 4,5 5,8 2,2 3,4 4,7 1,2 1,4 2,5 1,3 2,5 2,5 0,0 -1,-2 -3,-4 -1,-2 -2,-3 -3,-5 -1,-2 -3,-4 -5,-7 -1,-2 -3,-4 -5,-7 -2,-2 -4,-4 -7,-7 -3,-2 -5,-5 -8,-7 -3,-2 -6,-4 -9,-6 -6,-4 -13,-7 -19,-9 -3,-1 -6,-3 -9,-3 -3,-1 -6,-2 -9,-3 -11,-2 -18,-3 -18,-3z"/>
+  <path class="fil1 str1" d="M841 185l-53 0 0 -53m-2 845l0 -53 53 0"/>
+  <line class="fil1 str2" x1="808" y1="977" x2="463" y2= "977" />
+  <polygon class="fil2" points="794,958 802,977 794,996 839,977 "/>
+  <line class="fil1 str2" x1="445" y1="953" x2="97" y2= "489" />
+  <polygon class="fil2" points="451,930 441,948 421,953 463,977 "/>
+  <line class="fil1 str2" x1="839" y1="133" x2="396" y2= "133" />
+  <polygon class="fil3" points="411,114 402,133 411,152 366,133 "/>
+  <line class="fil1 str2" x1="839" y1="977" x2="839" y2= "163" />
+  <polygon class="fil3" points="858,178 839,170 820,178 839,133 "/>
+  <text x="360" y="92"  class="fil4 fnt0">E</text>
+  <text x="864" y="135"  class="fil4 fnt0">D</text>
+  <text x="866" y="1018"  class="fil4 fnt0">C</text>
+  <text x="434" y="1080"  class="fil4 fnt0">B</text>
+  <text x="24" y="529"  class="fil4 fnt0">A</text>
+  <text x="144" y="780"  class="fil4 fnt0">km</text>
+  <text x="28" y="771"  class="fil4 fnt1">10</text>
+  <text x="624" y="1080"  class="fil4 fnt0">km</text>
+  <text x="566" y="1071"  class="fil4 fnt1">4</text>
+  <text x="966" y="587"  class="fil4 fnt0">km</text>
+  <text x="854" y="578"  class="fil4 fnt1">11</text>
+  <text x="450" y="877"  class="fil4 fnt1">127</text>
+  <text x="605" y="834"  class="fil4 fnt1">0</text>
+  <text x="586" y="92"  class="fil4 fnt0">km</text>
+  <text x="522" y="83"  class="fil4 fnt1">6</text>
+  <rect class="fil5" width="1102" height="1109"/>
+ </g>
+</svg>

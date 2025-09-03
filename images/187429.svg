@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.81428cm" height="2.1cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8131 4476"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:38.0677}
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+    .fnt0 {font-weight:normal;font-size:685.175px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="5668" y="629"  class="fil0 fnt0">B</text>
+  <text x="1966" y="639"  class="fil0 fnt0">A</text>
+  <text x="156" y="4280"  class="fil0 fnt0">D</text>
+  <text x="7518" y="4344"  class="fil0 fnt0">C</text>
+  <polyline class="fil1 str0" points="2354,764 624,3760 4084,3760 7543,3760 5814,764 "/>
+  <polyline class="fil1 str0" points="5814,764 2354,764 7543,3760 "/>
+  <rect class="fil1" width="8131" height="4476"/>
+ </g>
+</svg>

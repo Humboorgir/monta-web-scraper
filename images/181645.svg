@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.0455cm" height="2.3cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1930 1098"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:9.7998}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:156.786px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="1676,895 214,895 691,210 1676,895 "/>
+  <text x="629" y="140"  class="fil1 fnt0">A</text>
+  <text x="54" y="947"  class="fil1 fnt0">B</text>
+  <text x="1769" y="948"  class="fil1 fnt0">C</text>
+  <text x="1195" y="498"  class="fil1 fnt0">Hˊ</text>
+  <text x="927" y="1067"  class="fil1 fnt0">D</text>
+  <line class="fil0 str0" x1="691" y1="210" x2="691" y2= "895" />
+  <line class="fil0 str0" x1="945" y1="895" x2="453" y2= "553" />
+  <line class="fil0 str0" x1="945" y1="895" x2="1183" y2= "553" />
+  <rect class="fil0 str0" transform="matrix(-0.571406 0.820667 -0.820667 -0.571406 1183.47 552.563)" width="40.4714" height="46.8824"/>
+  <text x="259" y="528"  class="fil1 fnt0">Hˊˊ</text>
+  <rect class="fil0 str0" x="691" y="854" width="47.4879" height="41.0269"/>
+  <rect class="fil0 str0" transform="matrix(-0.571618 0.82052 -0.82052 -0.571618 526.621 544.96)" width="48.5435" height="56.3766"/>
+  <text x="629" y="1067"  class="fil1 fnt0">H</text>
+  <line class="fil0 str0" x1="691" y1="210" x2="945" y2= "895" />
+  <rect class="fil0" width="1930" height="1098"/>
+ </g>
+</svg>

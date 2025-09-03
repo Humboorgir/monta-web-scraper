@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5cm" height="3.04521cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3033 1847"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:10.7005}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:normal;font-size:192.596px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="219,1658 2818,1658 1114,248 "/>
+  <line class="fil0 str0" x1="618" y1="1029" x2="2058" y2= "1029" />
+  <line class="fil0 str0" x1="1688" y1="723" x2="411" y2= "1355" />
+  <g transform="matrix(0.999999 0 0 1 3554.1 1871.39)">
+   <text x="-2500" y="-1659"  class="fil1 fnt0">A</text>
+  </g>
+  <g transform="matrix(0.999999 0 0 1 2881.19 2688.01)">
+   <text x="-2500" y="-1659"  class="fil1 fnt0">M</text>
+  </g>
+  <g transform="matrix(0.999999 0 0 1 3513.91 2869)">
+   <text x="-2500" y="-1659"  class="fil1 fnt0">O</text>
+  </g>
+  <g transform="matrix(0.999999 0 0 1 2764.6 3013.83)">
+   <text x="-2500" y="-1659"  class="fil1 fnt0">F</text>
+  </g>
+  <g transform="matrix(0.999999 0 0 1 2557.53 3446.63)">
+   <text x="-2500" y="-1659"  class="fil1 fnt0">B</text>
+  </g>
+  <g transform="matrix(0.999999 0 0 1 5346.01 3446.63)">
+   <text x="-2500" y="-1659"  class="fil1 fnt0">C</text>
+  </g>
+  <g transform="matrix(0.999999 0 0 1 4702.2 2746.31)">
+   <text x="-2500" y="-1659"  class="fil1 fnt0">N</text>
+  </g>
+  <g transform="matrix(0.999999 0 0 1 4230.35 2361.23)">
+   <text x="-2500" y="-1659"  class="fil1 fnt0">E</text>
+  </g>
+  <rect class="fil0" width="3033" height="1847"/>
+ </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.33022cm" height="1.33cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1398 430"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:5.9195}
+    .fil1 {fill:none}
+    .fil2 {fill:black}
+    .fil0 {fill:black;fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:106.544px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:106.544px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <path class="fil0" d="M1250 250l-1231 0 0 -6 1231 0 0 6zm42 -3l-50 22 0 -2 1 -1 1 -1 0 -2 1 -1 0 -2 0 -1 1 -1 0 -2 0 -1 1 -1 0 -2 0 -1 0 -1 0 -2 0 -1 0 -1 0 -2 0 -1 0 -1 0 -2 -1 -1 0 -2 0 -1 -1 -1 0 -2 0 -1 -1 -1 0 -2 -1 -1 -1 -1 0 -2 0 0 50 22z"/>
+  </g>
+  <line class="fil1 str0" x1="937" y1="218" x2="937" y2= "276" />
+  <line class="fil1 str0" x1="386" y1="218" x2="386" y2= "276" />
+  <line class="fil1 str0" x1="120" y1="218" x2="120" y2= "276" />
+  <g>
+   <path class="fil0" d="M386 178l51 -22 0 0 -1 2 -1 1 0 1 -1 2 0 1 -1 1 0 2 0 1 -1 2 0 1 0 1 0 2 -1 1 0 1 0 2 0 1 0 1 0 2 0 1 1 1 0 2 0 1 0 1 1 2 0 1 0 2 1 1 0 1 1 2 0 1 1 1 1 2 -51 -22zm514 3l-472 0 0 -6 472 0 0 6zm42 -3l-51 22 1 -2 0 -1 1 -1 0 -2 1 -1 0 -1 1 -2 0 -1 0 -2 1 -1 0 -1 0 -2 0 -1 0 -1 0 -2 0 -1 0 -1 0 -2 0 -1 0 -1 0 -2 0 -1 -1 -1 0 -2 0 -1 -1 -2 0 -1 -1 -1 0 -2 -1 -1 0 -1 -1 -2 0 0 51 22z"/>
+  </g>
+  <text x="520" y="104"  class="fil2 fnt0">160</text>
+  <text x="709" y="109"  class="fil2 fnt1">m</text>
+  <text x="348" y="388"  class="fil2 fnt1">A</text>
+  <text x="904" y="387"  class="fil2 fnt1">B</text>
+  <text x="82" y="403"  class="fil2 fnt1">O</text>
+  <text x="1317" y="271"  class="fil2 fnt1">x</text>
+  <rect class="fil1" width="1398" height="430"/>
+ </g>
+</svg>

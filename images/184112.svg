@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.82439cm" height="2.8cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 817 598"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:red;stroke-width:3.98694}
+    .str1 {stroke:black;stroke-width:3.88991}
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+    .fnt1 {font-weight:normal;font-size:62.2342px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:62.2342px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(0.999994 0 0 0.999994 -1224.06 -2218.7)">
+   <text x="1912" y="2729"  class="fil0 fnt0">t</text>
+  </g>
+  <g transform="matrix(0.999994 0 0 0.999994 -1198.91 -2222)">
+   <text x="1912" y="2729"  class="fil0 fnt0">(</text>
+  </g>
+  <g transform="matrix(-0.999994 -0 0 0.999994 2698.82 -2222)">
+   <text x="1912" y="2729"  class="fil0 fnt0">(</text>
+  </g>
+  <g transform="matrix(0.999994 0 0 0.999994 -1175.17 -2223.06)">
+   <text x="1912" y="2729"  class="fil0 fnt0">s</text>
+  </g>
+  <g transform="matrix(0.999994 0 0 0.999994 -1856.34 -2650.29)">
+   <text x="1912" y="2729"  class="fil0 fnt0">v</text>
+  </g>
+  <g transform="matrix(0.999994 0 0 0.999994 -1816.86 -2649.56)">
+   <text x="1912" y="2729"  class="fil0 fnt0">(</text>
+  </g>
+  <g transform="matrix(-0.999994 -0 0 0.999994 2167 -2649.56)">
+   <text x="1912" y="2729"  class="fil0 fnt0">(</text>
+  </g>
+  <g transform="matrix(0.999994 0 0 0.999994 -1706.76 -2650.62)">
+   <text x="1912" y="2729"  class="fil0 fnt0">s</text>
+  </g>
+  <g transform="matrix(0.999994 0 0 0.999994 -1789.89 -2650.21)">
+   <text x="1912" y="2729"  class="fil0 fnt0">m</text>
+  </g>
+  <line class="fil1 str0" x1="112" y1="290" x2="521" y2= "500" />
+  <g transform="matrix(0.999994 0 0 0.999994 -1886.12 -2438.29)">
+   <text x="1912" y="2729"  class="fil0 fnt1">10</text>
+  </g>
+  <g transform="matrix(0.999994 0 0 0.999994 -1423.76 -2181.57)">
+   <text x="1912" y="2729"  class="fil0 fnt1">15</text>
+  </g>
+  <polyline class="fil1 str1" points="670,502 112,502 112,105 "/>
+  <g transform="matrix(0.999994 0 0 0.999994 -1729.03 -2643.34)">
+   <text x="1912" y="2729"  class="fil0 fnt0">/</text>
+  </g>
+  <rect class="fil1" width="817" height="598"/>
+ </g>
+</svg>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.79918cm" height="2.8cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 987 576"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:3.68134}
+    .str2 {stroke:red;stroke-width:3.68134}
+    .str1 {stroke:black;stroke-width:3.68134;stroke-dasharray:18.406681 11.044008}
+    .fil2 {fill:none}
+    .fil1 {fill:black}
+    .fil0 {fill:black;fill-rule:nonzero}
+    .fnt2 {font-weight:normal;font-size:60.6046px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:69.2631px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:69.2631px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <path class="fil0" d="M807 421l-693 0 0 -4 693 0 0 4zm22 -2l-23 11 0 -23 23 11z"/>
+  </g>
+  <g>
+   <path class="fil0" d="M114 94l11 23 -23 0 11 -23zm-2 482l0 -460 4 0 0 460 -4 0z"/>
+  </g>
+  <text x="100" y="74"  class="fil1 fnt0">a</text>
+  <text x="844" y="436"  class="fil1 fnt0">t</text>
+  <text x="52" y="186"  class="fil1 fnt1">4</text>
+  <text x="147" y="74"  class="fil1 fnt0">(</text>
+  <text x="190" y="41"  class="fil1 fnt0">m</text>
+  <g transform="matrix(-1 -0 0 1 2690.69 -774.416)">
+   <text x="2400" y="849"  class="fil1 fnt0">(</text>
+  </g>
+  <text x="882" y="435"  class="fil1 fnt0">(</text>
+  <text x="913" y="435"  class="fil1 fnt0">s</text>
+  <g transform="matrix(-1 -0 0 1 3373.15 -413.738)">
+   <text x="2400" y="849"  class="fil1 fnt0">(</text>
+  </g>
+  <line class="fil2" x1="0" y1="512" x2="0" y2= "557" />
+  <line class="fil2" x1="179" y1="0" x2="221" y2= "0" />
+  <text x="197" y="123"  class="fil1 fnt0">s</text>
+  <line class="fil2 str0" x1="184" y1="58" x2="253" y2= "58" />
+  <text x="224" y="105"  class="fil1 fnt1">2</text>
+  <polyline class="fil2 str1" points="114,173 298,173 298,419 "/>
+  <line class="fil2 str2" x1="114" y1="297" x2="298" y2= "297" />
+  <line class="fil2 str2" x1="298" y1="173" x2="392" y2= "173" />
+  <polyline class="fil2 str1" points="392,173 392,540 114,540 "/>
+  <line class="fil2 str2" x1="392" y1="540" x2="757" y2= "540" />
+  <line class="fil2 str1" x1="757" y1="540" x2="757" y2= "419" />
+  <text x="256" y="483"  class="fil1 fnt1">10</text>
+  <text x="408" y="483"  class="fil1 fnt1">15</text>
+  <text x="656" y="484"  class="fil1 fnt1">35</text>
+  <text x="52" y="307"  class="fil1 fnt1">2</text>
+  <text x="52" y="429"  class="fil1 fnt1">0</text>
+  <text x="51" y="550"  class="fil1 fnt1">2</text>
+  <text x="10" y="550"  class="fil1 fnt2">-</text>
+  <line class="fil2" x1="987" y1="397" x2="987" y2= "442" />
+ </g>
+</svg>

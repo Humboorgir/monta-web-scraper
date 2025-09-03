@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.51416cm" height="3.9cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 347 538"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:2.44012}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:39.0392px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:39.0392px;font-family:'Times New Roman'}
+    .fnt2 {font-weight:normal;font-size:43.9195px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="94,254 292,532 343,6 4,344 310,344 "/>
+  <path class="fil0 str0" d="M76 272c9,14 19,15 30,0"/>
+  <text x="80" y="310"  class="fil1 fnt0">α</text>
+  <path class="fil0 str0" d="M29 319c9,4 14,12 11,25"/>
+  <text x="47" y="331"  class="fil1 fnt0">β</text>
+  <text x="70" y="378"  class="fil1 fnt1">2</text>
+  <text x="135" y="288"  class="fil1 fnt1">1</text>
+  <text x="233" y="378"  class="fil1 fnt1">2</text>
+  <text x="185" y="455"  class="fil1 fnt1">4</text>
+  <path class="fil0 str0" d="M297 52c4,22 17,29 39,21"/>
+  <text x="291" y="110"  class="fil1 fnt2">γ</text>
+  <rect class="fil0" width="347" height="538"/>
+ </g>
+</svg>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="4.48942cm" height="3.45cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2268 1743"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:red;stroke-width:10.3192}
+    .str2 {stroke:black;stroke-width:7.73942}
+    .str0 {stroke:black;stroke-width:7.73942}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fil2 {fill:black}
+    .fnt0 {font-weight:normal;font-size:145.615px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:145.615px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="1843,1577 376,1577 376,288 "/>
+  <line class="fil0 str1" x1="376" y1="1577" x2="1724" y2= "384" />
+  <polyline class="fil0 str2" points="678,1577 678,1306 376,1306 "/>
+  <polyline class="fil0 str2" points="985,1577 985,1036 376,1036 "/>
+  <polyline class="fil0 str2" points="1284,1577 1284,769 376,769 "/>
+  <g transform="matrix(0.999997 0 0 0.999997 -1617.85 2235.76)">
+   <text x="2245" y="-562"  class="fil1 fnt0">1</text>
+  </g>
+  <g transform="matrix(0.999997 0 0 0.999997 -1316.87 2242.86)">
+   <text x="2245" y="-562"  class="fil1 fnt0">2</text>
+  </g>
+  <g transform="matrix(0.999997 0 0 0.999997 -998.485 2239.82)">
+   <text x="2245" y="-562"  class="fil1 fnt0">3</text>
+  </g>
+  <g transform="matrix(0.999997 0 0 0.999997 -1990.33 1894.47)">
+   <text x="2245" y="-562"  class="fil1 fnt0">5</text>
+  </g>
+  <g transform="matrix(0.999997 0 0 0.999997 -2072.51 1632.04)">
+   <text x="2245" y="-562"  class="fil1 fnt0">10</text>
+  </g>
+  <g transform="matrix(0.999997 0 0 0.999997 -2084.76 1364.37)">
+   <text x="2245" y="-562"  class="fil1 fnt0">15</text>
+  </g>
+  <circle class="fil2 str2" cx="678" cy="1310" r="26"/>
+  <circle class="fil2 str2" cx="985" cy="1038" r="26"/>
+  <circle class="fil2 str2" cx="1292" cy="767" r="26"/>
+  <g transform="matrix(0.999995 0 0 0.999995 -1654.88 1798.17)">
+   <text x="2245" y="-562"  class="fil1 fnt1">A</text>
+  </g>
+  <g transform="matrix(0.999995 0 0 0.999995 -1332.02 1528.12)">
+   <text x="2245" y="-562"  class="fil1 fnt1">B</text>
+  </g>
+  <g transform="matrix(0.999995 0 0 0.999995 -1034.48 1238.97)">
+   <text x="2245" y="-562"  class="fil1 fnt1">C</text>
+  </g>
+  <g transform="matrix(0.999995 0 0 0.999995 -2000.02 2234.73)">
+   <text x="2245" y="-562"  class="fil1 fnt1">O</text>
+  </g>
+  <line class="fil0" x1="210" y1="0" x2="448" y2= "0" />
+  <line class="fil0" x1="0" y1="896" x2="0" y2= "1127" />
+  <line class="fil0" x1="239" y1="199" x2="477" y2= "199" />
+  <g transform="matrix(0.999995 0 0 0.999995 -2015.61 761.762)">
+   <text x="2245" y="-562"  class="fil1 fnt1">x</text>
+  </g>
+  <g transform="matrix(0.999995 0 0 0.999995 -1823.18 761.762)">
+   <text x="2245" y="-562"  class="fil1 fnt1">m</text>
+  </g>
+  <text x="351" y="202"  class="fil1 fnt1">(</text>
+  <g transform="matrix(-1 -0 0 1 2880.52 764.938)">
+   <text x="2245" y="-562"  class="fil1 fnt1">(</text>
+  </g>
+  <line class="fil0" x1="2030" y1="1698" x2="2268" y2= "1698" />
+  <g transform="matrix(0.999995 0 0 0.999995 -313.222 2155.41)">
+   <text x="2245" y="-562"  class="fil1 fnt1">t</text>
+  </g>
+  <g transform="matrix(0.999995 0 0 0.999995 -169.449 2150.25)">
+   <text x="2245" y="-562"  class="fil1 fnt1">s</text>
+  </g>
+  <text x="2002" y="1591"  class="fil1 fnt1">(</text>
+  <g transform="matrix(-1 -0 0 1 4437.77 2153.43)">
+   <text x="2245" y="-562"  class="fil1 fnt1">(</text>
+  </g>
+  <line class="fil0" x1="229" y1="1743" x2="467" y2= "1743" />
+  <line class="fil0" x1="2259" y1="1485" x2="2259" y2= "1275" />
+ </g>
+</svg>
