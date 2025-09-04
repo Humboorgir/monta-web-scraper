@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.70685cm" height="3.55cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 831.2 1090.11"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:5.87;stroke-miterlimit:2.61313}
+    .str0 {stroke:red;stroke-width:5.87;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+    .fil2 {fill:black}
+    .fil3 {fill:black}
+    .fil1 {fill:black;fill-rule:nonzero}
+    .fnt1 {font-weight:normal;font-size:105.41px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:105.41px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M148.45 175.81c2.26,162.27 -7.87,285.39 161.32,297.07 116.06,8.03 144.3,27.73 177.34,127.82 97.27,294.7 130.75,443.65 130.75,443.65"/>
+  <g>
+   <path class="fil1" d="M712.5 684.84l-675.89 0 0 -5.87 675.89 0 0 5.87zm41.6 -2.93l-50.21 21.47 0.65 -1.34 0.61 -1.34 0.57 -1.34 0.53 -1.34 0.49 -1.34 0.44 -1.34 0.4 -1.34 0.36 -1.34 0.32 -1.34 0.27 -1.34 0.23 -1.34 0.19 -1.34 0.15 -1.34 0.1 -1.34 0.06 -1.34 0.02 -1.34 -0.02 -1.34 -0.06 -1.34 -0.1 -1.34 -0.15 -1.34 -0.19 -1.34 -0.23 -1.34 -0.27 -1.34 -0.32 -1.34 -0.36 -1.34 -0.4 -1.34 -0.44 -1.34 -0.49 -1.34 -0.53 -1.34 -0.57 -1.34 -0.61 -1.34 -0.65 -1.34 0 0 50.21 21.47z"/>
+  </g>
+  <g>
+   <path class="fil1" d="M335.4 176.55l0 870.05 -5.87 0 0 -870.05 5.87 0zm-2.93 -41.6l21.47 50.21 -1.34 -0.65 -1.34 -0.61 -1.34 -0.57 -1.34 -0.53 -1.34 -0.49 -1.34 -0.44 -1.34 -0.4 -1.34 -0.36 -1.34 -0.32 -1.34 -0.27 -1.34 -0.23 -1.34 -0.19 -1.34 -0.15 -1.34 -0.1 -1.34 -0.06 -1.34 -0.02 -1.34 0.02 -1.34 0.06 -1.34 0.1 -1.34 0.15 -1.34 0.19 -1.34 0.23 -1.34 0.27 -1.34 0.32 -1.34 0.36 -1.34 0.4 -1.34 0.44 -1.34 0.49 -1.34 0.53 -1.34 0.57 -1.34 0.61 -1.34 0.65 0 0 21.47 -50.21z"/>
+  </g>
+  <g transform="matrix(0.999998 0 0 0.999998 -905.355 2392.89)">
+   <text x="1353.43" y="-1922.24"  class="fil2 fnt0">f</text>
+  </g>
+  <circle class="fil3 str1" cx="332.47" cy="474.72" r="14.26"/>
+  <g transform="matrix(0.999998 0 0 0.999998 -1099.65 2357.1)">
+   <text x="1353.43" y="-1922.24"  class="fil2 fnt1">4</text>
+  </g>
+  <g transform="matrix(0.999998 0 0 0.999998 -903.303 2680.44)">
+   <text x="1353.43" y="-1922.24"  class="fil2 fnt1">4</text>
+  </g>
+  <g transform="matrix(0.999998 0 0 0.999998 -586.074 2630.08)">
+   <text x="1353.43" y="-1922.24"  class="fil2 fnt0">x</text>
+  </g>
+  <g transform="matrix(0.999998 0 0 0.999998 -1044.78 2011.58)">
+   <text x="1353.43" y="-1922.24"  class="fil2 fnt0">y</text>
+  </g>
+  <rect class="fil0" x="-0" y="0" width="831.2" height="1090.11"/>
+ </g>
+</svg>

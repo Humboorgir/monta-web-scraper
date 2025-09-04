@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="39.3331mm" height="16.3098mm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 17880.5 7414.3"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:80.2;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fil2 {fill:white}
+    .fnt1 {font-weight:normal;font-size:1443.3px;font-family:'Arial'}
+    .fnt2 {font-weight:normal;font-size:1443.3px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:1443.3px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="541.3" y1="2769.7" x2="17200.2" y2= "2769.7" />
+  <line class="fil0 str0" x1="4160.8" y1="1161.4" x2="4160.8" y2= "6137.9" />
+  <line class="fil0 str0" x1="8485.7" y1="2737.6" x2="8485.7" y2= "6138" />
+  <line class="fil0 str0" x1="13529.8" y1="2737.6" x2="13529.8" y2= "6153" />
+  <text x="5733.9" y="5125.6"  class="fil1 fnt0">+</text>
+  <g transform="matrix(2 0 0 1 -28720.7 53364.5)">
+   <text x="19666.6" y="-48231.1"  class="fil1 fnt1">-</text>
+  </g>
+  <text x="15003.3" y="5125.6"  class="fil1 fnt0">+</text>
+  <circle class="fil2 str0" cx="8485.7" cy="4437.8" r="227.3"/>
+  <circle class="fil2 str0" cx="13529.8" cy="4445.3" r="227.3"/>
+  <text x="1864.3" y="2235.2"  class="fil1 fnt0">x</text>
+  <text x="8646" y="2141.3"  class="fil1 fnt2">3</text>
+  <rect class="fil0" x="-0" y="-0" width="17880.5" height="7414.3"/>
+  <text x="1706.4" y="4777.6"  class="fil1 fnt0">A</text>
+  <text x="7524.9" y="2097.3"  class="fil1 fnt2">-</text>
+  <text x="12167.2" y="2235.2"  class="fil1 fnt0">a</text>
+  <text x="14186.1" y="2141.3"  class="fil1 fnt2">2</text>
+  <text x="13123.2" y="2097.3"  class="fil1 fnt2">-</text>
+ </g>
+</svg>

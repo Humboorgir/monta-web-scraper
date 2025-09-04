@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.32984cm" height="1.2cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 710.72 256.13"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:5.1;stroke-miterlimit:2.61313}
+    .str0 {stroke:#B3B3B3;stroke-width:5.1;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt1 {font-weight:normal;font-size:81.51px;font-family:'B Yekan'}
+    .fnt0 {font-weight:normal;font-size:81.51px;font-family:'Times New Roman'}
+    .fnt2 {font-weight:normal;font-size:81.52px;font-family:'B Nazanin'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="329.58,96.9 329.58,197.68 329.58,223.55 329.58,252.14 "/>
+  <line class="fil0 str1" x1="-0" y1="96.9" x2="710.72" y2= "96.9" />
+  <line class="fil0 str1" x1="169.58" y1="0" x2="169.58" y2= "247.47" />
+  <text x="63.65" y="68.89"  class="fil1 fnt0">x</text>
+  <text x="17.96" y="199.24"  class="fil1 fnt0">p(x)</text>
+  <text x="285.24" y="64.3"  class="fil1 fnt1">-1</text>
+  <text x="453.96" y="170.26"  class="fil1 fnt1">0</text>
+  <text x="584.4" y="64.34"  class="fil1 fnt1">2</text>
+  <path class="fil0 str0" d="M477.31 96.9l0 45.15m0 31.57l0 22.89 0 25.57 0 28.26"/>
+  <text x="221.57" y="177.12"  class="fil1 fnt1">+</text>
+  <text x="334.43" y="248.75"  class="fil1 fnt2">ت</text>
+  <text x="278.51" y="235.42"  class="fil1 fnt2">ن</text>
+  <text x="375.84" y="177.12"  class="fil1 fnt1">+</text>
+  <g transform="matrix(1.90266 0 0 1 3736.18 355.506)">
+   <text x="-1692.07" y="-178.78"  class="fil1 fnt0">-</text>
+  </g>
+  <path class="fil0 str0" d="M607.68 96.9l0 43.08m0 34.12l0 77.2"/>
+  <text x="583.59" y="170.26"  class="fil1 fnt1">0</text>
+  <g transform="matrix(1.90266 0 0 1 3859.27 355.506)">
+   <text x="-1692.07" y="-178.78"  class="fil1 fnt0">-</text>
+  </g>
+  <text x="453.96" y="62.26"  class="fil1 fnt1">0</text>
+ </g>
+</svg>

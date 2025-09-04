@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.2cm" height="1.86469cm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 361 211"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:red;stroke-width:2.72186}
+    .str1 {stroke:black;stroke-width:2.72186;stroke-dasharray:13.609300 8.165580}
+    .fil1 {fill:none}
+    .fil2 {fill:black}
+    .fil0 {fill:black;fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:32.0073px;font-family:'Times New Roman'}
+    .fnt2 {font-weight:normal;font-size:33.2865px;font-family:'B Yekan'}
+    .fnt3 {font-weight:normal;font-size:35.2082px;font-family:'Times New Roman'}
+    .fnt4 {font-weight:normal;font-size:38.4073px;font-family:'Times New Roman'}
+    .fnt1 {font-weight:normal;font-size:38.4091px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <path class="fil0" d="M325 122l-311 0 0 -3 311 0 0 3zm17 -1l-17 8 0 -17 17 9z"/>
+  </g>
+  <g>
+   <path class="fil0" d="M173 49l0 162 -3 0 0 -162 3 0zm-1 -16l8 17 -17 0 9 -17z"/>
+  </g>
+  <polyline class="fil1 str0" points="173,121 123,168 32,78 "/>
+  <polyline class="fil1 str0" points="172,121 222,168 313,78 "/>
+  <line class="fil1 str1" x1="123" y1="168" x2="222" y2= "168" />
+  <line class="fil1 str1" x1="222" y1="168" x2="222" y2= "121" />
+  <line class="fil1 str1" x1="123" y1="168" x2="123" y2= "121" />
+  <text x="346" y="127"  class="fil2 fnt0">x</text>
+  <text x="159" y="29"  class="fil2 fnt1">y</text>
+  <text x="94" y="108"  class="fil2 fnt2">-1</text>
+  <text x="213" y="109"  class="fil2 fnt2">1</text>
+  <text x="266" y="148"  class="fil2 fnt2">2</text>
+  <text x="178" y="195"  class="fil2 fnt2">-1</text>
+  <text x="41" y="149"  class="fil2 fnt2">-2</text>
+  <text x="0" y="60"  class="fil2 fnt3">y</text>
+  <text x="19" y="68"  class="fil2 fnt4">=</text>
+  <text x="45" y="59"  class="fil2 fnt0">f</text>
+  <text x="63" y="60"  class="fil2 fnt0">(x)</text>
+  <rect class="fil1" x="149" width="32.6478" height="4.80136"/>
+ </g>
+</svg>

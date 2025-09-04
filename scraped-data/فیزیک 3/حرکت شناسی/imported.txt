@@ -1,0 +1,1 @@
+This file's presence in the folder indicates that the questions were successfully imported to the database.

@@ -1,0 +1,394 @@
+[
+  {
+    "id": 606304,
+    "question": "جدول تعیین علامت عبارت $\\displaystyle  p(x)=(2a-3)x^{2}+(b-2)x+4c-1 $ به‌صورت روبه‌رو است، اگر $\\displaystyle  b $ عددی طبیعی باشد، مقدار $\\displaystyle  abc $ کدام است؟   ‌",
+    "options": [
+      "$\\displaystyle -\\dfrac{9}{2} $",
+      "$\\displaystyle \\dfrac{9}{2} $",
+      "$\\displaystyle \\dfrac{9}{4} $",
+      "$\\displaystyle -\\dfrac{9}{4} $"
+    ],
+    "correctAnswer": 2,
+    "explanation": "‌‌با توجه به جدول می‌توان تشخیص داد که عبارت $\\displaystyle  p(x) $ باید از درجه اول باشد (زیرا فقط دارای یک ریشه است و علامت عبارت در طرفین ریشه عوض می‌شود.) پس الزاماً $\\displaystyle 2a-3=0 $ یعنی $\\displaystyle  a=\\frac{3}{2} $ از طرفی چون باید به ازای مقادیر کوچک‌تر از ریشه، علامت عبارت مخالف علامت ضریب $\\displaystyle  x $ باشد، پس باید $\\displaystyle  b-2&lt;0 $ باشد که چون $\\displaystyle  b $ طبیعی است فقط می‌تواند برابر $\\displaystyle  1 $ باشد، یعنی $\\displaystyle  b=1 $، پس عبارت به شکل کلی $\\displaystyle p(x)=-x+4c-1&nbsp; $ خواهد بود و چون $\\displaystyle  x=5 $ ریشۀ عبارت است، پس باید $\\displaystyle  p(5)=0 $ باشد، یعنی داریم: ‌$\\displaystyle p(5)=-5+4c-1=0  $ $\\displaystyle \\Rightarrow 4c=6 $ $\\displaystyle \\Rightarrow c=\\frac{3}{2} $ $\\displaystyle \\Rightarrow abc=\\frac{3}{2}\\times 1\\times \\frac{3}{2} = \\frac{9}{4} $",
+    "difficulty": "medium",
+    "attachedImageUrl": "/images/703796.svg"
+  },
+  {
+    "id": 315285,
+    "question": " اگر جدول تعیین علامت عبارت $\\displaystyle A=(x-1)((4-a)x+b)$ به‌صورت زیر باشد، آنگاه حاصل $\\displaystyle a+b$ کدام است؟   $\\displaystyle (a\\in \\mathbb{Z})$",
+    "options": [
+      "$\\displaystyle 1 $",
+      "$\\displaystyle 3 $",
+      "$\\displaystyle 5 $",
+      "$\\displaystyle 7 $"
+    ],
+    "correctAnswer": -1,
+    "explanation": "با توجه به جدول تعیین علامت داریم:$\\displaystyle 1 $‌) $\\displaystyle (a-1)$ ریشۀ عبارت است و از $\\displaystyle x=1$ بزرگ‌تر است، بنابراین:   $\\displaystyle (I)=a-1&gt;1\\Rightarrow a&gt;2$$\\displaystyle 2 $) ضریب $\\displaystyle (x-1)((4-a)x+b)=(4-a){{x}^{2}}+bx-(4-a)x-b\\Rightarrow 4-a :{{x}^{2}}$با توجه به جدول و اینکه عبارت بین دو ریشه تغییر علامت می‌دهد و علامتش مخالف ضریب $\\displaystyle {{x}^{2}}$ است. بنابراین ضریب $\\displaystyle {{x}^{2}}$ مثبت است یعنی $\\displaystyle (II)=4-a&gt;0\\Rightarrow a&lt;4$  $\\displaystyle I\\cap II=2&lt;a&lt;4\\xrightarrow{a\\in \\mathbb{Z}}a=3$  $\\displaystyle \\Rightarrow A=(x-1)(x+b)=0\\Rightarrow \\left\\{ \\begin{array}{ll}<br>&nbsp;&nbsp; x-1=0\\Rightarrow x=1&nbsp; \\\\<br>&nbsp;&nbsp; x+b=0\\Rightarrow x=-b&nbsp; \\\\<br>\\end{array} \\right.$با توجه به جدول تعیین علامت، ریشه‌های معادله $\\displaystyle 1,a-1$ است، بنابراین:  $\\displaystyle -b=a-1=3-1=2\\Rightarrow b=-2$  $\\displaystyle a+b=3-2=1$",
+    "difficulty": "hard",
+    "attachedImageUrl": "/images/120855.svg"
+  },
+  {
+    "id": 606564,
+    "question": "شکل مقابل نمودار تابع $\\displaystyle  y=f(x) $ است. در مجموعۀ جواب نامعادلۀ $\\displaystyle \\dfrac{(3x^{2}-x^{3})f(x)}{(x+2)^{3}}\\leq 0 $ چند عدد صحیح وجود دارد؟   ",
+    "options": [
+      "$\\displaystyle  7 $",
+      "$\\displaystyle  4 $",
+      "$\\displaystyle  5 $",
+      "$\\displaystyle  6 $"
+    ],
+    "correctAnswer": 3,
+    "explanation": "برای تعیین مجموعۀ جواب نامعادله کافی است عبارت داده‌شده را تعیین علامت کنیم:  $\\displaystyle \\dfrac{(3x^{2}-x^{3})f(x)}{(x+2)^{3}} \\leq 0 $ $\\displaystyle \\Rightarrow \\frac{x^{2}(3-x)f(x)}{(x+2)^{3}}\\leq 0 $‌‌‌طبق جدول، مجموعۀ جواب نامعادله به‌صورت $\\displaystyle [3,6]\\cup \\left\\{\\begin{array}{cc} -5,0&nbsp; \\end{array} \\right\\} $ است، بنابراین اعداد صحیح $\\displaystyle  -5 $ و $\\displaystyle  0 $ و $\\displaystyle  3 $ و $\\displaystyle  4 $ و $\\displaystyle  5 $ و $\\displaystyle  6 $ در مجموعۀ جواب نامعادله وجود دارند که تعداد آن‌ها برابر $\\displaystyle  6 $ است. ",
+    "difficulty": "hard",
+    "attachedImageUrl": "/images/543170.svg"
+  },
+  {
+    "id": 421549,
+    "question": "مجموعۀ جواب نامعادلۀ $\\displaystyle  xf(x)-x^{2} &lt; 0$ به کدام صورت است؟",
+    "options": [
+      "$\\displaystyle (-\\infty,0)\n $",
+      "$\\displaystyle (0,2) $",
+      "$\\displaystyle (2,+\\infty)\n $",
+      "$\\displaystyle (-\\infty,0)\\cup(2,+\\infty) $"
+    ],
+    "correctAnswer": 2,
+    "explanation": "$\\displaystyle xf(x)-x^{2} &lt; 0\\Rightarrow x(f(x)-x) &lt; 0$‌مطابق شکل در فاصلۀ $\\displaystyle  (0,2)$ تابع $\\displaystyle  y=f(x)$ بالای خط $\\displaystyle  y=x$ قرار دارد یعنی $\\displaystyle  f(x)-x &gt; 0$ و در فاصلۀ $\\displaystyle  (-\\infty,0)\\cup(2,+\\infty)$ پایین خط $\\displaystyle  y=x$ قرار دارد یعنی $\\displaystyle  f(x)-x &lt; 0$ می شود.‌$\\displaystyle <br>\\begin{array}{c|cc}<br>&amp;-\\infty&amp;&amp;0&amp;&amp;2&amp;&amp;+\\infty\\\\ \\hline <br>x&amp;&amp;-&amp;0&amp;+&amp;&amp;+&amp;\\\\ \\hline <br>f(x)-x&amp;&amp;-&amp;0&amp;+&amp;0&amp;-&amp;\\\\ \\hline <br>x(f(x)-x)&amp;&amp;+&amp;0&amp;+&amp;0&amp;-&amp;<br>\\end{array}\\Rightarrow x\\in(2,+\\infty)$",
+    "difficulty": "medium",
+    "attachedImageUrl": "/images/180321.svg"
+  },
+  {
+    "id": 144354,
+    "question": "اگر جدول تعیین علامت عبارت $\\displaystyle y=(2a+b)x-6a-3b$ مطابق به شکل زیر باشد، آنگاه کدام عبارت صحیح است؟",
+    "options": [
+      "$\\displaystyle  a=3,b&gt;-6$",
+      "$\\displaystyle  a=-3,b&gt;-6$",
+      "$\\displaystyle  a=-3,b&lt;-6$",
+      "$\\displaystyle a=3,b&lt;-6 $"
+    ],
+    "correctAnswer": -1,
+    "explanation": "باتوجه به جدول می‌بینیم که در $\\displaystyle x=a$، $\\displaystyle y=0$ می‌شود. پس داریم:$\\displaystyle (2a+b)a-6a-3b=0\\Rightarrow (2a+b)a=6a+3b\\\\$$\\displaystyle \\Rightarrow a(2a+b)=3(2a+b)\\xrightarrow{\\div(2a+b)} a=3$از طرفی ضریب $\\displaystyle x $ باید مثبت باشد تا جدول فوق را تشکیل دهد، بنابراین:$\\displaystyle 2a+b&gt;0\\Rightarrow 6+b&gt;0\\Rightarrow b&gt;-6$",
+    "difficulty": "medium",
+    "attachedImageUrl": "/images/75069.svg"
+  },
+  {
+    "id": 154285,
+    "question": "اگر برای تعیین علامت $\\displaystyle p(x) $ و $\\displaystyle q(x) $ به‌ترتیب از راست به چپ جداول زیر رسم شده باشد، آنگاه $\\displaystyle m\\times n $ کدام است؟ $\\displaystyle (a,c&gt;0\\,,\\,q(x)=c{{x}^{2}}+bx+a\\,\\,,\\,p(x)=a{{x}^{2}}+bx+c)\\\\$  ",
+    "options": [
+      "$\\displaystyle \\dfrac{2}{3}$",
+      "$\\displaystyle \\dfrac{3}{2}$",
+      "$\\displaystyle 6 $",
+      "$\\displaystyle \\dfrac{1}{6}$"
+    ],
+    "correctAnswer": 1,
+    "explanation": "$\\displaystyle \\boxed{\\begin{matrix}\\text{.با‌هم عوض شود، ریشه‌ها معکوس می‌شوند}\\end{matrix}\\,c\\begin{matrix}\\text{و}\\end{matrix}a\\begin{matrix}\\text{اگر جای}\\end{matrix}a{{x}^{2}}+bx+c=0\\begin{matrix}\\text{در معادلۀ درجۀ دوم}\\end{matrix}\\;\\;\\;\\;\\;\\,}\\\\  $در نتیجه ریشه‌های دو معادله $\\displaystyle q(x)=0\\,,\\,p(x)=0$ معکوس یکدیگرند. یعنی: $\\displaystyle \\left. \\left\\{ \\begin{array}{ll}<br>&nbsp; &amp; 2=\\frac{1}{m}\\Rightarrow m=\\frac{1}{2} \\\\ <br>&nbsp;&amp; \\frac{1}{3}=\\frac{1}{n}\\Rightarrow n=3 \\\\ <br>\\end{array} \\right. \\right\\}\\Rightarrow m\\times n=\\frac{1}{2}\\times 3=\\frac{3}{2}$",
+    "difficulty": "hard",
+    "attachedImageUrl": "/images/76242.svg"
+  },
+  {
+    "id": 436174,
+    "question": "اگر جدول تعیین علامت عبارت $\\displaystyle  P(x)=\\dfrac{bx(x-a)^{2}}{ax^{2}+bx+c}$ به صورت زیر باشد، آنگاه مجموعۀ مقادیر ممکن برای $\\displaystyle  b$ کدام است؟ ",
+    "options": [
+      "$\\displaystyle \\{\\;\\;\\} $",
+      "$\\displaystyle \\{4\\} $",
+      "$\\displaystyle \\{-4\\} $",
+      "$\\displaystyle \\{4,-4\\} $"
+    ],
+    "correctAnswer": -1,
+    "explanation": "می دانیم:  $\\displaystyle <br>\\boxed{\\;\\;<br>\\begin{array}{rr}<br>\\begin{matrix}\\text{.تابع در اطراف ریشه های ساده و مکرّر مرتبۀ فرد، تغییر علامت می دهد}\\end{matrix}\\\\<br>\\begin{matrix}\\text{.و در اطراف ریشه های مضاعف و مکرّر مرتبۀ زوج، تغییر علامت نمی دهد}\\end{matrix}<br>\\end{array}<br>\\;\\;\\;}\\\\\\;$ از جدول تعیین علامت چنین برداشت می شود که $\\displaystyle 0 $ و $\\displaystyle  2$ ریشه های صورت کسر و $\\displaystyle  -1$ ریشۀ مضاعف مخرج کسر $\\displaystyle  P(x)$ باشد، درنتیجه $\\displaystyle  \\Delta$ در مخرج کسر صفر است، پس:‌‌$\\displaystyle  <br>\\left\\{<br>\\begin{array}{ll}<br>a=2\\\\<br>a-b+c=0\\\\<br>\\Delta=b^{2}-4ac=0<br>\\end{array}<br>\\right.<br>\\Rightarrow<br>\\left\\{<br>\\begin{array}{ll}<br>c=b-2\\;(I)\\\\<br>b^{2}-8c=0<br>\\end{array}<br>\\right.<br>\\Rightarrow b^{2}-8b+16=0\\Rightarrow (b-4)^{2}=0$$\\displaystyle  \\Rightarrow b=4\\xrightarrow{(I)}c=2$$\\displaystyle \\Rightarrow P(x)=\\dfrac{4x(x-2)^{2}}{2(x+1)^{2}}$‌درنتیجه به ازای $\\displaystyle  x&gt;0$، حاصل عبارت مثبت و به ازای $\\displaystyle  x&lt;0$، حاصل عبارت منفی است، پس علامت $\\displaystyle  P(x)$ به دست آمده مغایر با علامت های مندرج در جدول تعیین علامت است. پس مقداری برای $\\displaystyle  b$ وجود ندارد.",
+    "difficulty": "hard",
+    "attachedImageUrl": "/images/191933.svg"
+  },
+  {
+    "id": 154193,
+    "question": "شکل زیر نمودار تابع $\\displaystyle y=f(x) $ می‌باشد، عبارت $\\displaystyle A=\\frac{xf(x)(2{{x}^{2}}+1)}{(3-x)|x+2|}$ در بازۀ $\\displaystyle (0,a) $ همواره مثبت است. بیش‌ترین مقدار $\\displaystyle a $ کدام است؟",
+    "options": [
+      "$\\displaystyle 2 $",
+      "$\\displaystyle 3 $",
+      "$\\displaystyle 4 $",
+      "$\\displaystyle 5 $"
+    ],
+    "correctAnswer": 1,
+    "explanation": "طبق نمودار، تابع $\\displaystyle f $ در بازۀ $\\displaystyle (-\\infty ,4)$ مثبت و در بازۀ $\\displaystyle (4,+\\infty )$ منفی است. ریشه‌های سایر عوامل را به‌دست می‌آوریم و جدول را رسم می‌کنیم:ریشه ندارد. $\\displaystyle x=0\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\;\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,2{{x}^{2}}+1=0\\Rightarrow {{x}^{2}}=-\\frac{1}{2}$$\\displaystyle 3-x=0\\Rightarrow x=3\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,|x+2|=0\\Rightarrow x+2=0\\Rightarrow x=-2\\\\$$\\displaystyle \\left. \\begin{array}{ll}<br>&nbsp; &amp; \\begin{matrix}\\text{پاسخ مسأله}\\end{matrix}=(0,3) \\\\ <br>&nbsp;&amp; \\begin{matrix}\\text{فرض}\\end{matrix}=(0,a) \\\\ <br>\\end{array} \\right\\}\\Rightarrow a=3$",
+    "difficulty": "hard",
+    "attachedImageUrl": "/images/201196.svg"
+  },
+  {
+    "id": 622465,
+    "question": "جدول تعیین علامت عبارت $\\displaystyle p=\\frac{-x(x-a)^{2}}{ax^{2}+bx+c} $ به‌صورت زیر است. چند مقدار برای $\\displaystyle  b $ وجود دارد؟   ",
+    "options": [
+      "صفر",
+      "$\\displaystyle  1 $",
+      "$\\displaystyle  2 $",
+      "$\\displaystyle  3 $"
+    ],
+    "correctAnswer": -1,
+    "explanation": "با توجه به جدول تعیین علامت، چون در $\\displaystyle x=4&nbsp; $ عبارت $\\displaystyle  p $ تغییر علامت نداده و مقدار $\\displaystyle  p $ برابر صفر است، پس $\\displaystyle  x=4 $ ریشۀ مضاعف صورت کسر است. ‌$\\displaystyle (x-a)^{2}=(x-4)^{2} $ $\\displaystyle \\Rightarrow a=4 $ $\\displaystyle \\Rightarrow p=\\frac{-x(x-4)^{2}}{4x^{2}+bx+c} $‌عبارت $\\displaystyle p $ در $\\displaystyle x=-\\frac{1}{2} $ تعریف نشده و در این نقطه تغییر علامت نداده است، پس $\\displaystyle x=-\\frac{1}{2}&nbsp; $ ریشۀ مضاعف مخرج است. ‌$\\displaystyle  4x^{2}+bx+c=4(x+\\frac{1}{2})^{2}=4(x^{2}+x+\\frac{1}{4}) $‌$\\displaystyle 4x^{2}+bx+c=4x^{2}+4x+1 $ $\\displaystyle \\Rightarrow \\left\\{\\begin{array}{ll} b=4 \\\\ c=1 \\end{array}\\right. $‌توجه کنید که تعیین علامت عبارت $\\displaystyle  p=\\frac{-x(x-4)^{2}}{(2x+1)^{2}}$ با جدول داده شده مطابقت ندارد. بنابراین هیچ مقداری برای $\\displaystyle a $، $\\displaystyle  b $ و $\\displaystyle c $ وجود ندارد. ",
+    "difficulty": "hard",
+    "attachedImageUrl": "/images/591046.svg"
+  },
+  {
+    "id": 299527,
+    "question": "با توجه به نمودار $\\displaystyle y=ax-b$ که در زیر رسم شده است، عبارت $\\displaystyle P(x)=\\frac{(ax+b)(2x+3)}{(-x+2)}$ در کدام بازه‌ قطعاً مثبت است؟  \n",
+    "options": [
+      "$\\displaystyle (0,2)$",
+      "$\\displaystyle (-\\frac{3}{2},1)$",
+      "$\\displaystyle (4,\\frac{11}{2})$",
+      "$\\displaystyle (-2,-\\frac{3}{2})$"
+    ],
+    "correctAnswer": 3,
+    "explanation": "  $\\displaystyle y=ax-b\\Rightarrow \\left\\{ \\begin{array}{ll}<br>&nbsp;&nbsp; \\xrightarrow{(0,3)}3=0\\times x-b\\Rightarrow b=-3&nbsp; \\\\<br>&nbsp;&nbsp; \\xrightarrow{(-1,0)}0=-a-b\\xrightarrow{b=-3}a=3&nbsp; \\\\<br>\\end{array} \\right.\\\\\\\\$$\\displaystyle P(x)=\\frac{(ax+b)(2x+3)}{(-x+2)}=\\frac{(3x-3)(2x+3)}{(-x+2)}\\\\\\\\$$\\displaystyle \\left\\{ \\begin{array}{ll}<br>&nbsp;&nbsp; 3x-3=0\\Rightarrow x=1&nbsp; \\\\<br>&nbsp;&nbsp; 2x+3=0\\Rightarrow x=\\frac{-3}{2}&nbsp; \\\\<br>&nbsp;&nbsp; -x+2=0\\Rightarrow x=2&nbsp; \\\\<br>\\end{array} \\right.\\\\\\\\$   $\\displaystyle \\Rightarrow x\\in (-\\infty ,-\\frac{3}{2})\\cup (1,2)$ تنها گزینه‌ای که در بازۀ بالا قرار دارد گزینۀ $\\displaystyle 4 $ است.",
+    "difficulty": "hard",
+    "attachedImageUrl": "/images/113875.svg"
+  },
+  {
+    "id": 436151,
+    "question": "جدول تعیین علامت کدام یک از چندجمله ای های زیر به صورت زیر می باشد؟  ",
+    "options": [
+      "$\\displaystyle y=x^{2}+x-2\n $",
+      "$\\displaystyle y=x^{2}-x+2 $",
+      "$\\displaystyle y=x^{3}+3x^{2}-4 $",
+      "$\\displaystyle y=x^{3}-3x^{2}+4 $"
+    ],
+    "correctAnswer": 2,
+    "explanation": "می دانیم:  $\\displaystyle  <br>\\boxed{\\;\\;<br>\\begin{array}{rr}<br>\\begin{matrix}\\text{.تابع در اطراف ریشه های ساده و مکرّر مرتبۀ فرد، تغییر علامت می دهد}\\end{matrix}\\\\<br>\\begin{matrix}\\text{.و در اطراف ریشه های مضاعف و مکرّر مرتبۀ زوج، تغییر علامت نمی دهد}\\end{matrix}<br>\\end{array}<br>\\;\\;\\;}\\\\\\;$‌‌بنابراین $\\displaystyle x=-2$ ریشۀ مضاعف و $\\displaystyle  x=1$ ریشۀ ساده است و داریم:‌$\\displaystyle  y=(x+2)^{2}(x-1)=(x^{2}+4x+4)(x-1)=x^{3}+4x^{2}+4x-x^{2}-4x-4\\\\\\;$‌‌$\\displaystyle  \\Rightarrow y=x^{3}+3x^{2}-4$",
+    "difficulty": "hard",
+    "attachedImageUrl": "/images/192710.svg"
+  },
+  {
+    "id": 147297,
+    "question": "با‌توجه به نمودار زیر که مربوط به تابع $\\displaystyle y=a{{x}^{2}}+bx+c$ است، جواب نامعادلۀ $\\displaystyle \\dfrac{x}{a{{x}^{2}}+bx+c}\\ge 0$ کدام است؟",
+    "options": [
+      "$\\displaystyle (-3,0]\\cup (2,+\\infty )$",
+      "$\\displaystyle (-3,0)\\cup [2,+\\infty )$",
+      "$\\displaystyle (-3,2)-\\{0\\}$",
+      "$\\displaystyle (-\\infty ,-3)\\cup (2,+\\infty )\\cup \\{0\\}$"
+    ],
+    "correctAnswer": -1,
+    "explanation": "$\\displaystyle \\dfrac{x}{a{{x}^{2}}+bx+c}\\ge 0\\Rightarrow \\begin{cases}<br>&nbsp;&nbsp; x=0&nbsp; \\\\<br>&nbsp;&nbsp; a{{x}^{2}}+bx+c=0\\xrightarrow{\\text{نمودار}} \\begin{cases}<br>&nbsp;&nbsp; x=2&nbsp; \\\\<br>&nbsp;&nbsp; x=-3&nbsp; \\\\<br>\\end{cases} &nbsp; &nbsp; \\\\<br>\\end{cases}&nbsp; $و نمودار $\\displaystyle y $ بین این دو ریشه، در زیر محور $\\displaystyle x $ها قرار دارد؛ پس علامت عرض‌های آن منفی است.اکنون جدول تعیین‌علامت را تشکیل می‌دهیم:پس مجموعۀ جواب عبارتست از:  $\\displaystyle (-3,0]\\cup (2,+\\infty )$",
+    "difficulty": "hard",
+    "attachedImageUrl": "/images/71209.svg"
+  },
+  {
+    "id": 205490,
+    "question": "اگر مجموعۀ جواب نامعادلۀ $\\displaystyle |2x+b|&gt;c$ به‌صورت زیر باشد، در این صورت حال $\\displaystyle 2c-b $ کدام است؟ ",
+    "options": [
+      "$\\displaystyle 6 $",
+      "$\\displaystyle 8 $",
+      "$\\displaystyle -6 $",
+      "$\\displaystyle -8 $"
+    ],
+    "correctAnswer": 1,
+    "explanation": "$\\displaystyle\\boxed{ |x|&gt;a\\Rightarrow x&gt;a\\;\\begin{matrix}\\text{یا}\\end{matrix}\\; x&lt;-a \\;\\;}$ابتدا نامعادله را حل می‌کنیم: $\\displaystyle |2x+b|&gt;c\\to \\left\\{ \\begin{array}{ll}<br>&nbsp;&nbsp; 2x+b&gt;c\\to 2x&gt;c-b\\to x&gt;\\dfrac{c-b}{2} \\\\&nbsp; \\text{یا}\\\\<br>&nbsp; 2x+b&lt;-c\\to 2x&lt;-b-c\\to x&lt;\\dfrac{-b-c}{2} \\\\ <br>\\end{array} \\right.$پاسخ را با آن‌چه که روی محور نشان داده شده مقایسه می‌کنیم:$\\displaystyle \\left\\{ \\begin{array}{ll}<br>&nbsp;&nbsp; x&gt;0.5\\to \\dfrac{c-b}{2}=0.5 \\\\ <br>&nbsp; x&lt;-6.5\\to \\dfrac{-b-c}{2}=-6.5 \\\\ <br>\\end{array} \\right.\\to \\left\\{ \\begin{array}{ll}<br>&nbsp;&nbsp; c-b=1 \\\\<br>\\\\ <br>&nbsp; \\underline{-b-c=-13} \\\\ \\end{array} \\right.\\\\<br>&nbsp;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\; \\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\; \\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\; -2b=-12\\to \\left\\{ \\begin{array}{ll}<br>&nbsp;&nbsp; b=6 \\\\ <br>&nbsp; c=7 \\\\&nbsp; <br>\\end{array} \\right.\\\\$$\\displaystyle 2c-b=2\\times 7-6=8$ :خواستۀ مسئله",
+    "difficulty": "medium",
+    "attachedImageUrl": "/images/74802.svg"
+  },
+  {
+    "id": 622431,
+    "question": "  جدول تعیین علامت عبارت $\\displaystyle p=x^{3}+ax^{2}+5x+b $ به‌صورت زیر است. حاصل $\\displaystyle  a\\cdot b $ کدام است؟ ",
+    "options": [
+      "$\\displaystyle  -8 $",
+      "$\\displaystyle  6 $",
+      "$\\displaystyle  -6 $",
+      "$\\displaystyle  8 $"
+    ],
+    "correctAnswer": 3,
+    "explanation": "با توجه به جدول تعیین علامت، $\\displaystyle  x=-2 $ ریشۀ ساده و $\\displaystyle  x=-1 $ ریشۀ مضاعف عبارت $\\displaystyle  p $ است، پس عبارت $\\displaystyle  p $ به‌‌صورت زیر است. ‌‌$\\displaystyle  p=(x+2)(x+1)^{2}=(x+2)(x^{2}+2x+1)=x^{3}+2x^{2}+x+2x^{2}+4x+2 $‌$\\displaystyle  p=x^{3}+4x^{2}+5x+2=x^{3}+ax^{2}+5x+b $‌بنابراین؛ $\\displaystyle  b=2 \\; , \\; a=4 $ و داریم: $\\displaystyle  a\\cdot b=2\\times 4=8 $",
+    "difficulty": "medium",
+    "attachedImageUrl": "/images/735727.svg"
+  },
+  {
+    "id": 622425,
+    "question": "  جدول تعیین علامت کدام عبارت زیر به‌صورت مقابل است؟ ",
+    "options": [
+      "$\\displaystyle  p=x^{3}-3x^{2}+4 $",
+      "$\\displaystyle  p=x^{2}+x-6 $",
+      "$\\displaystyle  p=x^{3}-3x-2 $",
+      "$\\displaystyle  p=x^{2}-x+2 $"
+    ],
+    "correctAnswer": -1,
+    "explanation": "طبق جدول، عبارت $\\displaystyle  p $ در $\\displaystyle  x=2 $ تغییر علامت نداده است، پس عبارت $\\displaystyle p $ شامل $\\displaystyle  (x-2)^{2} $ است. همچنین $\\displaystyle  p $ در $\\displaystyle x=-1 $ تغییر علامت داده و برای $\\displaystyle  x&lt;-1 $ علامت $\\displaystyle  p $ منفی و برای $\\displaystyle  x&gt;-1 $ علامت $\\displaystyle  p $ مثبت است، پس عبارت $\\displaystyle  p $ شامل $\\displaystyle  x+1 $ است و داریم:‌$\\displaystyle  p=(x+1)(x-2)^{2}=(x+1)(x^{2}-4x+4)=x^{3}-4x^{2}+4x+x^{2}-4x+4 $‌$\\displaystyle  p=x^{3}-3x^{2}+4 $",
+    "difficulty": "hard",
+    "attachedImageUrl": "/images/735729.svg"
+  },
+  {
+    "id": 599182,
+    "question": "نمودار تابع $\\displaystyle f $ به‌صورت زیر است. اگر نمودار تابع $\\displaystyle  g(x)=\\frac{f(x+1)}{x}$ در بازۀ $\\displaystyle  (a,b)$ پایین محور $\\displaystyle x $ها قرار گیرد، بیشترین مقدار $\\displaystyle  b-a$ کدام است؟ ",
+    "options": [
+      "$\\displaystyle 3 $",
+      "$\\displaystyle 4 $",
+      "$\\displaystyle 2 $",
+      "$\\displaystyle 5 $"
+    ],
+    "correctAnswer": -1,
+    "explanation": "تابع $\\displaystyle  g(x)$ در محدوده‌ای زیر محور $\\displaystyle x $ها قرار دارد که $\\displaystyle  g(x)&lt;0$ باشد، پس باید نامعادلۀ زیر را حل کنیم. برای این کار ابتدا $\\displaystyle  f(x)$ را یک واحد به چپ انتقال می‌دهیم تا نمودار $\\displaystyle  f(x+1)$ به‌دست آید. ‌$\\displaystyle \\dfrac{f(x+1)}{x}&lt;0 $$\\displaystyle  \\begin{array}{c|cc}x&amp;-\\infty&amp;&amp;-6&amp;&amp;-3&amp;&amp;0&amp;&amp;3&amp;&amp;+\\infty\\\\ \\hline f(x+1)&amp;&amp;-&amp;0&amp;-&amp;0&amp;+&amp;&amp;+&amp;0&amp;+\\\\ \\hline x&amp;&amp;-&amp;&amp;-&amp;&amp;-&amp;0&amp;+&amp;&amp;+&amp;\\\\ \\hline \\dfrac{f(x+1)}{x}&amp;&amp;+&amp;0&amp;+&amp;0&amp;-&amp;\\text{ت ن}&amp;+&amp;0&amp;+&amp;\\end{array}$‌ طبق جدول در بازۀ $\\displaystyle  (-3,0)$ تابع $\\displaystyle  g(x)$ زیر محور $\\displaystyle x $ها یعنی منفی است و چون در بازۀ $\\displaystyle  (a,b)$ بیشترین مقدار $\\displaystyle  b-a$ را می‌خواهیم، $\\displaystyle  b=0\\;,\\;a=-3$ است..‌$\\displaystyle  b-a=0-(-3)=3$",
+    "difficulty": "hard",
+    "attachedImageUrl": "/images/524505.svg"
+  },
+  {
+    "id": 320928,
+    "question": "  اگر جدول تعیین علامت عبارت $\\displaystyle A=2{{x}^{3}}-a{{x}^{2}}+b$ به شکل زیر باشد، $\\displaystyle a+b$ کدام است؟",
+    "options": [
+      "$\\displaystyle 10 $",
+      "$\\displaystyle 14 $",
+      "$\\displaystyle -10 $",
+      "$\\displaystyle -14 $"
+    ],
+    "correctAnswer": 3,
+    "explanation": "می‌دانیم: $\\displaystyle  \\boxed{\\;\\text{ریشه‌های هر معادله در خود معادله صدق می‌کند}\\;}$ با توجه به جدول تعیین علامت، ریشه‌های معادله $\\displaystyle x=-2$ و $\\displaystyle x=1$ هستند. با جایگذاری ریشه‌ها در معادله داریم:  $\\displaystyle \\begin{array}{ll}<br>&nbsp;&nbsp; \\left\\{ \\begin{array}{ll}<br>&nbsp;&nbsp; -16-4a+b=0&nbsp; \\\\<br>&nbsp;&nbsp; 2-a+b=0&nbsp; \\\\<br>\\end{array}\\Rightarrow \\underline{\\left\\{ \\begin{array}{ll}<br>&nbsp;&nbsp; -4a+b=16&nbsp; \\\\<br>&nbsp;&nbsp; a-b=2&nbsp; \\\\<br>\\end{array} \\right.} \\right. \\\\ <br>&nbsp; \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,-3a=18\\Rightarrow a= -6 \\\\ <br>\\end{array}$$\\displaystyle a-b=2\\xrightarrow{a=-6}-6-b=2\\Rightarrow b=-6-2=-8$  $\\displaystyle a+b=-14$  ",
+    "difficulty": "medium",
+    "attachedImageUrl": "/images/122793.svg"
+  },
+  {
+    "id": 620548,
+    "question": "جدول تعیین علامت عبارت $\\displaystyle A=(x+3)((5-a)x-2)  $ به صورت مقابل است. حاصل $\\displaystyle \\dfrac{1}{a+1}  $ کدام می‌‌‌تواند باشد؟ ",
+    "options": [
+      "$\\displaystyle 0/2 $",
+      "$\\displaystyle 0/5 $",
+      "$\\displaystyle 0/15 $",
+      "$\\displaystyle 0/3 $"
+    ],
+    "correctAnswer": -1,
+    "explanation": "باتوجه به جدول تعیین علامت داده شده، $\\displaystyle a-2 $ ریشۀ عبارت $\\displaystyle A $ است و از $\\displaystyle -3 $ نیز بزرگ‌تر است.‌$\\displaystyle a-2&gt;-3 \\Rightarrow \\boxed{a&gt;-1} \\;\\;\\;\\; \\boxed{1}  $$\\displaystyle A=(x+3)((5-a)x-2)= (5-a)x^{2}-2x+(15-3a)x-6  $‌ضریب $\\displaystyle x^{2} $ برابر $\\displaystyle 5-a  $ است و چون بین دو ریشه علامت منفی است، پس $\\displaystyle 5-a $ باید مثبت باشد.‌$\\displaystyle 5-a&gt;0 \\Rightarrow \\boxed{a&lt;5} \\;\\;\\;\\; \\boxed{2}  $$\\displaystyle \\boxed{1} \\cap \\boxed{2}: -1&lt;a&lt;5 $‌$\\displaystyle x=a-2 $ ریشۀ معادلۀ $\\displaystyle (5-a)x-2=0  $ است.‌$\\displaystyle (5-a)(a-2)-2=0 $ $\\displaystyle \\Rightarrow 5a-10-a^{2}+2a-2=0 $ $\\displaystyle \\Rightarrow a^{2}-7a+12=0 $ $\\displaystyle \\Rightarrow (a-3)(a-4)=0 $ $\\displaystyle \\Rightarrow a=3 \\;\\; , \\;\\; a=4 $‌$\\displaystyle a=3 \\rightarrow \\frac{1}{a+1}=\\frac{1}{3+1}=\\frac{1}{4}=0/25  $$\\displaystyle a=4 \\rightarrow \\frac{1}{a+1}=\\frac{1}{4+1}=\\frac{1}{5}=0/2  $",
+    "difficulty": "hard",
+    "attachedImageUrl": "/images/592046.svg"
+  },
+  {
+    "id": 629540,
+    "question": "اگر نمودار تابع ‌$\\displaystyle  y=f(x)$ به صورت زیر باشد، آن‌گاه عبارت $\\displaystyle  y=f(x)(x^{2}-5x+4)$ در بازۀ $\\displaystyle  (a,b)$ نامنفی است. بیشترین مقدار $\\displaystyle  b-a$ کدام است؟ ",
+    "options": [
+      "$\\displaystyle 4 $",
+      "$\\displaystyle 3 $",
+      "$\\displaystyle 2 $",
+      "$\\displaystyle 1 $"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ابتدا ریشه‌های عبارت را به دست می‌آوریم:‌$\\displaystyle y=0 \\Rightarrow $$\\displaystyle \\left\\{\\begin{array}{ll} f(x)=0 \\Rightarrow x=1,2,3 (\\begin{matrix}{\\text{طبق نمودار}}\\end{matrix}) \\\\ x^{2}-5x+4=0 \\Rightarrow (x-1)(x-4)=0 \\Rightarrow x=1,4 \\end{array} \\right.$‌ریشه‌ها را به صورت صعودی در جدول نوشته فقط توجه داشته باشیم $\\displaystyle  x=1$ و $\\displaystyle  x=3$ ریشه‌های مکرر مرتبۀ زوج (مضاعف) عبارت‌اند. از طرفی با قرار دادن $\\displaystyle  x=0$ در عبارت داریم: $\\displaystyle  y(0)=f(0)(4)$ و چون طبق نمودار $\\displaystyle  f(0)&lt;0$ است. لذا علامت عبارت در محدوده‌ای که شامل $\\displaystyle  x=0$ است، منفی بوده و داریم:‌‌بنابراین عبارت در بازۀ $\\displaystyle  (2,4)$ نامنفی بوده در نتیجه $\\displaystyle  b-a=2$",
+    "difficulty": "medium",
+    "attachedImageUrl": "/images/602728.svg"
+  },
+  {
+    "id": 503448,
+    "question": "خط $\\displaystyle y=ax+b $ در شکل زیر رسم شده است. عبارت $\\displaystyle p(x)=\\frac{ax+b}{bx+a}$ در کدام بازۀ نامنفی است؟ ",
+    "options": [
+      "$\\displaystyle [\\frac{1}{3},3) $",
+      "$\\displaystyle  (\\frac{1}{3},3]$",
+      "$\\displaystyle  [\\frac{1}{2},2)$",
+      "$\\displaystyle  (\\frac{1}{2},2]$"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ابتدا معادلۀ خط گذرنده از دو نقطۀ $\\displaystyle   (2,0)$ و $\\displaystyle   (0,-4)$ را می‌یابیم.‌$\\displaystyle m=\\frac{-4-0}{0-2}=2$$\\displaystyle  \\Rightarrow y-y_{0}=m(x-x_{0})$$\\displaystyle  \\Rightarrow y=0=2(x-2)$$\\displaystyle  \\Rightarrow y=2x-4$‌از آنجایی که بنابر فرض سؤال $\\displaystyle y=ax+b $ است؛ پس $\\displaystyle a=2 $ و $\\displaystyle b=-4 $ است.‌$\\displaystyle p(x)=\\frac{2x-4}{-4x+2}$‌حال $\\displaystyle p(x) $ را تعیین علامت می‌کنیم.‌$\\displaystyle 2x-4=0$$\\displaystyle  \\Rightarrow x=2\\;,\\;-4x+2=0$$\\displaystyle  \\Rightarrow x=\\frac{1}{2}$$\\displaystyle  \\begin{array}{c|cc}x&amp;-\\infty&amp;&amp;\\dfrac{1}{2}&amp;&amp;2&amp;&amp;+\\infty\\\\ \\hline 2x-4&amp;&amp;-&amp;&amp;-&amp;0&amp;+&amp;\\\\ \\hline -4x+2&amp;&amp;+&amp;0&amp;-&amp;&amp;-&amp;\\\\ \\hline p(x)=\\frac{2x-4}{-4x+2}&amp;&amp;-&amp;\\text{ت ن}&amp;+&amp;0&amp;-&amp; \\end{array}$‌با توجه به جدول فوق در بازۀ $\\displaystyle   (\\frac{1}{2},2]$ عبارت $\\displaystyle p(x) $ نامنفی است.",
+    "difficulty": "medium",
+    "attachedImageUrl": "/images/230621.svg"
+  },
+  {
+    "id": 534838,
+    "question": "نمودار تابع $\\displaystyle f(x) $ به صورت مقابل است. مجموعه جواب نامعادلۀ $\\displaystyle (x+1)f(x-1)\\geq 0  $ کدام است؟ ",
+    "options": [
+      "$\\displaystyle (-\\infty , 1 ]  $",
+      "$\\displaystyle [-2 , +\\infty )  $",
+      "$\\displaystyle (-\\infty , -1 ]  $",
+      "$\\displaystyle [-1 , +\\infty )  $"
+    ],
+    "correctAnswer": -1,
+    "explanation": " نمودار $\\displaystyle f(x-1) $ چنین است: $\\displaystyle (x+1)f(x-1)\\geq 0 \\Rightarrow x\\leq 1 $",
+    "difficulty": "hard",
+    "attachedImageUrl": "/images/301633.svg"
+  },
+  {
+    "id": 453714,
+    "question": "نمایش هندسی مجموعۀ جواب نامعادلۀ $\\displaystyle  \\dfrac{x^{2}+x+a}{bx^{2}+2x+b}&gt;0$ به صورت زیر است. حاصل $\\displaystyle  a+b+c$ کدام است؟ ",
+    "options": [
+      "$\\displaystyle 2 $",
+      "$\\displaystyle 6 $",
+      "$\\displaystyle -8 $",
+      "$\\displaystyle -10 $"
+    ],
+    "correctAnswer": 3,
+    "explanation": "از آنجاکه قبل و بعد $\\displaystyle x=1 $، جزء مجموعۀ جواب است، می توان گفت که در $\\displaystyle  x=1$ علامت عبارت $\\displaystyle  \\dfrac{x^{2}+x+a}{bx^{2}+2x+b}$ تغییر نکرده است. پس $\\displaystyle  x=1$ ریشۀ مضاعف صورت یا مخرج است. در صورتی که عبارت $\\displaystyle  x^{2}+x+a$ دارای ریشۀ مضاعف باشد، این ریشه $\\displaystyle  \\dfrac{-1}{2}$ است، لذا $\\displaystyle  x=1$ ریشۀ مضاعف مخرج کسر است.‌$\\displaystyle  \\Rightarrow 2b+2=0\\Rightarrow b=-1$‌نامعادله را به صورت زیر بازنویسی می کنیم.‌$\\displaystyle  \\dfrac{x^{2}+x+a}{-(x-1)^{2}}&gt;0\\Rightarrow \\dfrac{x^{2}+x+a}{(x-1)^{2}}&lt;0$‌$\\displaystyle  x=2$ ریشۀ صورت کسر است و داریم:‌$\\displaystyle  4+2+a=0\\Rightarrow a=-6$‌حال پاسخ نامعادله را به دست می آوریم:‌$\\displaystyle  =(-3,2)-\\{1\\}$ جواب $\\displaystyle  \\dfrac{x^{2}+x-6}{(x-1)^{2}}&lt;0\\Rightarrow\\dfrac{(x-2)(x+3)}{(x-1)^{2}}&lt;0$‌پس $\\displaystyle  c$ هم برابر $\\displaystyle  -3$ است و داریم:‌$\\displaystyle  a+b+c=-6-1-3=-10$",
+    "difficulty": "hard",
+    "attachedImageUrl": "/images/197271.svg"
+  },
+  {
+    "id": 624351,
+    "question": "با توجه به نمودار $\\displaystyle y=f(x) $ جواب نامعادلۀ $\\displaystyle \\dfrac{x-f^{-1}(x)}{f^{2}(x)-f(x)} \\ge 0 $ کدام است؟  ",
+    "options": [
+      "$\\displaystyle  (- \\infty , -1] \\cup \\{ 0,1\\}$",
+      "$\\displaystyle  (- \\infty , -1)$",
+      "$\\displaystyle  (- \\infty , -1]$",
+      "$\\displaystyle [-1 , + \\infty)-\\{0,1\\}$"
+    ],
+    "correctAnswer": 2,
+    "explanation": "‌$\\displaystyle \\dfrac{x-f^{-1}(x)}{f^{2}(x)-f(x)} \\ge 0 $$\\displaystyle \\rightarrow \\frac{x-f^{-1}(x)}{f(x)(f(x)-1)} \\ge 0$‌ معادله خط $\\displaystyle y=x $ است که با قرینۀ $\\displaystyle f(x) $ نسبت به این خط $\\displaystyle f^{-1}(x) $ را می‌یابیم.‌ ",
+    "difficulty": "hard",
+    "attachedImageUrl": "/images/732810.svg"
+  },
+  {
+    "id": 310474,
+    "question": "اگر نتیجۀ جدول تعیین علامت عبارت $\\displaystyle P(x)=\\frac{-2({{x}^{2}}-{{a}^{2}})(x+b)}{{{(3x-c)}^{2}}}$ به‌صورت زیر باشد، $\\displaystyle {{a}^{2}}b-c$ کدام است؟  ",
+    "options": [
+      "$\\displaystyle 3 $",
+      "$\\displaystyle -33 $",
+      "$\\displaystyle -3 $",
+      "$\\displaystyle 33 $"
+    ],
+    "correctAnswer": -1,
+    "explanation": "با توجه به جدول تعیین علامت به‌ازای $\\displaystyle x=5$ عبارت تعریف نشده می‌شود بنابراین $\\displaystyle x=5$ ریشۀ مخرج است.بنابراین:$\\displaystyle {{(3x-c)}^{2}}=0\\Rightarrow 3x-c=0\\xrightarrow{x=5}15-c=0\\Rightarrow c=15$  با توجه به جدول تعیین علامت و اتحاد مزدوج داریم:$\\displaystyle ({{x}^{2}}-{{a}^{2}})=0\\Rightarrow (x-a)(x+a)=0\\Rightarrow \\left\\{ \\begin{array}{ll}<br>&nbsp;&nbsp; x-a=0\\Rightarrow x=a&nbsp; \\\\<br>&nbsp;&nbsp; x+a=0\\Rightarrow x=-a&nbsp; \\\\<br>\\end{array} \\right.$  بنابراین $\\displaystyle ({{x}^{2}}-{{a}^{2}})$ دو ریشۀ برابر و قرینه دارد که با توجه به جدول این دو ریشه $\\displaystyle 3 $ و $\\displaystyle -3$ هستند پس:   $\\displaystyle a=\\pm 3$تنها ریشۀ باقی‌مانده $\\displaystyle x=-2$ است که ریشۀ عبارت $\\displaystyle x+b$ است. بنابراین:$\\displaystyle x+b=0\\Rightarrow x=-b\\Rightarrow -2=-b\\Rightarrow b=2\\\\$  $\\displaystyle {{a}^{2}}b-c=9\\times 2-15=18-15=3$  ",
+    "difficulty": "medium",
+    "attachedImageUrl": "/images/119359.svg"
+  },
+  {
+    "id": 154424,
+    "question": "نمایش مجموعه جواب نامعادلۀ $\\displaystyle \\left| x-2 \\right|&lt;2$ بر روی محور به‌صورت زیر است. اشتراک جواب‌های دو نامعادلۀ $\\displaystyle  |x-2|&lt;b$ و $\\displaystyle  |x-a|&gt;3$ کدام است؟",
+    "options": [
+      "$\\displaystyle [3,6] $",
+      "$\\displaystyle (3,6) $",
+      "$\\displaystyle (-2,3) $",
+      "$\\displaystyle (-3,6) $"
+    ],
+    "correctAnswer": 1,
+    "explanation": "$\\displaystyle \\boxed{ |x|&lt;a\\xrightarrow{a&gt;0}-a&lt;x&lt;a\\;\\;\\,}\\\\$                       $\\displaystyle \\boxed{ |x|&gt;a\\Rightarrow x&gt;a\\;\\begin{matrix}\\text{یا}\\end{matrix}\\;x&lt;-a\\;\\;\\,}$$\\displaystyle |x-2|&lt;2\\Rightarrow -2&lt;x-2&lt;2\\xrightarrow{+2}0&lt;x&lt;4\\Rightarrow &nbsp; \\begin{cases}<br>&nbsp; &nbsp; a=0 \\\\ <br>&nbsp;&nbsp; b=4 \\\\ <br>\\end{cases}\\\\ $حال دو نامعادلۀ $\\displaystyle |x-2|&lt;4$ و $\\displaystyle |x-0|&gt;3$ را حل می‌کنیم و اشتراک جواب‌ها را به‌دست می‌آوریم:$\\displaystyle&nbsp; \\begin{cases}<br>&nbsp; &nbsp; |x-2|&lt;4\\Rightarrow -4&lt;x-2&lt;4\\xrightarrow{+2}-2&lt;x&lt;6\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,(1) \\\\ <br>&nbsp;&nbsp; |x|&gt;3\\Rightarrow \\begin{cases}<br>&nbsp; &nbsp; x&gt;3 \\\\ <br>\\;\\;\\; \\text{یا} \\\\<br>&nbsp;&nbsp; x&lt;-3 \\\\ <br>\\end{cases} \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,(2) \\\\ <br>\\end{cases} \\\\ $ $\\displaystyle =(3,6)$ اشتراک ",
+    "difficulty": "medium",
+    "attachedImageUrl": "/images/74272.svg"
+  },
+  {
+    "id": 623458,
+    "question": "مجموعه جواب نامعادلۀ $\\displaystyle |x-3|&lt;2 $ بر روی محور به‌صورت زیر است. اشتراک جواب‌های دونامعادلۀ $\\displaystyle  |x-3|&lt;b $ و $\\displaystyle  |x-a|&gt;5 $ کدام است؟‌",
+    "options": [
+      "$\\displaystyle  (-4,-2) $",
+      "$\\displaystyle  (6,8) $",
+      "$\\displaystyle  (4,6) $",
+      "$\\displaystyle  (-2,4) $"
+    ],
+    "correctAnswer": 1,
+    "explanation": "$\\displaystyle |x-3|&lt;2 $ $\\displaystyle  \\Rightarrow -2&lt;x-3&lt;2 $ $\\displaystyle  \\xrightarrow{+3} 1&lt;x&lt;5 $‌با توجه به محور داده شده مشخص می‌شود که: $\\displaystyle a=1&nbsp; $ و $\\displaystyle  b=5 $ است. حال نامعادلات زیر را حل کرده و بین آن‌ها اشتراک می‌گیریم. $\\displaystyle  |x-3|&lt;5 $ $\\displaystyle  \\Rightarrow -5&lt;x-3&lt;5 $\n $\\displaystyle  \\xrightarrow{+3}-2&lt;x&lt;8 \\;\\;\\; (1) $ ‌$\\displaystyle |x-1|&gt;5 $ $\\displaystyle \\Rightarrow x-1&lt;-5 \\;\\; \\begin{matrix}\\text{یا}\\end{matrix} \\;\\; x-1&gt;5 $ $\\displaystyle \\Rightarrow x&lt;-4 \\;\\; \\begin{matrix}\\text{یا}\\end{matrix} \\;\\; x&gt;6 \\;\\;\\; (2) $$\\displaystyle  (1)\\cap (2): 6&lt;x&lt;8  \\Rightarrow x\\in (6,8) $",
+    "difficulty": "medium",
+    "attachedImageUrl": "/images/592877.svg"
+  },
+  {
+    "id": 534849,
+    "question": "باتوجه به شکل مقابل، مقدار $\\displaystyle a $ کدام است؟ ‌$\\displaystyle \\;\\;\\;y=\\dfrac{x^{2}+ax+3}{x^{2}+x+2}  $ ",
+    "options": [
+      "$\\displaystyle 1 $",
+      "$\\displaystyle 2 $",
+      "$\\displaystyle \\dfrac{3}{2}  $",
+      "$\\displaystyle \\dfrac{2}{3}  $"
+    ],
+    "correctAnswer": -1,
+    "explanation": "همواره $\\displaystyle y&gt;1 $ است؛ پس:‌$\\displaystyle \\dfrac{x^{2}+ax+3}{x^{2}+x+2}&gt;1 \\Rightarrow x^{2}+ax+3&gt;x^{2}+x+2\\Rightarrow (a-1)x&gt;-1  $‌رابطۀ فوق همواره برقرار است؛ پس باید $\\displaystyle a-1=0 $ یا $\\displaystyle a=1 $ باشد.",
+    "difficulty": "medium",
+    "attachedImageUrl": "/images/301727.svg"
+  },
+  {
+    "id": 99979,
+    "question": "نمودار $\\displaystyle y=f(x) $ به صورت زیر است. مجموعۀ جواب نامعادلۀ $\\displaystyle (x-2)f(x)\\ge 0$ کدام است؟   ",
+    "options": [
+      "$\\displaystyle [-2,+\\infty )$",
+      "$\\displaystyle [-2,2]$",
+      "$\\displaystyle (-\\infty ,-2]$",
+      "$\\displaystyle [0,+\\infty )$"
+    ],
+    "correctAnswer": -1,
+    "explanation": "ابتدا نامعادلۀ $\\displaystyle (x-2)f(x)&gt;0 $ را حل می$\\displaystyle  $کنیم. سپس جواب های معادلۀ $\\displaystyle (x-2)f(x)=0 $ را به مجموعۀ جواب اضافه می کنیم، برای این که نامعادلۀ بالا برقرار باشد، باید با $\\displaystyle \\left\\{ \\begin{matrix}<br>&nbsp; x-2&gt;0 \\\\ <br>&nbsp; f(x)&gt;0 \\\\ <br>\\end{matrix} \\right.$  یا $\\displaystyle \\left\\{ \\begin{matrix}<br>&nbsp; x-2&lt;0 \\\\ <br>&nbsp; f(x)&lt;0 \\\\ <br>\\end{matrix} \\right.$ باشد. باتوجه به نمودار داریم: $\\displaystyle \\left\\{ \\begin{array}{ll}<br>&nbsp; &amp; x-2&gt;0\\Rightarrow x&gt;2 \\\\ <br>&nbsp;&amp; f(x)&gt;0\\Rightarrow x&gt;2\\,\\,\\text{یا}\\,\\,\\,\\,x&lt;-2 \\\\ <br>\\end{array} \\right.\\xrightarrow{\\,}x&gt;2\\,\\,\\,\\,(I)$ $\\displaystyle \\left\\{ \\begin{array}{ll}<br>&nbsp; &amp; x-2&lt;0\\Rightarrow x&lt;2 \\\\ <br>&nbsp;&amp; f(x)&lt;0\\Rightarrow x\\in (-2,2)-\\{0\\} \\\\ <br>\\end{array} \\right.\\xrightarrow{{}}x\\in (-2,2)-\\{0\\}\\,\\,\\,\\,\\,(II)$اجتماع جواب های $\\displaystyle I $ و $\\displaystyle II $ برابر است با $\\displaystyle (-2,+\\infty )-\\{0,2\\}$ . $\\displaystyle (x-2)f(x)=0\\Rightarrow x=\\pm 2\\,\\,\\,,\\,\\,0$در نهایت جواب نامعادله برابر  $\\displaystyle [-2,+\\infty )$ می شود.",
+    "difficulty": "medium",
+    "attachedImageUrl": "/images/34311.svg"
+  }
+]

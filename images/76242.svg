@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="7.46358cm" height="1.68cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2545 573"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:black;stroke-width:5.80952}
+    .str0 {stroke:black;stroke-width:5.80952}
+    .str1 {stroke:red;stroke-width:5.80952}
+    .fil0 {fill:none}
+    .fil2 {fill:black}
+    .fil1 {fill:white}
+    .fnt0 {font-weight:normal;font-size:109.304px;font-family:'B Yekan'}
+    .fnt1 {font-weight:normal;font-size:109.304px;font-family:'Times New Roman'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="1442" y1="282" x2="2545" y2= "282" />
+  <line class="fil0 str0" x1="1721" y1="109" x2="1721" y2= "573" />
+  <line class="fil0 str1" x1="1974" y1="282" x2="1974" y2= "571" />
+  <line class="fil0 str1" x1="2292" y1="284" x2="2292" y2= "573" />
+  <circle class="fil1 str0" cx="2292" cy="405" r="19"/>
+  <g id="_730452784">
+   <line class="fil0 str2" x1="1810" y1="402" x2="1885" y2= "402" />
+   <line class="fil0 str2" x1="1847" y1="364" x2="1847" y2= "439" />
+  </g>
+  <line class="fil0 str2" x1="2090" y1="401" x2="2157" y2= "401" />
+  <g id="_730446736">
+   <line class="fil0 str2" x1="2399" y1="401" x2="2475" y2= "401" />
+   <line class="fil0 str2" x1="2437" y1="363" x2="2437" y2= "438" />
+  </g>
+  <circle class="fil1 str0" cx="1974" cy="406" r="19"/>
+  <text x="1959" y="112"  class="fil2 fnt0">1</text>
+  <text x="1463" y="428"  class="fil2 fnt1">P</text>
+  <g transform="matrix(-1 -0 0 1 5313.43 3107.03)">
+   <text x="3732" y="-2675"  class="fil2 fnt1">)</text>
+  </g>
+  <text x="1655" y="430"  class="fil2 fnt1">)</text>
+  <text x="1596" y="428"  class="fil2 fnt1">x</text>
+  <text x="1604" y="216"  class="fil2 fnt1">x</text>
+  <text x="1966" y="235"  class="fil2 fnt0">3</text>
+  <line class="fil0 str2" x1="1945" y1="150" x2="2041" y2= "150" />
+  <text x="2255" y="228"  class="fil2 fnt1">m</text>
+  <line class="fil0 str0" x1="97" y1="282" x2="1200" y2= "282" />
+  <line class="fil0 str0" x1="376" y1="109" x2="376" y2= "573" />
+  <line class="fil0 str1" x1="629" y1="282" x2="629" y2= "571" />
+  <line class="fil0 str1" x1="947" y1="284" x2="947" y2= "573" />
+  <circle class="fil1 str0" cx="947" cy="405" r="19"/>
+  <g id="_730447184">
+   <line class="fil0 str2" x1="465" y1="402" x2="540" y2= "402" />
+   <line class="fil0 str2" x1="502" y1="364" x2="502" y2= "439" />
+  </g>
+  <line class="fil0 str2" x1="745" y1="401" x2="812" y2= "401" />
+  <g id="_845480240">
+   <line class="fil0 str2" x1="1054" y1="401" x2="1130" y2= "401" />
+   <line class="fil0 str2" x1="1092" y1="363" x2="1092" y2= "438" />
+  </g>
+  <circle class="fil1 str0" cx="629" cy="406" r="19"/>
+  <text x="122" y="428"  class="fil2 fnt1">q</text>
+  <g transform="matrix(-1 -0 0 1 3968.35 3107.03)">
+   <text x="3732" y="-2675"  class="fil2 fnt1">)</text>
+  </g>
+  <text x="314" y="430"  class="fil2 fnt1">)</text>
+  <text x="251" y="428"  class="fil2 fnt1">x</text>
+  <text x="259" y="216"  class="fil2 fnt1">x</text>
+  <text x="922" y="236"  class="fil2 fnt1">n</text>
+  <text x="611" y="233"  class="fil2 fnt0">2</text>
+  <line class="fil0" x1="1812" y1="0" x2="1998" y2= "0" />
+  <line class="fil0" x1="0" y1="240" x2="0" y2= "428" />
+ </g>
+</svg>
